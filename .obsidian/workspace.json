@@ -11,15 +11,10 @@
             "id": "c5f991bc8870999f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Meetings/2025-11-25 AEVO - 2º Checkpoint Internacional.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-25 AEVO - 2º Checkpoint Internacional"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,6 +202,17 @@
   },
   "active": "c5f991bc8870999f",
   "lastOpenFiles": [
+    "README.md",
+    "mcp-obsidian/README.md",
+    "05 - Knowledge/Biancogres/Tech Stack.md",
+    "02 - Projects/Biancogres.md",
+    "CLAUDE.md",
+    "04 - Meetings/2025-11-25 AEVO - 2º Checkpoint Internacional.md",
+    "entrevista-cerebro.skill",
+    "08 - Processes",
+    "Processos",
+    "-",
+    "08",
     "05 - Knowledge/AEVO/AEVO - Riscos, Gaps e Pendências.md.tmp.21042.63a9898cc452",
     "07 - Archive/AEVO/AEVO - Processo de Sandbox (BDR AI).md",
     "07 - Archive/AEVO/AEVO - Playbook de Copy e Cadência.md",
@@ -215,7 +221,6 @@
     "07 - Archive/AEVO",
     "04 - Meetings/2026-02-27 AEVO - 12º Checkpoint.md",
     "03 - Companies/AEVO.md",
-    "02 - Projects/Biancogres.md",
     "02 - Projects/AEVO - Envio de Ideias por WhatsApp (Extension).md",
     "02 - Projects/AEVO - Radar de Fomento (Mini-App).md",
     "02 - Projects/AEVO - Campanha GenAI Apps.md",
@@ -230,18 +235,8 @@
     "01 - People/Gabi Jacobs.md",
     "01 - People/Rafaella (AEVO).md",
     "01 - People/Beatriz Almeida.md",
-    "01 - People/Rafael Nogueira.md",
-    "06 - MOCs/Clientes MOC.md",
-    "01 - People/Gabriel Sad.md",
-    "01 - People/Yasmin Greggio.md",
     "01 - People/Yasmin Greggio.md.tmp.21042.6bc63b4f1db0",
     "01 - People/Rodrigo (AEVO).md.tmp.21042.5d9fd28299bc",
-    "05 - Knowledge/AEVO",
-    "05 - Knowledge/Biancogres",
-    "03 - Companies/Knewin.md.tmp.63594.cb6360332796",
-    "mcp-obsidian/uv.lock",
-    "mcp-obsidian/tests/test_tools.py",
-    "mcp-obsidian/tests/test_stdio.py",
-    "mcp-obsidian/tests/test_server.py"
+    "05 - Knowledge/AEVO"
   ]
 }
