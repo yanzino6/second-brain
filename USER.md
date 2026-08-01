@@ -13,7 +13,8 @@ links: []
 - **Customer Success Managers**: relacionamento com cliente, análise de dados, entrega de resultado.
 
 ## Empresa
-- **smartside.ai** — agentificamos processos empresariais com IA para gerar resultados mensuráveis, e vendemos software AI-driven (SaaS e micro aplicações).
+- **smartside.ai** — IA que gera ROI para grandes empresas, da estratégia à produção. Foco **exclusivo em Enterprise**, sob marca única.
+- Desde jul/2026: **não existe mais o braço operacional Triple AI nem a frente de SaaS / micro aplicações.** Ver [[smartside.ai]].
 
 ## Clientes ativos
 - Ebramed, Knewin, Solvee, Farmácia Alquimia, Farmly, Shopcão, AEVO, Biancogres entre outros.
