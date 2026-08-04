@@ -4,8 +4,8 @@ tags: [projeto, interno, smartside, harness, skills, claude-code, workflow-desen
 status: em-teste
 company: "[[smartside.ai]]"
 owner: "[[Matheus Simões]]"
-links: ["[[smartside.ai]]", "[[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]]", "[[Harness Engineering - Fábrica de Software]]", "[[smartside.ai - Company Brain (Segundo Cérebro)]]"]
-updated: 2026-07-30
+links: ["[[smartside.ai]]", "[[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]]", "[[Harness Engineering - Fábrica de Software]]", "[[smartside.ai - Company Brain (Segundo Cérebro)]]", "[[Stack de Desenvolvimento com IA - Ferramentas e Workflow]]", "[[2026-08-03 Stack de Desenvolvimento com IA (Jonh Alex)]]"]
+updated: 2026-08-03
 ---
 
 # smartside.ai — Workspace de Desenvolvimento (Harness)
@@ -65,10 +65,26 @@ Subir para as camadas superiores do modelo (ver [[Harness Engineering - Fábrica
 - [ ] [[Arthur Tosi]] — propor reunião oficial com [[Matheus Andrade]] para padronizar as abordagens
 - [ ] [[Matheus Simões]] — pesquisar e entender **lint** (camada determinística central no modelo)
 
+## Insumos externos avaliados (03/ago/2026)
+> Trazidos na sessão com Jonh Alex — ver [[2026-08-03 Stack de Desenvolvimento com IA (Jonh Alex)]] e o detalhe em [[Stack de Desenvolvimento com IA - Ferramentas e Workflow]].
+> **Nada foi decidido nem adotado.** Nenhum item abaixo tem dono.
+
+| Insumo | Onde encaixaria | Status |
+|---|---|---|
+| **Serena** (MCP de busca por símbolo, com memória de projeto) | A **camada de contexto** que hoje falta no workspace; e o caso "Claude Code sobre documentação interna" do [[smartside.ai - Company Brain (Segundo Cérebro)]] — sem exigir Vector Store, coerente com a decisão de MCP + index de 30/jul | ⚠️ "Vou testar" — dono não identificável, sem data |
+| **GStack** ⚠️ (~23 skills cobrindo empresa inteira) | **Sobreposição direta** com a biblioteca de ~10 skills desenhada pelo time. Traz também skill de QA que testa o fluxo no navegador como usuário real | ⚠️ Ninguém ficou dono de comparar |
+| **Temporal** (runtime open source de longa duração) | Cobre o que o fluxo de waves não tem: manter agente vivo por dias/semanas, filas, retry com correção e **human-in-the-loop** (segura o agente esperando resposta humana). Também CI/CD de segurança pré-produção | Recomendado como componente **cobrável** em Enterprise |
+| **Leopold** (harness pessoal do apresentador, open source) | Referência de fluxo: Triage → Brief (missão/persona/guardrails/plano) → artefatos com registro de decisões → run *ou* workflow multiagente → camada de aprendizado entre tarefas. **Guardrail padrão: `git commit` bloqueado e proibido subir na main** | GitHub + deck a serem repassados via [[Flávio Parreiras]] |
+| **MkDocs** | Documentação: markdown puro → site responsivo e multi-idioma sem input manual | Recomendado como entregável cobrável |
+
+**Padrão de fundo que vale registrar:** como o harness roda local e não tem system prompt oculto, o caminho é **se injetar dentro dele** (hooks, skills, MCP, memória) em vez de construir ferramenta nova por fora.
+
 ## Riscos
 - ⚠️ Nenhum prazo acordado para os testes.
+- ⚠️ **Sobreposição não endereçada com o GStack** — o time pode estar construindo à mão uma biblioteca de skills que já existe pronta. Ninguém ficou responsável por comparar (03/ago/2026).
+- ⚠️ Recomendações de 03/ago vêm de **base de evidência fina** (Leopold em workflow: 2 testes; PRD via Perplexity: 2 testes).
 - ⚠️ A camada de validação determinística ("o que exatamente esse código precisa ter para me dar segurança de que, se passou, está certo") foi explicitamente apontada por [[Matheus Simões]] como **a parte menos clara** do modelo.
 - ⚠️ Existe um segundo cérebro/workspace paralelo mantido por [[Matheus Andrade]]; sem a reunião de padronização, o time diverge em duas abordagens.
 
 ## Notas relacionadas
-[[smartside.ai]] · [[Harness Engineering - Fábrica de Software]] · [[smartside.ai - Company Brain (Segundo Cérebro)]] · [[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]] · [[00 - MOC Interno smartside.ai]]
+[[smartside.ai]] · [[Harness Engineering - Fábrica de Software]] · [[smartside.ai - Company Brain (Segundo Cérebro)]] · [[Stack de Desenvolvimento com IA - Ferramentas e Workflow]] · [[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]] · [[2026-08-03 Stack de Desenvolvimento com IA (Jonh Alex)]] · [[00 - MOC Interno smartside.ai]]

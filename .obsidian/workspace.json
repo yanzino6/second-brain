@@ -23,17 +23,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Inbox/2nd brain.md",
+                "file": "04 - Meetings/2026-07-30 smartside.ai - Company Brain (Segundo Cérebro).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2nd brain"
+              "title": "2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)"
+            }
+          },
+          {
+            "id": "1a2ad72cd3f70895",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +63,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -216,8 +228,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7129cd6e858ecd7",
+  "active": "1a2ad72cd3f70895",
   "lastOpenFiles": [
+    "00 - Inbox/AI Development.md",
+    "04 - Meetings/2026-08-03 Stack de Desenvolvimento com IA (Jonh Alex).md",
+    "05 - Knowledge/Stack de Desenvolvimento com IA - Ferramentas e Workflow.md",
+    "04 - Meetings/2026-07-30 smartside.ai - Company Brain (Segundo Cérebro).md.tmp.8571.d633c6661821",
+    "07 - Archive/Transcrição - 2nd Brain smartside.md",
+    "04 - Meetings/2026-07-30 smartside.ai - Company Brain (Segundo Cérebro).md",
+    "04 - Meetings/2026-07-23 Ebramed - Funcionamento do CRM.md",
+    "04 - Meetings/2026-07-03 Knewin - Ativação Nina.md",
+    "04 - Meetings/2026-02-27 AEVO - 12º Checkpoint.md",
+    "04 - Meetings/2025-12-04 AEVO - Kickoff BDR IA.md",
+    "04 - Meetings/2025-11-25 AEVO - 2º Checkpoint Internacional.md",
+    "00 - Inbox/2nd brain.md",
+    "CLAUDE.md",
     "06 - MOCs/00 - MOC Interno smartside.ai.md",
     "01 - People/Matheus Andrade.md",
     "01 - People/Pedro.md",
@@ -225,8 +250,6 @@
     "05 - Knowledge/Harness Engineering - Fábrica de Software.md",
     "02 - Projects/smartside.ai - Workspace de Desenvolvimento (Harness).md",
     "02 - Projects/smartside.ai - Company Brain (Segundo Cérebro).md",
-    "04 - Meetings/2026-07-30 smartside.ai - Company Brain (Segundo Cérebro).md",
-    "00 - Inbox/2nd brain.md",
     "01 - People/Wanisay Thompson.md",
     "ROTINA-INBOX.md",
     "07 - Archive/Sources/Empresa - Smartside.md",
@@ -235,24 +258,13 @@
     "USER.md.tmp.4464.8de6e8c388c2",
     "USER.md",
     "README.md",
-    "mcp-obsidian/README.md",
-    "05 - Knowledge/Biancogres/Tech Stack.md",
-    "02 - Projects/Biancogres.md",
-    "CLAUDE.md",
-    "04 - Meetings/2025-11-25 AEVO - 2º Checkpoint Internacional.md",
     "entrevista-cerebro.skill",
     "08 - Processes",
     "Processos",
     "-",
     "08",
     "05 - Knowledge/AEVO/AEVO - Riscos, Gaps e Pendências.md.tmp.21042.63a9898cc452",
-    "07 - Archive/AEVO/AEVO - Processo de Sandbox (BDR AI).md",
-    "07 - Archive/AEVO/AEVO - Playbook de Copy e Cadência.md",
-    "07 - Archive/AEVO/AEVO - BDR IA Internacional (ABM & GTM Europa).md",
-    "07 - Archive/AEVO/AEVO - BDR IA Brasil.md",
     "07 - Archive/AEVO",
-    "04 - Meetings/2026-02-27 AEVO - 12º Checkpoint.md",
-    "01 - People/Yasmin Greggio.md.tmp.21042.6bc63b4f1db0",
-    "01 - People/Rodrigo (AEVO).md.tmp.21042.5d9fd28299bc"
+    "01 - People/Yasmin Greggio.md.tmp.21042.6bc63b4f1db0"
   ]
 }

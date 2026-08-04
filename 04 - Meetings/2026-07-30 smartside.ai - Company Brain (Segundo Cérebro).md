@@ -5,7 +5,7 @@ tags: [reuniao, interno, smartside, company-brain, second-brain, harness-enginee
 attendees: ["[[Yan Simmer]]", "[[Matheus Simões]]", "[[Arthur Tosi]]"]
 project: ["[[smartside.ai - Company Brain (Segundo Cérebro)]]", "[[smartside.ai - Workspace de Desenvolvimento (Harness)]]"]
 company: "[[smartside.ai]]"
-source: "00 - Inbox/2nd brain.md"
+source: "07 - Archive/Transcrição - 2nd Brain smartside.md"
 recording: https://fathom.video/share/F7YiYAY1dsaW_ub4sog3-CpREAyACwHm
 duration: 74min
 ---
