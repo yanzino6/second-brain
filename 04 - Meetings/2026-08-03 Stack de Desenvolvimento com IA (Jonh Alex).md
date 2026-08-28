@@ -5,7 +5,7 @@ tags: [reuniao, interno, smartside, ia, desenvolvimento, harness, ferramentas, t
 attendees: ["Jonh Alex (Jonhvmp) — apresentador, ⚠️ afiliação não confirmada", "[[Flávio Parreiras]]", "⚠️ 1–2 participantes da smartside.ai não identificáveis no transcript"]
 project: ["[[smartside.ai - Workspace de Desenvolvimento (Harness)]]"]
 company: "[[smartside.ai]]"
-source: "00 - Inbox/AI Development.md"
+source: "07 - Archive/AI Development.md"
 recording: https://fathom.video/share/Q4xXBfV65sGzWyEoEwvdM7jy9gEyAPoQ
 duration: 87min
 ---

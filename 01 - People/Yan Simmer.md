@@ -16,11 +16,26 @@ github: yanzino6
 
 ## Compromissos
 
-### [[Ebramed - CRM IA (Isabela)]]
+### [[Ebramed - CRM IA (Isabela)]] — jul/2026
 - [ ] Criar campo personalizado "tipo de contato" (aluno/lead) e destacar o número do Ensino — [[2026-07-23 Ebramed - Funcionamento do CRM]]
 - [ ] Diferenciar mentoria/matrícula → mover direto para Ganho
-- [ ] Reativar números + sessão de testes (c/ [[José Lucas Ribeiro]])
-- [ ] Investigar estratégia híbrida (API oficial + API não oficial)
+- [x] ~~Reativar números + sessão de testes (c/ [[José Lucas Ribeiro]])~~ → **superado em 18/08**: arquitetura de múltiplos números descartada
+- [x] ~~Investigar estratégia híbrida (API oficial + API não oficial)~~ → **superado em 18/08**: operação passa a ser 100% API Oficial
+
+### [[Ebramed - CRM IA (Isabela)]] — ago/2026
+> Itens abertos nas sessões de 18 e 19/08. Vários são **defeitos do CRM**, não features novas.
+- [ ] Corrigir a **exportação de contatos** (botão não ativa) e habilitar exportação por etapa do funil e filtros — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Fazer o campo `lista` subir como **tag** (múltiplas por contato), senão a métrica por campanha quebra — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Rever o formato de "Listas" para suportar campos personalizados na importação — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Configurar a Isabela para preencher especialidade/tipo/e-mail quando vierem em branco — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Ajustar o campo `especialidade` para lista fechada (hoje é texto livre e quebra audiências) — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Remover as origens que não são API Oficial da lista de campanhas — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Avaliar busca por texto dentro das conversas — [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [ ] Criar o campo personalizado `fonte` + preenchimento automático pela mensagem de origem — [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
+- [ ] Criar os campos `respondeu` e `quando respondeu` — [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
+- [ ] Adicionar filtro por etapa do funil na exportação de contatos — [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
+- [ ] Configurar valor padrão de especialidade quando o campo vier em branco — [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
+- [ ] Ajustar o mecanismo de campanhas removendo a lógica de múltiplos números — [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
 
 ### [[Knewin - Nina (Agente IA de Qualificação)]]
 - [ ] Ajustar CRM smartside: tags/marcos de cada ação da Nina, responsável correto, marcar agendamento, campo HubSpot Contact ID — [[2026-07-03 Knewin - Ativação Nina]]
@@ -43,6 +58,8 @@ github: yanzino6
 - [x] Enviar o usuário do GitHub para o [[Matheus Simões]] — [[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]]
 
 ## Reuniões
+- [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
+- [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]]
 - [[2026-07-30 smartside.ai - Company Brain (Segundo Cérebro)]]
 - [[2026-07-23 Ebramed - Funcionamento do CRM]]
 - [[2026-07-03 Knewin - Ativação Nina]]

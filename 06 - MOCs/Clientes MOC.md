@@ -11,10 +11,10 @@ Mapa de conteúdo dos clientes da [[smartside.ai]].
 > Iniciativas **internas** (Company Brain, workspace de desenvolvimento) ficam em [[00 - MOC Interno smartside.ai]].
 
 ## Ebramed
-- Empresa: [[Ebramed]]
-- Projeto: [[Ebramed - CRM IA (Isabela)]]
-- Pessoas: [[Yara]] · [[Elizane Andrade]] · [[Marcos]]
-- Reuniões: [[2026-07-23 Ebramed - Funcionamento do CRM]]
+- Empresa: [[Ebramed]] (Grupo Educar Mais — Vitória/ES)
+- Projeto: [[Ebramed - CRM IA (Isabela)]] — **em produção desde 19/08/2026**
+- Pessoas: [[Tainara Lameira]] (Coord. Comercial desde ago/2026) · [[Adriano Ribondi]] · [[Marcos]] (Marcus Vinicius Tatagiba, decisor) · [[Yara]] (Coord. Comercial até ago/2026) · [[Elizane Andrade]]
+- Reuniões: [[2026-07-23 Ebramed - Funcionamento do CRM]] · [[2026-08-18 Ebramed - Abordagem Ativa e Rastreamento de Campanhas]] · [[2026-08-19 Ebramed - Treinamento de Campanhas (Marketing)]]
 
 ## Knewin
 - Empresa: [[Knewin]]
