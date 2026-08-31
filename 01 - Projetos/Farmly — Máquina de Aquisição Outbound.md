@@ -134,9 +134,63 @@ O workflow mais complexo da instância.
 - **Cliente:** "Descubro empresas que ninguém tem em lista, qualifico automaticamente com critério auditável e coloco em cadência sem disparo duplicado."
 - **Entrevista técnica:** puxe a paginação com cursor, o schema de enums e a máquina de estado da cadência. São três decisões defensáveis com trade-off claro.
 
+---
+
+## Resultados (coleta 2026-06-01)
+
+> Fonte: `~/Documents/metricas-de-projetos-smarts-ai/farmly/resultados_farmly.md`, consultado no Supabase do cliente.
+> **Contrato: R$ 3.897/mês (MRR).** BDR de prospecção ativa **internacional** no nicho de café especial — sem LinkedIn, cadência de 6 toques em 14 dias por e-mail + WhatsApp.
+
+### Volume
+
+| Métrica | Valor |
+|---|---|
+| Base total gerada | **2.350 leads** |
+| Leads únicos abordados | **417** |
+| Mensagens outbound | **2.129** (1.755 e-mail · 374 WhatsApp) |
+| Abordagem multicanal | 127 leads receberam os dois canais |
+| Maio/2026 (último mês fechado) | 401 leads · 1.403 e-mails · 236 WhatsApp |
+| Abril/2026 | 149 leads · 350 e-mails · 138 WhatsApp |
+
+### Conversão
+
+| Métrica | Valor | Leitura |
+|---|---|---|
+| Meta mensal | 2.500 contatos | — |
+| Atingimento em maio | **16,0%** | 401 de 2.500 |
+| Atingimento em abril | 6,0% | 149 de 2.500 |
+| Respostas | 11 inbound reais | **2,6%** sobre 417 abordados |
+| Qualificados alta intenção | 2 | — |
+| Amostras solicitadas | 2 | — |
+| Handoff para SDR humano | **1** | — |
+
+### Qualidade da base
+
+- **16,0%** têm e-mail · **74,1%** têm telefone · **24,3% não têm nem e-mail nem telefone**
+- Blacklist em 6,9% — abaixo do limite de 20%
+- Geografia: **Europa 53,3% · EUA 41,0%** — mas a meta documentada era **75% EUA / 25% Europa**. A base está invertida em relação ao alvo.
+
+### ROI declarado
+Em maio a produtividade equivaleu a **1,00 BDR humano**, com **ROI estimado de 1,67×** sobre o MRR. Na meta de 2.500 abordagens/mês, o ROI projetado é **10,42×**.
+
+> [!warning] Leitura honesta destes números
+> **1. O sistema entregou 16% da meta.** Essa é a manchete, não o ROI. Um ROI de 1,67× sobre 16% de atingimento diz que a operação se paga rodando a um sexto da capacidade contratada — o que é bom sinal de eficiência unitária e mau sinal de execução de volume.
+>
+> **2. A projeção de 10,42× não está provada.** Ela assume 6× o volume mantendo a mesma taxa de resposta. Volume maior quase sempre significa ICP mais largo e resposta menor — foi exatamente o que aconteceu na [[Boavista — BDR de LinkedIn com Fila por Score|Boavista]], onde a aceitação caiu de 57,6% para 21,6% quando o volume subiu. Apresentar 10,42× como resultado seria frágil numa entrevista; apresentar como projeção **com essa ressalva** é forte.
+>
+> **3. A instrumentação de resposta estava quebrada.** A flag `status='replied'` nunca foi marcada — as 11 respostas só apareceram indo direto nas mensagens inbound. Sem essa investigação, o relatório teria dito "0 respostas".
+>
+> **4. 24,3% da base não tem canal nenhum.** Um quarto dos leads gerados é inalcançável. Isso é problema do F1/F2, e é onde estaria o ganho mais barato de volume.
+
+### O que citar em entrevista
+- ✅ "Construí e operei um BDR internacional sob contrato de R$ 3.897/mês, que processou 2.350 leads e disparou 2.129 mensagens em dois canais."
+- ✅ "Descobri que a flag de resposta nunca era marcada e reconstruí a métrica a partir do inbound bruto."
+- ⚠️ Não cite os 10,42× sem dizer que é projeção.
+
 > [!question] Em aberto
 > - Todos os 18 workflows estão **inativos** hoje — projeto encerrado, pausado, ou migrado? Muda o tempo verbal de tudo.
-> - Resultado comercial: quantas respostas, reuniões, negócios? Sem isso o case tem engenharia mas não tem impacto.
+> - Por que o atingimento travou em 16% da meta? Limite técnico, base sem canal, ou operação pausada?
+> - A flag `status='replied'` foi corrigida na origem ou o relatório seguiu contornando?
 > - O caminho Clay foi desativado por custo, qualidade ou redundância?
 
 <!-- fonte: leitura da instância n8n via MCP em 2026-08-29, somente leitura. Nenhuma credencial, URL de instância ou ID de projeto registrado neste vault. -->
