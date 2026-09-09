@@ -13,7 +13,7 @@ Responsável: [[USER|Yan Simmer]]
 
 ### Estudo
 
-- [ ] Estudar os conceitos básicos de Teoria dos Grafos.
+- [x] Estudar os conceitos básicos de Teoria dos Grafos. (Introdução; Classes de Grafos; Representação Computacional)
 - [ ] Estudar percursos em grafos.
 - [ ] Estudar conexidade.
 - [ ] Estudar dígrafos.
@@ -33,3 +33,9 @@ Responsável: [[USER|Yan Simmer]]
 Foram considerados os materiais publicados entre 2026-08-17 e 2026-09-09 no Google Sala de Aula da disciplina. O aviso de cancelamento de aula e o aviso de início das aulas não foram convertidos em tarefas.
 
 <!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula, coletados em 2026-09-09 -->
+
+## Progresso confirmado (2026-09-09)
+
+Confirmado diretamente pelo Yan: Introdução e Conceitos Básicos (Classes de Grafos e Representação Computacional) já estudados.
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-09 -->
