@@ -9,6 +9,19 @@ data: 2026-09-09
 Professor: Maria Claudia Silva Boeres  
 Responsável: [[USER|Yan Simmer]]
 
+## Mapa de aulas
+
+- Aula — Introdução; Classes de Grafos; Representação Computacional — estudo — material revisado
+- Aula — Percursos em grafos — estudo — pendente
+- Aula — Conexidade — estudo — pendente
+- Aula — Dígrafos — estudo — pendente
+- Aula — Árvores: definições e propriedades — estudo — pendente
+- Aula — Algoritmos clássicos de caminhamento em profundidade e em largura — estudo — pendente
+
+> [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
+
+<!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula, mapa reconstruído em 2026-09-10 a partir do arquivo existente -->
+
 ## Tarefas
 
 ### Estudo
@@ -39,3 +52,9 @@ Foram considerados os materiais publicados entre 2026-08-17 e 2026-09-09 no Goog
 Confirmado diretamente pelo Yan: Introdução e Conceitos Básicos (Classes de Grafos e Representação Computacional) já estudados.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-09 -->
+
+## Verificação (2026-09-10)
+
+Dois e-mails novos chegaram do Google Sala de Aula ("Árvores"; "Algoritmos clássicos de caminhamento em profundidade e em largura"), mas o conteúdo já estava registrado em Estudo desde 2026-09-09. Nenhum item novo adicionado.
+
+<!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula, conferidos em 2026-09-10 -->

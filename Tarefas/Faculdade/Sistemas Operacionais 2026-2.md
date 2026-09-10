@@ -9,6 +9,19 @@ data: 2026-09-09
 Professor: Luis Antonio de Souza Junior  
 Responsável: [[USER|Yan Simmer]]
 
+## Mapa de aulas
+
+- Aula 0 — Introdução à disciplina — estudo — material revisado
+- Aula 1 — Introdução a SO (histórico, tipos e classificações) — estudo + execução — material revisado
+- Aula 2 — Processos (conceito, contexto, troca de contexto, BCP) — estudo + execução — pendente
+- Aula 3 — Escalonamento de processos — estudo + execução — pendente
+- Aula 4 — Unix: Kernel Mode — estudo — material revisado
+- Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
+
+> [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula, mapa reconstruído em 2026-09-10 a partir do arquivo existente -->
+
 ## Tarefas
 
 ### Estudo
@@ -59,3 +72,9 @@ O registro anterior desta seção dizia Lab1 e Lab2 entregues por engano; o corr
 Foram considerados os materiais e atividades publicados entre 2026-08-10 e 2026-09-04 no Google Sala de Aula da disciplina. Os avisos sobre sala, cancelamento e reposição de aula não foram convertidos em tarefas.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula, coletados em 2026-09-09 -->
+
+## Verificação (2026-09-10)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-10, sem e-mails novos -->
