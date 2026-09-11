@@ -17,6 +17,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 3 — Escalonamento de processos — estudo + execução — pendente
 - Aula 4 — Unix: Kernel Mode — estudo — material revisado
 - Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
+- Aula 13 — Revisão P1 — estudo — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -39,6 +40,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Estudar o laboratório de chamadas ao sistema (kernel), com `fork()`, concorrência entre processos pai e filho, user ID e process group ID.
 - [ ] Estudar Sinais no Unix em C; ler o material complementar, revisar `pause()`, o efeito de `exec()` sobre handlers e assistir aos vídeos indicados.
 - [ ] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
+- [ ] Aula 13 — Revisão P1: estudar o material de revisão para a P1; o e-mail trouxe apenas o título, sem detalhar o conteúdo.
 
 ### Execução
 
@@ -78,3 +80,13 @@ Foram considerados os materiais e atividades publicados entre 2026-08-10 e 2026-
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-10, sem e-mails novos -->
+
+### Avisos
+
+- 2026-09-10: Luis Antonio de Souza Junior avisou que os gabaritos das listas de exercícios podem ser vistos pessoalmente na sala do professor, na manhã de 2026-09-11 (sexta) ou 2026-09-14 (segunda); quem quiser ver deve enviar e-mail para combinar o horário.
+
+## Atualização (2026-09-11)
+
+Dois e-mails novos de Luis Antonio de Souza Junior: um aviso sobre gabaritos (ver Avisos) e um novo material, "Aula 13 - Revisão P1" (adicionado a Estudo e ao Mapa de aulas). O e-mail do material trouxe apenas o título, sem conteúdo detalhado.
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula, coletados em 2026-09-11 -->

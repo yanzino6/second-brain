@@ -58,3 +58,9 @@ Confirmado diretamente pelo Yan: Introdução e Conceitos Básicos (Classes de G
 Dois e-mails novos chegaram do Google Sala de Aula ("Árvores"; "Algoritmos clássicos de caminhamento em profundidade e em largura"), mas o conteúdo já estava registrado em Estudo desde 2026-09-09. Nenhum item novo adicionado.
 
 <!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula, conferidos em 2026-09-10 -->
+
+## Verificação (2026-09-11)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-11, sem e-mails novos -->
