@@ -90,3 +90,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Dois e-mails novos de Luis Antonio de Souza Junior: um aviso sobre gabaritos (ver Avisos) e um novo material, "Aula 13 - Revisão P1" (adicionado a Estudo e ao Mapa de aulas). O e-mail do material trouxe apenas o título, sem conteúdo detalhado.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula, coletados em 2026-09-11 -->
+
+## Verificação (2026-09-12)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-12, sem e-mails novos -->
