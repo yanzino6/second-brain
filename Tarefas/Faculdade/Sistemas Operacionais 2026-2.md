@@ -31,12 +31,12 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Estudar introdução a Sistemas Operacionais: histórico, tipos e classificações; ler as páginas 23–30 do material complementar e assistir aos vídeos indicados.
 - [x] Estudar processos: conceito, contexto, troca de contexto e bloco de controle de processo (BCP); consultar os textos e vídeos indicados.
 - [x] Resolver os exercícios de Introdução à SO.
-- [ ] Resolver os exercícios de Processos e Estrutura de Controle.
+- [x] Resolver os exercícios de Processos e Estrutura de Controle.
 - [x] Estudar escalonamento de processos; consultar Maziero, seções indicadas, e os vídeos sobre algoritmos de escalonamento.
 - [ ] Resolver os exercícios de Escalonamento.
 - [x] Estudar Unix: Kernel Mode, incluindo contexto histórico, modos de operação da CPU e execução em Kernel Mode; assistir ao vídeo sobre interrupções até 8min15s.
 - [ ] Estudar Unix: Escalonamento Tradicional versus Kernel Preemptivo; consultar o material complementar e os dois vídeos indicados.
-- [ ] Estudar os exercícios sobre Unix, Kernel e Escalonamento Tradicional.
+- [x] Estudar os exercícios sobre Unix, Kernel e Escalonamento Tradicional.
 - [ ] Estudar o laboratório de chamadas ao sistema (kernel), com `fork()`, concorrência entre processos pai e filho, user ID e process group ID.
 - [ ] Estudar Sinais no Unix em C; ler o material complementar, revisar `pause()`, o efeito de `exec()` sobre handlers e assistir aos vídeos indicados.
 - [ ] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
@@ -102,3 +102,11 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-13, sem e-mails novos -->
+
+## Atualização (2026-09-13)
+
+Confirmado diretamente pelo Yan: listas 1, 2 e 4 de exercícios feitas. Marcadas em Tarefas > Estudo como: lista 1 = "exercícios de Introdução à SO" (já estava marcada), lista 2 = "exercícios de Processos e Estrutura de Controle", lista 4 = "exercícios sobre Unix, Kernel e Escalonamento Tradicional". A lista 3 ("exercícios de Escalonamento") permanece pendente.
+
+> [!question] Em aberto: a nota não tinha as listas numeradas oficialmente pelo professor; a numeração 1–4 foi inferida pela ordem sequencial dos itens de "exercícios" em Tarefas > Estudo, seguindo o padrão de outras disciplinas do vault (ex.: [[TBO 2026-2]]).
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
