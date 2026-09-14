@@ -84,6 +84,8 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 ### Avisos
 
 - 2026-09-10: Luis Antonio de Souza Junior avisou que os gabaritos das listas de exercícios podem ser vistos pessoalmente na sala do professor, na manhã de 2026-09-11 (sexta) ou 2026-09-14 (segunda); quem quiser ver deve enviar e-mail para combinar o horário.
+- 2026-09-14: Confirmado por e-mail direto com Luis Antonio de Souza Junior (não via Google Sala de Aula): horário marcado para conferir o gabarito dos exercícios na sala do professor **hoje, 2026-09-14, a partir das 11h**.
+- 2026-09-14: Lembrete automático do Google Sala de Aula (SO_2026_2, INF15980) informou que o prazo de entrega do Lab2 - SVC (parte 2) era 14 de set.; já registrado como entregue (ver Prazos e lacunas).
 
 ## Atualização (2026-09-11)
 
@@ -124,3 +126,9 @@ Confirmado diretamente pelo Yan: Lab2 — SVC (parte 2) executado e entregue, um
 > [!question] Em aberto: entrega confirmada, mas sem nota ou feedback do professor até o momento.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
+
+## Atualização (2026-09-14)
+
+Dois e-mails novos envolvendo Luis Antonio de Souza Junior nas últimas 24h: (1) um lembrete automático do Google Sala de Aula sobre o prazo do Lab2 - SVC, já cumprido (ver Avisos); (2) uma troca de e-mail direta confirmando horário para conferir o gabarito dos exercícios — hoje, 2026-09-14, às 11h, na sala do professor (ver Avisos). Nenhum item novo em Estudo ou Execução; nenhuma tarefa marcada como concluída a partir desses e-mails.
+
+<!-- fonte: Gmail educacional, thread "A data de entrega é amanhã: Entrega Lab2 - SVC" (Google Sala de Aula) e thread "Gabarito dos Exercícios SO" (e-mail direto com Luis Antonio de Souza Junior), coletados em 2026-09-14 -->
