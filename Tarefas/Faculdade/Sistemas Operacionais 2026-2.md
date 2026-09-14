@@ -48,14 +48,14 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Entregar o Lab0 — Processos no Linux em PDF, com nome e matrícula no cabeçalho e no nome do arquivo. Prazo informado: 2026-08-24.
 - [x] Executar o Lab1 — SVC e preparar o PDF de respostas e um arquivo `.c` por tarefa de implementação. Prazo informado: 2026-08-31.
 - [x] Entregar o Lab1 — SVC em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-08-31.
-- [ ] Executar o Lab2 — SVC (parte 2) e preparar o PDF de respostas e um arquivo `.c` por tarefa de implementação.
-- [ ] Entregar o Lab2 — SVC (parte 2) em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-09-14.
+- [x] Executar o Lab2 — SVC (parte 2) e preparar o PDF de respostas e um arquivo `.c` por tarefa de implementação.
+- [x] Entregar o Lab2 — SVC (parte 2) em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-09-14.
 
 ## Prazos e lacunas
 
 - Lab0 — 2026-08-24; entregue.
 - Lab1 — 2026-08-31; entregue.
-- Lab2 — 2026-09-14; pendente.
+- Lab2 — 2026-09-14; entregue em 2026-09-13 (um dia antes do prazo).
 
 ## Progresso confirmado (2026-09-09)
 
@@ -114,5 +114,13 @@ Confirmado diretamente pelo Yan: listas 1, 2 e 4 de exercícios feitas. Marcadas
 ## Atualização (2026-09-13, 2)
 
 Confirmado diretamente pelo Yan: lista 3 de exercícios ("exercícios de Escalonamento") feita. Marcada em Tarefas > Estudo. Todas as quatro listas de exercícios da disciplina (1, 2, 3 e 4) estão concluídas.
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
+
+## Atualização (2026-09-13, 3)
+
+Confirmado diretamente pelo Yan: Lab2 — SVC (parte 2) executado e entregue, um dia antes do prazo (2026-09-14). Marcado em Tarefas > Execução; status atualizado em Prazos e lacunas.
+
+> [!question] Em aberto: entrega confirmada, mas sem nota ou feedback do professor até o momento.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
