@@ -33,7 +33,7 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Resolver os exercícios de Introdução à SO.
 - [x] Resolver os exercícios de Processos e Estrutura de Controle.
 - [x] Estudar escalonamento de processos; consultar Maziero, seções indicadas, e os vídeos sobre algoritmos de escalonamento.
-- [ ] Resolver os exercícios de Escalonamento.
+- [x] Resolver os exercícios de Escalonamento.
 - [x] Estudar Unix: Kernel Mode, incluindo contexto histórico, modos de operação da CPU e execução em Kernel Mode; assistir ao vídeo sobre interrupções até 8min15s.
 - [ ] Estudar Unix: Escalonamento Tradicional versus Kernel Preemptivo; consultar o material complementar e os dois vídeos indicados.
 - [x] Estudar os exercícios sobre Unix, Kernel e Escalonamento Tradicional.
@@ -108,5 +108,11 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Confirmado diretamente pelo Yan: listas 1, 2 e 4 de exercícios feitas. Marcadas em Tarefas > Estudo como: lista 1 = "exercícios de Introdução à SO" (já estava marcada), lista 2 = "exercícios de Processos e Estrutura de Controle", lista 4 = "exercícios sobre Unix, Kernel e Escalonamento Tradicional". A lista 3 ("exercícios de Escalonamento") permanece pendente.
 
 > [!question] Em aberto: a nota não tinha as listas numeradas oficialmente pelo professor; a numeração 1–4 foi inferida pela ordem sequencial dos itens de "exercícios" em Tarefas > Estudo, seguindo o padrão de outras disciplinas do vault (ex.: [[TBO 2026-2]]).
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
+
+## Atualização (2026-09-13, 2)
+
+Confirmado diretamente pelo Yan: lista 3 de exercícios ("exercícios de Escalonamento") feita. Marcada em Tarefas > Estudo. Todas as quatro listas de exercícios da disciplina (1, 2, 3 e 4) estão concluídas.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-13 -->
