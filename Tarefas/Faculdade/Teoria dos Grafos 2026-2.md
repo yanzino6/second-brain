@@ -17,6 +17,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula — Dígrafos — estudo — pendente
 - Aula — Árvores: definições e propriedades — estudo — pendente
 - Aula — Algoritmos clássicos de caminhamento em profundidade e em largura — estudo — pendente
+- Aula não identificada — lista de exercícios publicada em 2026-09-15 — execução — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
 
@@ -36,10 +37,13 @@ Responsável: [[USER|Yan Simmer]]
 ### Execução
 
 - [ ] Resolver as listas de exercícios de Teoria dos Grafos.
+- [ ] Aula não identificada — Resolver a lista de exercícios anunciada em 2026-09-15 no Google Sala de Aula ("Lista de exercícios nova publicada!"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
 
 ## Prazos
 
 > [!question] Em aberto: nenhum prazo explícito apareceu nos e-mails consultados.
+
+> [!question] Em aberto (2026-09-15): não é possível confirmar se a lista anunciada em 2026-09-15 é a mesma referida no checkbox genérico "Resolver as listas de exercícios de Teoria dos Grafos." ou uma lista adicional — o e-mail não detalha o conteúdo, e também não trouxe prazo de entrega.
 
 ## Fonte e escopo
 
@@ -88,3 +92,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-15, sem e-mails novos -->
+
+## Atualização (2026-09-16)
+
+Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula anunciando a publicação de uma nova lista de exercícios ("Boa noite pessoal! Lista de exercícios nova publicada! ;-)", postado em 2026-09-15 21:06 BRT). O e-mail não traz o conteúdo da lista, a aula a que se refere nem prazo de entrega. Classificado como lista de exercícios (tarefa com possível prazo); adicionado a Tarefas > Execução e ao Mapa de aulas como "Aula não identificada".
+
+<!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Boa noite pessoal! Lista de exercícios…"), coletado em 2026-09-16 -->

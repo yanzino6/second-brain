@@ -70,3 +70,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h.
 A verificação de 2026-09-14 registrada acima estava incorreta: dois e-mails de Saulo Bortolon no Google Sala de Aula haviam chegado nas primeiras horas de 2026-09-14 (00h56 e 01h44 BRT) e não foram capturados naquela execução. Processados agora, com atraso: (1) aviso de que não haveria aula na semana de 14 a 18 de setembro, com pedido para escolha de turma de avaliação de ingressantes (ver Avisos e Prazos e lacunas); (2) vídeo sem título ou contexto compartilhado como material de estudo (ver Mapa de aulas e Tarefas > Estudo). Nenhum e-mail adicional de Saulo Bortolon chegou entre 2026-09-14 04h45 BRT e a coleta desta rotina em 2026-09-15.
 
 <!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula (threads "Novo comunicado" de 2026-09-14 00h56 e 01h44 BRT), reprocessados em 2026-09-15 -->
+
+## Verificação (2026-09-16)
+
+Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida por ele em 2026-09-14 para "amanhã" (2026-09-15), ainda não chegou.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-16, sem e-mails novos -->
