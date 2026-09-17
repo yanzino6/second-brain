@@ -34,6 +34,7 @@ Responsável: [[USER|Yan Simmer]]
 ### Avisos
 
 - 2026-09-14: Saulo Bortolon avisou que não haverá aula de Computação e Sociedade na semana de 14 a 18 de setembro — estará em um Congresso sobre Ensino de Engenharia. Pediu para os alunos escolherem a turma que gostariam de avaliar entre os ingressantes e disse que enviaria as listas "amanhã" (2026-09-15).
+- 2026-09-16 (postado 08:49 BRT): Saulo Bortolon avisou que deve chegar a tempo para a aula de sexta-feira, 18/09 — está viajando e chega de madrugada. Disse que avisaria por mensagem em caso de problema no voo; sem aviso, a aula acontece normalmente.
 
 ## Prazos e lacunas
 
@@ -76,3 +77,9 @@ A verificação de 2026-09-14 registrada acima estava incorreta: dois e-mails de
 Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida por ele em 2026-09-14 para "amanhã" (2026-09-15), ainda não chegou.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-16, sem e-mails novos -->
+
+## Atualização (2026-09-17)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso no Google Sala de Aula dizendo que deve chegar a tempo para a aula de sexta-feira, dia 18/09 (chega de madrugada de viagem); se houver problema no voo, avisará por mensagem, e a ausência de mensagem confirma presença. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Acho que chegarei a tempo para a aula…"), postado em 2026-09-16 08:49 BRT, coletado em 2026-09-17 -->

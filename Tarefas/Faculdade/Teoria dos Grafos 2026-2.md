@@ -98,3 +98,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula anunciando a publicação de uma nova lista de exercícios ("Boa noite pessoal! Lista de exercícios nova publicada! ;-)", postado em 2026-09-15 21:06 BRT). O e-mail não traz o conteúdo da lista, a aula a que se refere nem prazo de entrega. Classificado como lista de exercícios (tarefa com possível prazo); adicionado a Tarefas > Execução e ao Mapa de aulas como "Aula não identificada".
 
 <!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Boa noite pessoal! Lista de exercícios…"), coletado em 2026-09-16 -->
+
+## Verificação (2026-09-17)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-17, sem e-mails novos -->
