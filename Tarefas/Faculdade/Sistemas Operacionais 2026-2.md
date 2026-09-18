@@ -18,8 +18,11 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 4 — Unix: Kernel Mode — estudo — material revisado
 - Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
 - Aula 13 — Revisão P1 — estudo — pendente
+- Aula 09 — Sincronização por Busy-Wait — estudo + execução — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
+
+> [!question] Em aberto (2026-09-18): "Aula 09 — Sincronização por Busy-Wait" chegou numerada pelo professor, mas aparece depois de "Aula 13 — Revisão P1" nesta lista porque foi adicionada por último, na ordem de chegada dos e-mails — não pela ordem numérica das aulas. Não há confirmação de conteúdo para as aulas 5 a 8 e 10 a 12 nos e-mails registrados; a numeração real da disciplina segue incerta.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula, mapa reconstruído em 2026-09-10 a partir do arquivo existente -->
 
@@ -41,6 +44,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Estudar Sinais no Unix em C; ler o material complementar, revisar `pause()`, o efeito de `exec()` sobre handlers e assistir aos vídeos indicados.
 - [ ] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
 - [ ] Aula 13 — Revisão P1: estudar o material de revisão para a P1; o e-mail trouxe apenas o título, sem detalhar o conteúdo.
+- [ ] Aula 09 — Estudar sincronização por busy-wait: introdução à sincronização de processos, região crítica e exclusão mútua, mecanismos de sincronização por busy-wait; assistir ao vídeo indicado da UNIVESP sobre Busy Wait.
 
 ### Execução
 
@@ -50,12 +54,15 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Entregar o Lab1 — SVC em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-08-31.
 - [x] Executar o Lab2 — SVC (parte 2) e preparar o PDF de respostas e um arquivo `.c` por tarefa de implementação.
 - [x] Entregar o Lab2 — SVC (parte 2) em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-09-14.
+- [ ] Aula 09 — Resolver os exercícios de Sincronização por Busy-Wait/HW.
 
 ## Prazos e lacunas
 
 - Lab0 — 2026-08-24; entregue.
 - Lab1 — 2026-08-31; entregue.
 - Lab2 — 2026-09-14; entregue em 2026-09-13 (um dia antes do prazo).
+
+> [!question] Em aberto (2026-09-18): nenhum prazo explícito apareceu no e-mail dos exercícios de Sincronização por Busy-Wait/HW (Aula 09).
 
 ## Progresso confirmado (2026-09-09)
 
@@ -150,3 +157,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-17, sem e-mails novos -->
+
+## Atualização (2026-09-18)
+
+Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) material de estudo "Aula 09 - Sincronização por Busy-Wait" (postado 2026-09-17 15:02 BRT), sobre introdução à sincronização de processos, região crítica, exclusão mútua e mecanismos de sincronização por busy-wait, com vídeo indicado da UNIVESP; (2) lista de exercícios "Exercícios - Sincronização por Busy-Wait/HW" (postado 2026-09-17 16:39 BRT), sem prazo explícito. Classificados como material de estudo e lista de exercícios, respectivamente; adicionados a Tarefas > Estudo, Tarefas > Execução e ao Mapa de aulas como Aula 09.
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 09 - Sincronização por Busy-Wait"; "Novo material: Exercícios - Sincronização por Busy-Wait/HW"), coletados em 2026-09-18 -->

@@ -35,6 +35,7 @@ Responsável: [[USER|Yan Simmer]]
 
 - 2026-09-14: Saulo Bortolon avisou que não haverá aula de Computação e Sociedade na semana de 14 a 18 de setembro — estará em um Congresso sobre Ensino de Engenharia. Pediu para os alunos escolherem a turma que gostariam de avaliar entre os ingressantes e disse que enviaria as listas "amanhã" (2026-09-15).
 - 2026-09-16 (postado 08:49 BRT): Saulo Bortolon avisou que deve chegar a tempo para a aula de sexta-feira, 18/09 — está viajando e chega de madrugada. Disse que avisaria por mensagem em caso de problema no voo; sem aviso, a aula acontece normalmente.
+- 2026-09-17 (postado 19:59 BRT): Saulo Bortolon confirmou que chegou em Vitória e estará às 08:00 na sala de aula em 18/09. Porém, às 09:00 ele irá a um encontro formativo no Auditório Professor Reno Reine Castello (CT-1), "Inteligência Artificial nos Currículos de Exatas" (palestrantes Rodolfo Azevedo, do Instituto de Computação da Unicamp, e Alessandro Coutinho Ramos, da UVV; 18/09, 9h às 12h) — por isso, a aula fica "sem presença obrigatória" a partir desse horário. Convidou os alunos a participarem do encontro formativo, sem obrigatoriedade.
 
 ## Prazos e lacunas
 
@@ -83,3 +84,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso no Google Sala de Aula dizendo que deve chegar a tempo para a aula de sexta-feira, dia 18/09 (chega de madrugada de viagem); se houver problema no voo, avisará por mensagem, e a ausência de mensagem confirma presença. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Acho que chegarei a tempo para a aula…"), postado em 2026-09-16 08:49 BRT, coletado em 2026-09-17 -->
+
+## Atualização (2026-09-18)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso no Google Sala de Aula confirmando que chegou em Vitória e estará às 08:00 na sala de aula em 18/09, mas que a partir das 09:00 a aula fica sem presença obrigatória porque ele irá a um encontro formativo sobre IA nos currículos de Exatas (ver Avisos para detalhes). Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Pessoal, cheguei em Vitória…"), postado em 2026-09-17 19:59 BRT, coletado em 2026-09-18 -->
