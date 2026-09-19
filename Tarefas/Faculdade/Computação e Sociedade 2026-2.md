@@ -90,3 +90,9 @@ Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso no Google Sala de Aula 
 Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso no Google Sala de Aula confirmando que chegou em Vitória e estará às 08:00 na sala de aula em 18/09, mas que a partir das 09:00 a aula fica sem presença obrigatória porque ele irá a um encontro formativo sobre IA nos currículos de Exatas (ver Avisos para detalhes). Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Pessoal, cheguei em Vitória…"), postado em 2026-09-17 19:59 BRT, coletado em 2026-09-18 -->
+
+## Verificação (2026-09-19)
+
+Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-19, sem e-mails novos -->

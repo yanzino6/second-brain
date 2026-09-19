@@ -93,6 +93,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-10: Luis Antonio de Souza Junior avisou que os gabaritos das listas de exercícios podem ser vistos pessoalmente na sala do professor, na manhã de 2026-09-11 (sexta) ou 2026-09-14 (segunda); quem quiser ver deve enviar e-mail para combinar o horário.
 - 2026-09-14: Confirmado por e-mail direto com Luis Antonio de Souza Junior (não via Google Sala de Aula): horário marcado para conferir o gabarito dos exercícios na sala do professor **hoje, 2026-09-14, a partir das 11h**.
 - 2026-09-14: Lembrete automático do Google Sala de Aula (SO_2026_2, INF15980) informou que o prazo de entrega do Lab2 - SVC (parte 2) era 14 de set.; já registrado como entregue (ver Prazos e lacunas).
+- 2026-09-19: Luis Antonio de Souza Junior avisou, no Google Sala de Aula, que as notas da P1 estão disponíveis na planilha de acompanhamento de notas e faltas (aba "Notas"), na seção Geral de Atividades da disciplina.
 
 ## Atualização (2026-09-11)
 
@@ -163,3 +164,11 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) material de estudo "Aula 09 - Sincronização por Busy-Wait" (postado 2026-09-17 15:02 BRT), sobre introdução à sincronização de processos, região crítica, exclusão mútua e mecanismos de sincronização por busy-wait, com vídeo indicado da UNIVESP; (2) lista de exercícios "Exercícios - Sincronização por Busy-Wait/HW" (postado 2026-09-17 16:39 BRT), sem prazo explícito. Classificados como material de estudo e lista de exercícios, respectivamente; adicionados a Tarefas > Estudo, Tarefas > Execução e ao Mapa de aulas como Aula 09.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 09 - Sincronização por Busy-Wait"; "Novo material: Exercícios - Sincronização por Busy-Wait/HW"), coletados em 2026-09-18 -->
+
+## Atualização (2026-09-19)
+
+Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-09-18 15:05 BRT) informando que as notas da P1 estão disponíveis na planilha de acompanhamento de notas e faltas, aba "Notas", seção Geral de Atividades. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos.
+
+> [!question] Em aberto: o e-mail não traz a nota do Yan nem o link direto da planilha — apenas informa que ela foi atualizada.
+
+<!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo comunicado: Boa tarde pessoal! As notas da P1..."), postado em 2026-09-18 15:05 BRT, coletado em 2026-09-19 -->
