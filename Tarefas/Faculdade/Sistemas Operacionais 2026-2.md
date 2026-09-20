@@ -172,3 +172,9 @@ Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: aviso no Google
 > [!question] Em aberto: o e-mail não traz a nota do Yan nem o link direto da planilha — apenas informa que ela foi atualizada.
 
 <!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo comunicado: Boa tarde pessoal! As notas da P1..."), postado em 2026-09-18 15:05 BRT, coletado em 2026-09-19 -->
+
+## Verificação (2026-09-20)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-20, sem e-mails novos -->
