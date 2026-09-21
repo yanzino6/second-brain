@@ -13,8 +13,11 @@ Responsável: [[USER|Yan Simmer]]
 
 - Aula não identificada — O último escândalo sobre AI... (vídeo sobre a saída de Jacob Coxon da Anthropic e riscos de IA) — estudo — pendente
 - Aula não identificada — vídeo sem título compartilhado em 2026-09-14 (link: https://youtu.be/NiBuUGAB_zY) — estudo — pendente
+- Aula não identificada — Caso dos Rostinhos Abraçadores, para discussão na semana de 21 a 28 de setembro — estudo — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
+
+> [!question] Em aberto (2026-09-21): o e-mail sobre o caso dos "Rostinhos Abraçadores" não numera a aula nem informa data de aula específica — apenas a semana de discussão (21 a 28 de setembro).
 
 > [!question] Em aberto: o e-mail de 2026-09-14 trouxe apenas o link do vídeo, sem título, descrição ou instrução — não foi possível identificar o tema nem a aula correspondente.
 
@@ -26,6 +29,7 @@ Responsável: [[USER|Yan Simmer]]
 
 - [ ] Aula não identificada — Assistir ao vídeo "O último escândalo sobre AI..." sobre a saída de Jacob Coxon (ex-pesquisador de IA, 27 anos, passagens por Anthropic e OpenAI) e refletir para a aula sobre: (1) "Melhoria Autônoma Recursiva" e o risco de superinteligência incontrolável; (2) ameaças imediatas de infraestrutura (ciberataques, armas biológicas); (3) o dilema da "corrida armamentista" entre empresas de IA e a dependência de regulamentação externa. Refletir também sobre o papel do desenvolvedor diante de tecnologias de potencial catastrófico, limites éticos da inovação e o papel da regulamentação.
 - [ ] Aula não identificada — Assistir ao vídeo compartilhado no Google Sala de Aula em 2026-09-14 (https://youtu.be/NiBuUGAB_zY). O e-mail não trouxe título, descrição nem instrução de reflexão.
+- [ ] Aula não identificada — Ler os dois guias de estudo (pptx e docx) sobre o caso dos "Rostinhos Abraçadores" antes da aula da semana de 21 a 28 de setembro, e refletir trazendo outras visões além das apresentadas pelo professor.
 
 ### Execução
 
@@ -102,3 +106,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-20, sem e-mails novos -->
+
+## Atualização (2026-09-21)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h: novo aviso no Google Sala de Aula (postado em 2026-09-20 18:19 BRT) anunciando que a semana de 21 a 28 de setembro será dedicada à discussão do caso dos "Rostinhos Abraçadores", com dois arquivos anexos (um `.pptx` e um `.docx`) como guias de estudo, pedindo leitura antes da aula e reflexão trazendo outras visões além das apresentadas. Classificado como material de estudo; adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula não identificada". A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Boa Noite!!! Esta semana (21 a 28 de…"), postado em 2026-09-20 18:19 BRT, coletado em 2026-09-21 -->
