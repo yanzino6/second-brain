@@ -19,6 +19,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
 - Aula 13 — Revisão P1 — estudo — pendente
 - Aula 09 — Sincronização por Busy-Wait — estudo + execução — pendente
+- Aula 11 — Semáforos — estudo — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -45,6 +46,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
 - [ ] Aula 13 — Revisão P1: estudar o material de revisão para a P1; o e-mail trouxe apenas o título, sem detalhar o conteúdo.
 - [ ] Aula 09 — Estudar sincronização por busy-wait: introdução à sincronização de processos, região crítica e exclusão mútua, mecanismos de sincronização por busy-wait; assistir ao vídeo indicado da UNIVESP sobre Busy Wait.
+- [ ] Aula 11 — Estudar semáforos: resolução de exclusão mútua utilizando semáforos (kernel + bloqueio de processos para acesso à região crítica); problema do produtor/consumidor com e sem paralelismo utilizando semáforos; consultar Silberschatz (seções 7.4, 7.5 e início da 7.6) e assistir ao vídeo "Semaphores" (Xoviabcs, ~9min).
 
 ### Execução
 
@@ -63,6 +65,8 @@ Responsável: [[USER|Yan Simmer]]
 - Lab2 — 2026-09-14; entregue em 2026-09-13 (um dia antes do prazo).
 
 > [!question] Em aberto (2026-09-18): nenhum prazo explícito apareceu no e-mail dos exercícios de Sincronização por Busy-Wait/HW (Aula 09).
+
+> [!question] Em aberto (2026-09-22): nenhum prazo explícito apareceu no material da Aula 11 — Semáforos; não há lista de exercícios associada até o momento.
 
 ## Progresso confirmado (2026-09-09)
 
@@ -94,6 +98,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-14: Confirmado por e-mail direto com Luis Antonio de Souza Junior (não via Google Sala de Aula): horário marcado para conferir o gabarito dos exercícios na sala do professor **hoje, 2026-09-14, a partir das 11h**.
 - 2026-09-14: Lembrete automático do Google Sala de Aula (SO_2026_2, INF15980) informou que o prazo de entrega do Lab2 - SVC (parte 2) era 14 de set.; já registrado como entregue (ver Prazos e lacunas).
 - 2026-09-19: Luis Antonio de Souza Junior avisou, no Google Sala de Aula, que as notas da P1 estão disponíveis na planilha de acompanhamento de notas e faltas (aba "Notas"), na seção Geral de Atividades da disciplina.
+- 2026-09-22: Luis Antonio de Souza Junior avisou, no Google Sala de Aula (postado em 2026-09-21 14:23 BRT), sobre a SIS (https://life.inf.ufes.br/sis/): "Se tiverem interesse: tem que se inscrever." Ação opcional (inscrição), não é tarefa de estudo/entrega.
 
 ## Atualização (2026-09-11)
 
@@ -184,3 +189,11 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-21, sem e-mails novos -->
+
+## Atualização (2026-09-22)
+
+Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) material de estudo "Aula 11 - Semáforos" (postado 2026-09-21 12:30 BRT), sobre resolução de exclusão mútua com semáforos e o problema do produtor/consumidor, com material complementar (Silberschatz, seções 7.4–7.6) e vídeo indicado; (2) aviso "Sobre a SIS" (postado 2026-09-21 14:23 BRT), divulgando o link https://life.inf.ufes.br/sis/ e informando que é preciso se inscrever para quem tiver interesse. Classificados como material de estudo e aviso, respectivamente; o primeiro adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 11, o segundo adicionado a Tarefas > Avisos.
+
+> [!question] Em aberto: o e-mail sobre a SIS não explica o que é a SIS (sigla não expandida) nem se a inscrição é relevante para a disciplina ou apenas uma divulgação externa.
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 11 - Semáforos"; "Novo comunicado: Pessoal, Sobre a SIS..."), coletados em 2026-09-22 -->

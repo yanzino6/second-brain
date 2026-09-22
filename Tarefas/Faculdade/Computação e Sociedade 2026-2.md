@@ -112,3 +112,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Um e-mail novo de Saulo Bortolon nas últimas 24h: novo aviso no Google Sala de Aula (postado em 2026-09-20 18:19 BRT) anunciando que a semana de 21 a 28 de setembro será dedicada à discussão do caso dos "Rostinhos Abraçadores", com dois arquivos anexos (um `.pptx` e um `.docx`) como guias de estudo, pedindo leitura antes da aula e reflexão trazendo outras visões além das apresentadas. Classificado como material de estudo; adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula não identificada". A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Boa Noite!!! Esta semana (21 a 28 de…"), postado em 2026-09-20 18:19 BRT, coletado em 2026-09-21 -->
+
+## Verificação (2026-09-22)
+
+Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-22, sem e-mails novos -->
