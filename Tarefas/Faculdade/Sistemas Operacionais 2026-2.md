@@ -13,8 +13,8 @@ Responsável: [[USER|Yan Simmer]]
 
 - Aula 0 — Introdução à disciplina — estudo — material revisado
 - Aula 1 — Introdução a SO (histórico, tipos e classificações) — estudo + execução — material revisado
-- Aula 2 — Processos (conceito, contexto, troca de contexto, BCP) — estudo + execução — pendente
-- Aula 3 — Escalonamento de processos — estudo + execução — pendente
+- Aula 2 — Processos (conceito, contexto, troca de contexto, BCP) — estudo + execução — material revisado
+- Aula 3 — Escalonamento de processos — estudo + execução — material revisado
 - Aula 4 — Unix: Kernel Mode — estudo — material revisado
 - Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
 - Aula 13 — Revisão P1 — estudo — pendente
@@ -39,11 +39,11 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Estudar escalonamento de processos; consultar Maziero, seções indicadas, e os vídeos sobre algoritmos de escalonamento.
 - [x] Resolver os exercícios de Escalonamento.
 - [x] Estudar Unix: Kernel Mode, incluindo contexto histórico, modos de operação da CPU e execução em Kernel Mode; assistir ao vídeo sobre interrupções até 8min15s.
-- [ ] Estudar Unix: Escalonamento Tradicional versus Kernel Preemptivo; consultar o material complementar e os dois vídeos indicados.
+- [x] Estudar Unix: Escalonamento Tradicional versus Kernel Preemptivo; consultar o material complementar e os dois vídeos indicados.
 - [x] Estudar os exercícios sobre Unix, Kernel e Escalonamento Tradicional.
-- [ ] Estudar o laboratório de chamadas ao sistema (kernel), com `fork()`, concorrência entre processos pai e filho, user ID e process group ID.
-- [ ] Estudar Sinais no Unix em C; ler o material complementar, revisar `pause()`, o efeito de `exec()` sobre handlers e assistir aos vídeos indicados.
-- [ ] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
+- [x] Estudar o laboratório de chamadas ao sistema (kernel), com `fork()`, concorrência entre processos pai e filho, user ID e process group ID.
+- [x] Estudar Sinais no Unix em C; ler o material complementar, revisar `pause()`, o efeito de `exec()` sobre handlers e assistir aos vídeos indicados.
+- [x] Estudar o laboratório Lab2 — SVC (parte 2): comunicação entre processos pai e filho, alteração de código no processo filho e reconhecimento da troca de estados.
 - [ ] Aula 13 — Revisão P1: estudar o material de revisão para a P1; o e-mail trouxe apenas o título, sem detalhar o conteúdo.
 - [ ] Aula 09 — Estudar sincronização por busy-wait: introdução à sincronização de processos, região crítica e exclusão mútua, mecanismos de sincronização por busy-wait; assistir ao vídeo indicado da UNIVESP sobre Busy Wait.
 - [ ] Aula 11 — Estudar semáforos: resolução de exclusão mútua utilizando semáforos (kernel + bloqueio de processos para acesso à região crítica); problema do produtor/consumidor com e sem paralelismo utilizando semáforos; consultar Silberschatz (seções 7.4, 7.5 e início da 7.6) e assistir ao vídeo "Semaphores" (Xoviabcs, ~9min).
@@ -73,6 +73,14 @@ Responsável: [[USER|Yan Simmer]]
 Confirmado diretamente pelo Yan: aulas 0–4 estudadas (introdução à disciplina; introdução a SO; processos; escalonamento de processos; Unix Kernel Mode), lista de exercícios de Introdução à SO resolvida, e Lab0 e Lab1 executados e entregues.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-09 -->
+
+## Progresso confirmado (2026-09-23)
+
+Confirmado diretamente pelo Yan: todos os exercícios resolvidos (Processos, Escalonamento, Unix/Kernel), estudo dos laboratórios feito (chamadas ao sistema e Lab2), Lab2 executado e entregue, e materiais de "Escalonamento Tradicional versus Kernel Preemptivo" e "Sinais no Unix em C" vistos e estudados. Ficam pendentes só o que chegou depois: Aula 13 (Revisão P1), Aula 09 (estudo e exercícios) e Aula 11.
+
+> [!question] Em aberto: o Yan não disse nada sobre Aula 13, Aula 09 e Aula 11; seguem pendentes até ele confirmar.
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-23 -->
 
 ## Correção (2026-09-09)
 

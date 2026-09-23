@@ -12,11 +12,11 @@ Responsável: [[USER|Yan Simmer]]
 ## Mapa de aulas
 
 - Aula — Introdução; Classes de Grafos; Representação Computacional — estudo — material revisado
-- Aula — Percursos em grafos — estudo — pendente
-- Aula — Conexidade — estudo — pendente
-- Aula — Dígrafos — estudo — pendente
-- Aula — Árvores: definições e propriedades — estudo — pendente
-- Aula — Algoritmos clássicos de caminhamento em profundidade e em largura — estudo — pendente
+- Aula — Percursos em grafos — estudo — material revisado
+- Aula — Conexidade — estudo — material revisado
+- Aula — Dígrafos — estudo — material revisado
+- Aula — Árvores: definições e propriedades — estudo — material revisado
+- Aula — Algoritmos clássicos de caminhamento em profundidade e em largura — estudo — material revisado
 - Aula não identificada — lista de exercícios publicada em 2026-09-15 — execução — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
@@ -28,15 +28,15 @@ Responsável: [[USER|Yan Simmer]]
 ### Estudo
 
 - [x] Estudar os conceitos básicos de Teoria dos Grafos. (Introdução; Classes de Grafos; Representação Computacional)
-- [ ] Estudar percursos em grafos.
-- [ ] Estudar conexidade.
-- [ ] Estudar dígrafos.
-- [ ] Estudar árvores: definições e propriedades.
-- [ ] Estudar algoritmos clássicos de caminhamento em profundidade e em largura.
+- [x] Estudar percursos em grafos.
+- [x] Estudar conexidade.
+- [x] Estudar dígrafos.
+- [x] Estudar árvores: definições e propriedades.
+- [x] Estudar algoritmos clássicos de caminhamento em profundidade e em largura.
 
 ### Execução
 
-- [ ] Resolver as listas de exercícios de Teoria dos Grafos.
+- [x] Resolver as listas de exercícios de Teoria dos Grafos.
 - [ ] Aula não identificada — Resolver a lista de exercícios anunciada em 2026-09-15 no Google Sala de Aula ("Lista de exercícios nova publicada!"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
 
 ## Prazos
@@ -56,6 +56,14 @@ Foram considerados os materiais publicados entre 2026-08-17 e 2026-09-09 no Goog
 Confirmado diretamente pelo Yan: Introdução e Conceitos Básicos (Classes de Grafos e Representação Computacional) já estudados.
 
 <!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-09 -->
+
+## Progresso confirmado (2026-09-23)
+
+Confirmado diretamente pelo Yan: todos os tópicos de estudo (percursos, conexidade, dígrafos, árvores, algoritmos de busca em profundidade e em largura) e as listas de exercícios foram concluídos.
+
+> [!question] Em aberto: a lista anunciada em 2026-09-15 continua pendente; o Yan ainda não disse se ela estava incluída nas "listas concluídas".
+
+<!-- fonte: confirmação direta de [[USER|Yan Simmer]] em conversa, 2026-09-23 -->
 
 ## Verificação (2026-09-10)
 
