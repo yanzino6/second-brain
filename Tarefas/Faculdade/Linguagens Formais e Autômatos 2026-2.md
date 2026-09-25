@@ -44,3 +44,9 @@ Foi considerado o único e-mail relevante encontrado até 2026-09-23: a notifica
 Nenhum e-mail novo de Rosane nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-24, sem e-mails novos -->
+
+## Verificação (2026-09-25)
+
+Nenhum e-mail novo de Rosane nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-25, sem e-mails novos -->

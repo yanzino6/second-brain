@@ -19,7 +19,8 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — demais conteúdos e laboratórios após Unix Kernel Mode (Escalonamento Tradicional vs. Kernel Preemptivo; laboratório de chamadas ao sistema; Sinais no Unix; Lab0; Lab1; Lab2) — estudo + execução — pendente/material revisado conforme checkbox em Tarefas
 - Aula 13 — Revisão P1 — estudo — pendente
 - Aula 09 — Sincronização por Busy-Wait — estudo + execução — pendente
-- Aula 11 — Semáforos — estudo — pendente
+- Aula 11 — Semáforos — estudo + execução — pendente
+- Aula 12 — Monitores — estudo — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -47,6 +48,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 13 — Revisão P1: estudar o material de revisão para a P1; o e-mail trouxe apenas o título, sem detalhar o conteúdo.
 - [ ] Aula 09 — Estudar sincronização por busy-wait: introdução à sincronização de processos, região crítica e exclusão mútua, mecanismos de sincronização por busy-wait; assistir ao vídeo indicado da UNIVESP sobre Busy Wait.
 - [ ] Aula 11 — Estudar semáforos: resolução de exclusão mútua utilizando semáforos (kernel + bloqueio de processos para acesso à região crítica); problema do produtor/consumidor com e sem paralelismo utilizando semáforos; consultar Silberschatz (seções 7.4, 7.5 e início da 7.6) e assistir ao vídeo "Semaphores" (Xoviabcs, ~9min).
+- [ ] Aula 12 — Estudar Monitores: sincronização utilizando mecanismo de monitores; estrutura básica de monitor e exclusão mútua; abordagens de Hoare e Hansen para monitores; problemas dos filósofos glutões e produtor/consumidor; implementação de monitores utilizando semáforos; consultar Tanenbaum ("Sistemas Operacionais: projeto e implementação", 3a. ed., seção 2.3.7, pp. 81-85) e os dois vídeos indicados.
 
 ### Execução
 
@@ -57,6 +59,7 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Executar o Lab2 — SVC (parte 2) e preparar o PDF de respostas e um arquivo `.c` por tarefa de implementação.
 - [x] Entregar o Lab2 — SVC (parte 2) em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-09-14.
 - [ ] Aula 09 — Resolver os exercícios de Sincronização por Busy-Wait/HW.
+- [ ] Aula 11 — Resolver os exercícios de Semáforos.
 
 ## Prazos e lacunas
 
@@ -67,6 +70,8 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-09-18): nenhum prazo explícito apareceu no e-mail dos exercícios de Sincronização por Busy-Wait/HW (Aula 09).
 
 > [!question] Em aberto (2026-09-22): nenhum prazo explícito apareceu no material da Aula 11 — Semáforos; não há lista de exercícios associada até o momento.
+
+> [!question] Em aberto (2026-09-25): a lista de exercícios da Aula 11 — Semáforos chegou em 2026-09-24, mas o e-mail não trouxe prazo de entrega.
 
 ## Progresso confirmado (2026-09-09)
 
@@ -107,6 +112,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-14: Lembrete automático do Google Sala de Aula (SO_2026_2, INF15980) informou que o prazo de entrega do Lab2 - SVC (parte 2) era 14 de set.; já registrado como entregue (ver Prazos e lacunas).
 - 2026-09-19: Luis Antonio de Souza Junior avisou, no Google Sala de Aula, que as notas da P1 estão disponíveis na planilha de acompanhamento de notas e faltas (aba "Notas"), na seção Geral de Atividades da disciplina.
 - 2026-09-22: Luis Antonio de Souza Junior avisou, no Google Sala de Aula (postado em 2026-09-21 14:23 BRT), sobre a SIS (https://life.inf.ufes.br/sis/): "Se tiverem interesse: tem que se inscrever." Ação opcional (inscrição), não é tarefa de estudo/entrega.
+- 2026-09-24 (postado 14:42 BRT): Luis Antonio de Souza Junior avisou que a aula de SO daquele dia começaria pontualmente às 15h, porque precisaria terminá-la mais cedo.
 
 ## Atualização (2026-09-11)
 
@@ -217,3 +223,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-24, sem e-mails novos -->
+
+## Atualização (2026-09-25)
+
+Três e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) lista de exercícios "Exercícios - Semáforos" (postado 2026-09-24 10:03 BRT), sem conteúdo detalhado no corpo do e-mail e sem prazo explícito; (2) aviso (postado 2026-09-24 14:42 BRT) de que a aula daquele dia começaria pontualmente às 15h; (3) novo material "Aula 12 - Monitores" (postado 2026-09-24 14:42 BRT), sobre sincronização utilizando mecanismo de monitores, estrutura básica de monitor e exclusão mútua, abordagens de Hoare e Hansen, problemas dos filósofos glutões e produtor/consumidor, e implementação de monitores utilizando semáforos, com material complementar (Tanenbaum, seção 2.3.7) e dois vídeos indicados. Classificados como lista de exercícios, aviso e material de estudo, respectivamente; adicionados a Tarefas > Execução (Aula 11), Tarefas > Avisos e Tarefas > Estudo (Aula 12), e ao Mapa de aulas (linha da Aula 11 atualizada para "estudo + execução"; nova linha para Aula 12).
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Exercícios - Semáforos"; "Novo comunicado: Boa tarde pessoal!..."; "Novo material: Aula 12 - Monitores"), coletados em 2026-09-25 -->
