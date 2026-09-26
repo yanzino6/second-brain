@@ -229,3 +229,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Três e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) lista de exercícios "Exercícios - Semáforos" (postado 2026-09-24 10:03 BRT), sem conteúdo detalhado no corpo do e-mail e sem prazo explícito; (2) aviso (postado 2026-09-24 14:42 BRT) de que a aula daquele dia começaria pontualmente às 15h; (3) novo material "Aula 12 - Monitores" (postado 2026-09-24 14:42 BRT), sobre sincronização utilizando mecanismo de monitores, estrutura básica de monitor e exclusão mútua, abordagens de Hoare e Hansen, problemas dos filósofos glutões e produtor/consumidor, e implementação de monitores utilizando semáforos, com material complementar (Tanenbaum, seção 2.3.7) e dois vídeos indicados. Classificados como lista de exercícios, aviso e material de estudo, respectivamente; adicionados a Tarefas > Execução (Aula 11), Tarefas > Avisos e Tarefas > Estudo (Aula 12), e ao Mapa de aulas (linha da Aula 11 atualizada para "estudo + execução"; nova linha para Aula 12).
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Exercícios - Semáforos"; "Novo comunicado: Boa tarde pessoal!..."; "Novo material: Aula 12 - Monitores"), coletados em 2026-09-25 -->
+
+## Verificação (2026-09-26)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-26, sem e-mails novos -->
