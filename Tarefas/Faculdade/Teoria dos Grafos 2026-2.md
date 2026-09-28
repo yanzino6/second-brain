@@ -39,6 +39,10 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Resolver as listas de exercícios de Teoria dos Grafos.
 - [ ] Aula não identificada — Resolver a lista de exercícios anunciada em 2026-09-15 no Google Sala de Aula ("Lista de exercícios nova publicada!"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
 
+### Avisos
+
+- 2026-09-28: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-09-27 21:48 BRT), que não haverá aula de Teoria dos Grafos nesta semana, porque está afastada para um congresso.
+
 ## Prazos
 
 > [!question] Em aberto: nenhum prazo explícito apareceu nos e-mails consultados.
@@ -172,3 +176,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-27, sem e-mails novos -->
+
+## Atualização (2026-09-28)
+
+Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-09-27 21:48 BRT) informando que não haverá aula de Teoria dos Grafos nesta semana, porque a professora está afastada para um congresso. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos (seção criada agora, primeira vez que um aviso chega para esta disciplina).
+
+<!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Pessoal, boa noite!..."), postado em 2026-09-27 21:48 BRT, coletado em 2026-09-28 -->
