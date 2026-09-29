@@ -14,6 +14,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — O último escândalo sobre AI... (vídeo sobre a saída de Jacob Coxon da Anthropic e riscos de IA) — estudo — pendente
 - Aula não identificada — vídeo sem título compartilhado em 2026-09-14 (link: https://youtu.be/NiBuUGAB_zY) — estudo — pendente
 - Aula não identificada — Caso dos Rostinhos Abraçadores, para discussão na semana de 21 a 28 de setembro — estudo — pendente
+- Aula — Sistemas de Informação em Saúde — estudo — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
 
@@ -30,6 +31,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula não identificada — Assistir ao vídeo "O último escândalo sobre AI..." sobre a saída de Jacob Coxon (ex-pesquisador de IA, 27 anos, passagens por Anthropic e OpenAI) e refletir para a aula sobre: (1) "Melhoria Autônoma Recursiva" e o risco de superinteligência incontrolável; (2) ameaças imediatas de infraestrutura (ciberataques, armas biológicas); (3) o dilema da "corrida armamentista" entre empresas de IA e a dependência de regulamentação externa. Refletir também sobre o papel do desenvolvedor diante de tecnologias de potencial catastrófico, limites éticos da inovação e o papel da regulamentação.
 - [ ] Aula não identificada — Assistir ao vídeo compartilhado no Google Sala de Aula em 2026-09-14 (https://youtu.be/NiBuUGAB_zY). O e-mail não trouxe título, descrição nem instrução de reflexão.
 - [ ] Aula não identificada — Ler os dois guias de estudo (pptx e docx) sobre o caso dos "Rostinhos Abraçadores" antes da aula da semana de 21 a 28 de setembro, e refletir trazendo outras visões além das apresentadas pelo professor.
+- [ ] Aula — Sistemas de Informação em Saúde — Abrir e revisar os materiais da aula, compartilhados por Saulo Bortolon numa pasta do Google Drive (https://drive.google.com/drive/folders/114jkcYn4Nm6Nf0TiCmeCpJdSFQ770iyV?usp=sharing). O e-mail (classificado no Google Sala de Aula como "aviso", mas com conteúdo de material de estudo) não detalha o conteúdo da pasta.
 
 ### Execução
 
@@ -154,3 +156,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-28, sem e-mails novos -->
+
+## Atualização (2026-09-29)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h: comunicado no Google Sala de Aula (postado em 2026-09-28 12:14 BRT), com o texto "Material sobre a aula de Sistemas de Informação em Saúde está dentro deste diretório aqui...." e um link para uma pasta do Google Drive. Embora o Google Sala de Aula tenha classificado o post como "Novo aviso", o conteúdo é material de estudo apontando para uma aula nomeada explicitamente ("Sistemas de Informação em Saúde"); classificado como material de estudo e adicionado a Tarefas > Estudo e ao Mapa de aulas. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Material sobre a aula de Sistemas de..."), postado em 2026-09-28 12:14 BRT, coletado em 2026-09-29 -->

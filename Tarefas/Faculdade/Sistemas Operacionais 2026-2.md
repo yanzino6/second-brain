@@ -20,9 +20,12 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 13 — Revisão P1 — estudo — pendente
 - Aula 09 — Sincronização por Busy-Wait — estudo + execução — pendente
 - Aula 11 — Semáforos — estudo + execução — pendente
-- Aula 12 — Monitores — estudo — pendente
+- Aula 12 — Monitores — estudo + execução — pendente
+- Aula 14 — Pipes — estudo — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
+
+> [!question] Em aberto (2026-09-29): "Aula 14 — Pipes" chegou numerada pelo professor, mas não há confirmação de conteúdo para a Aula 13 na forma de material próprio (apenas "Revisão P1") nem para eventual aula entre a 12 e a 14 — a numeração real segue parcialmente incerta, como já registrado acima para as aulas 5 a 8, 10 e 13 (esta última é só revisão, não conteúdo novo).
 
 > [!question] Em aberto (2026-09-18): "Aula 09 — Sincronização por Busy-Wait" chegou numerada pelo professor, mas aparece depois de "Aula 13 — Revisão P1" nesta lista porque foi adicionada por último, na ordem de chegada dos e-mails — não pela ordem numérica das aulas. Não há confirmação de conteúdo para as aulas 5 a 8 e 10 a 12 nos e-mails registrados; a numeração real da disciplina segue incerta.
 
@@ -49,6 +52,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 09 — Estudar sincronização por busy-wait: introdução à sincronização de processos, região crítica e exclusão mútua, mecanismos de sincronização por busy-wait; assistir ao vídeo indicado da UNIVESP sobre Busy Wait.
 - [ ] Aula 11 — Estudar semáforos: resolução de exclusão mútua utilizando semáforos (kernel + bloqueio de processos para acesso à região crítica); problema do produtor/consumidor com e sem paralelismo utilizando semáforos; consultar Silberschatz (seções 7.4, 7.5 e início da 7.6) e assistir ao vídeo "Semaphores" (Xoviabcs, ~9min).
 - [ ] Aula 12 — Estudar Monitores: sincronização utilizando mecanismo de monitores; estrutura básica de monitor e exclusão mútua; abordagens de Hoare e Hansen para monitores; problemas dos filósofos glutões e produtor/consumidor; implementação de monitores utilizando semáforos; consultar Tanenbaum ("Sistemas Operacionais: projeto e implementação", 3a. ed., seção 2.3.7, pp. 81-85) e os dois vídeos indicados.
+- [ ] Aula 14 — Estudar Pipes: comunicação entre processos (modo usuário) utilizando Pipes — conceito e implementação de Pipes e Filas; consultar o material complementar (Celso A. S. Santos, "Programação em tempo real") e os sete vídeos indicados sobre uso de `fork`/`pipe` em C.
 
 ### Execução
 
@@ -60,6 +64,7 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Entregar o Lab2 — SVC (parte 2) em um `.zip`, seguindo o padrão de nome e cabeçalho exigido. Prazo informado: 2026-09-14.
 - [ ] Aula 09 — Resolver os exercícios de Sincronização por Busy-Wait/HW.
 - [ ] Aula 11 — Resolver os exercícios de Semáforos.
+- [ ] Aula 12 — Resolver os exercícios de Monitores ("Exercícios - Monitores"). O e-mail trouxe apenas o título, sem conteúdo detalhado.
 
 ## Prazos e lacunas
 
@@ -72,6 +77,8 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-09-22): nenhum prazo explícito apareceu no material da Aula 11 — Semáforos; não há lista de exercícios associada até o momento.
 
 > [!question] Em aberto (2026-09-25): a lista de exercícios da Aula 11 — Semáforos chegou em 2026-09-24, mas o e-mail não trouxe prazo de entrega.
+
+> [!question] Em aberto (2026-09-29): nenhum prazo explícito apareceu no e-mail dos exercícios de Monitores (Aula 12).
 
 ## Progresso confirmado (2026-09-09)
 
@@ -247,3 +254,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-09-28, sem e-mails novos -->
+
+## Atualização (2026-09-29)
+
+Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) novo material "Aula 14 - Pipes" (postado 2026-09-28 12:31 BRT), sobre comunicação entre processos (modo usuário) utilizando Pipes — conceito e implementação de Pipes e Filas —, com material complementar (Celso A. S. Santos, "Programação em tempo real") e sete vídeos indicados; (2) lista de exercícios "Exercícios - Monitores" (postado 2026-09-28 12:57 BRT), sem conteúdo detalhado no corpo do e-mail e sem prazo explícito. Classificados como material de estudo e lista de exercícios, respectivamente; adicionados a Tarefas > Estudo (Aula 14) e Tarefas > Execução (Aula 12), e ao Mapa de aulas (nova linha para Aula 14; linha da Aula 12 atualizada para "estudo + execução").
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 14 - Pipes"; "Novo material: Exercícios - Monitores"), postados em 2026-09-28 entre 12:31 e 12:57 BRT, coletados em 2026-09-29 -->

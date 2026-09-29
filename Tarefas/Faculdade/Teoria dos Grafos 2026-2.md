@@ -182,3 +182,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-09-27 21:48 BRT) informando que não haverá aula de Teoria dos Grafos nesta semana, porque a professora está afastada para um congresso. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos (seção criada agora, primeira vez que um aviso chega para esta disciplina).
 
 <!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Pessoal, boa noite!..."), postado em 2026-09-27 21:48 BRT, coletado em 2026-09-28 -->
+
+## Verificação (2026-09-29)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-29, sem e-mails novos -->
