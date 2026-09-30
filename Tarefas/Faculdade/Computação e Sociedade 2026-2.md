@@ -162,3 +162,9 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Um e-mail novo de Saulo Bortolon nas últimas 24h: comunicado no Google Sala de Aula (postado em 2026-09-28 12:14 BRT), com o texto "Material sobre a aula de Sistemas de Informação em Saúde está dentro deste diretório aqui...." e um link para uma pasta do Google Drive. Embora o Google Sala de Aula tenha classificado o post como "Novo aviso", o conteúdo é material de estudo apontando para uma aula nomeada explicitamente ("Sistemas de Informação em Saúde"); classificado como material de estudo e adicionado a Tarefas > Estudo e ao Mapa de aulas. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Material sobre a aula de Sistemas de..."), postado em 2026-09-28 12:14 BRT, coletado em 2026-09-29 -->
+
+## Verificação (2026-09-30)
+
+Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-30, sem e-mails novos -->

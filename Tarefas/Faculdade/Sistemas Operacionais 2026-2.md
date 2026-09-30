@@ -260,3 +260,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) novo material "Aula 14 - Pipes" (postado 2026-09-28 12:31 BRT), sobre comunicação entre processos (modo usuário) utilizando Pipes — conceito e implementação de Pipes e Filas —, com material complementar (Celso A. S. Santos, "Programação em tempo real") e sete vídeos indicados; (2) lista de exercícios "Exercícios - Monitores" (postado 2026-09-28 12:57 BRT), sem conteúdo detalhado no corpo do e-mail e sem prazo explícito. Classificados como material de estudo e lista de exercícios, respectivamente; adicionados a Tarefas > Estudo (Aula 14) e Tarefas > Execução (Aula 12), e ao Mapa de aulas (nova linha para Aula 14; linha da Aula 12 atualizada para "estudo + execução").
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 14 - Pipes"; "Novo material: Exercícios - Monitores"), postados em 2026-09-28 entre 12:31 e 12:57 BRT, coletados em 2026-09-29 -->
+
+## Verificação (2026-09-30)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-09-30, sem e-mails novos -->
