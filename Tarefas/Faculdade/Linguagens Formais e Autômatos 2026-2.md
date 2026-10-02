@@ -6,7 +6,7 @@ data: 2026-09-23
 
 # Linguagens Formais e Autômatos 2026/2
 
-Professor: Rosane Santos  
+Professor: Rosane Santos Caruso de Oliveira  
 Responsável: [[USER|Yan Simmer]]
 
 ## Mapa de aulas
@@ -27,11 +27,15 @@ Responsável: [[USER|Yan Simmer]]
 
 > [!question] Em aberto: nenhuma lista ou laboratório chegou ainda para esta disciplina.
 
+### Avisos
+
+- 2026-10-01 (postado 13:05 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que as aulas de sexta-feira (02/10) serão no CT13 em vez do CT9, por causa da obra nos banheiros; a alocação informada para LFA é a Sala 10 (piso superior).
+
 ## Prazos e lacunas
 
 > [!question] Em aberto: nenhum prazo explícito apareceu no e-mail consultado.
 
-> [!question] Em aberto: a identidade da professora de Linguagens Formais e Autômatos estava registrada como "sobrenome não confirmado". O único e-mail encontrado hoje veio de "Rosane Santos" (rosanesco@gmail.com), compartilhando uma pasta chamada "LFA" com uma lista de destinatários em @edu.ufes.br (colegas de turma) — não houve ambiguidade entre múltiplas pessoas chamadas Rosane nos resultados de busca, apenas esse remetente apareceu. Ainda assim, o e-mail veio de conta pessoal do Gmail, não institucional, e não passou pelo Google Sala de Aula como os demais professores — a confirmação de que se trata da professora oficial da disciplina fica como lacuna.
+> [!question] Em aberto, parcialmente resolvida em 2026-10-01: a identidade da professora de Linguagens Formais e Autômatos estava registrada como "sobrenome não confirmado". O e-mail de 2026-09-23 veio de "Rosane Santos" (rosanesco@gmail.com, conta pessoal), compartilhando a pasta "LFA". Em 2026-10-01, chegou um e-mail institucional via Portal do Professor/UFES (portal.professor@ufes.br), endereçado diretamente aos alunos de Linguagens Formais e Autômatos, assinado "ROSANE SANTOS CARUSO DE OLIVEIRA" — nome compatível com "Rosane Santos". O nome completo foi atualizado no campo "Professor" desta nota com base nesse e-mail institucional. Ainda não há confirmação cruzada entre o endereço pessoal (rosanesco@gmail.com) e esse nome institucional — ou seja, que a pessoa que compartilhou a pasta "LFA" é a mesma "Rosane Santos Caruso de Oliveira" do Portal do Professor — mas não há mais ambiguidade entre pessoas diferentes chamadas Rosane nos resultados de busca.
 
 ## Fonte e escopo
 
@@ -86,3 +90,9 @@ Nenhum e-mail novo de Rosane nas últimas 24h.
 Nenhum e-mail novo de Rosane nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-01, sem e-mails novos -->
+
+## Atualização (2026-10-02)
+
+Um e-mail novo envolvendo Rosane Santos Caruso de Oliveira nas últimas 24h (enviado duas vezes, com 3 segundos de diferença, para múltiplas turmas da professora, entre elas Linguagens Formais e Autômatos): aviso via Portal do Professor/UFES (postado 2026-10-01 13:05 BRT) informando que as aulas de sexta-feira, 02/10, seriam no CT13 em vez do CT9, por obra nos banheiros, com a turma de LFA alocada na Sala 10 (piso superior). Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos (seção criada agora, primeira vez que um aviso chega para esta disciplina). Esse e-mail institucional também trouxe o nome completo da professora, usado para atualizar o campo "Professor" e para registrar a resolução parcial da lacuna de identidade (ver Prazos e lacunas).
+
+<!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aulas de amanhã(sexta-feira-02/10) serão no CT13"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-01 13:05 BRT, coletado em 2026-10-02 -->

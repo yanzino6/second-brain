@@ -22,6 +22,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 11 — Semáforos — estudo + execução — pendente
 - Aula 12 — Monitores — estudo + execução — pendente
 - Aula 14 — Pipes — estudo — pendente
+- Aula 15 — Lab 3 - Pipes — execução — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -65,6 +66,8 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 09 — Resolver os exercícios de Sincronização por Busy-Wait/HW.
 - [ ] Aula 11 — Resolver os exercícios de Semáforos.
 - [ ] Aula 12 — Resolver os exercícios de Monitores ("Exercícios - Monitores"). O e-mail trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula 15 — Executar o Lab3 - Pipes: laboratório de exercícios sobre comunicação entre processos usando Pipes.
+- [ ] Aula 15 — Entregar o Lab3 - Pipes em um `.zip`, com um arquivo `.c` para cada tarefa de implementação de código; nome do aluno e matrícula devem constar no cabeçalho do texto, no cabeçalho de cada `.c` e no nome do arquivo (formato indicado no e-mail: nome_separado_por_underline-matricula, com extensão de exemplo ".pdf" — o e-mail usa esse exemplo apesar de pedir entrega em `.zip`). **Prazo: 2026-10-05.**
 
 ## Prazos e lacunas
 
@@ -79,6 +82,8 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-09-25): a lista de exercícios da Aula 11 — Semáforos chegou em 2026-09-24, mas o e-mail não trouxe prazo de entrega.
 
 > [!question] Em aberto (2026-09-29): nenhum prazo explícito apareceu no e-mail dos exercícios de Monitores (Aula 12).
+
+- Lab3 - Pipes (Aula 15) — 2026-10-05.
 
 ## Progresso confirmado (2026-09-09)
 
@@ -272,3 +277,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-01, sem e-mails novos -->
+
+## Atualização (2026-10-02)
+
+Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h, ambos sobre o mesmo laboratório: (1) novo material "Aula 15 - Lab 3 - Pipes" (postado 2026-10-01 12:29 BRT), descrito apenas como "Laboratório de exercícios - comunicação entre processos usando Pipes."; (2) nova atividade "Entrega Lab3 - Pipes" (postado 2026-10-01 15:48 BRT), pedindo arquivo `.zip` com um `.c` por tarefa de implementação, nome e matrícula no cabeçalho do texto, de cada `.c` e no nome do arquivo, com **prazo em 5 de out. (2026-10-05)**. Classificados como lista/laboratório (tarefa com prazo); adicionados a Tarefas > Execução (Aula 15) e a Prazos e lacunas, e ao Mapa de aulas como nova linha "Aula 15 — Lab 3 - Pipes — execução — pendente".
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 15 - Lab 3 - Pipes"; "Nova atividade: Entrega Lab3 - Pipes"), postados em 2026-10-01 entre 12:29 e 15:48 BRT, coletados em 2026-10-02 -->
