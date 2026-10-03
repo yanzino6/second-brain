@@ -283,3 +283,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h, ambos sobre o mesmo laboratório: (1) novo material "Aula 15 - Lab 3 - Pipes" (postado 2026-10-01 12:29 BRT), descrito apenas como "Laboratório de exercícios - comunicação entre processos usando Pipes."; (2) nova atividade "Entrega Lab3 - Pipes" (postado 2026-10-01 15:48 BRT), pedindo arquivo `.zip` com um `.c` por tarefa de implementação, nome e matrícula no cabeçalho do texto, de cada `.c` e no nome do arquivo, com **prazo em 5 de out. (2026-10-05)**. Classificados como lista/laboratório (tarefa com prazo); adicionados a Tarefas > Execução (Aula 15) e a Prazos e lacunas, e ao Mapa de aulas como nova linha "Aula 15 — Lab 3 - Pipes — execução — pendente".
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 15 - Lab 3 - Pipes"; "Nova atividade: Entrega Lab3 - Pipes"), postados em 2026-10-01 entre 12:29 e 15:48 BRT, coletados em 2026-10-02 -->
+
+## Verificação (2026-10-03)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. O Lab3 - Pipes (Aula 15) segue com prazo de entrega em 2026-10-05.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-03, sem e-mails novos -->

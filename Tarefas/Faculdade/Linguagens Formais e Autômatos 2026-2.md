@@ -96,3 +96,9 @@ Nenhum e-mail novo de Rosane nas últimas 24h.
 Um e-mail novo envolvendo Rosane Santos Caruso de Oliveira nas últimas 24h (enviado duas vezes, com 3 segundos de diferença, para múltiplas turmas da professora, entre elas Linguagens Formais e Autômatos): aviso via Portal do Professor/UFES (postado 2026-10-01 13:05 BRT) informando que as aulas de sexta-feira, 02/10, seriam no CT13 em vez do CT9, por obra nos banheiros, com a turma de LFA alocada na Sala 10 (piso superior). Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos (seção criada agora, primeira vez que um aviso chega para esta disciplina). Esse e-mail institucional também trouxe o nome completo da professora, usado para atualizar o campo "Professor" e para registrar a resolução parcial da lacuna de identidade (ver Prazos e lacunas).
 
 <!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aulas de amanhã(sexta-feira-02/10) serão no CT13"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-01 13:05 BRT, coletado em 2026-10-02 -->
+
+## Verificação (2026-10-03)
+
+Nenhum e-mail novo de Rosane nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-03, sem e-mails novos -->
