@@ -18,6 +18,9 @@ Responsável: [[USER|Yan Simmer]]
 - Aula — Árvores: definições e propriedades — estudo — material revisado
 - Aula — Algoritmos clássicos de caminhamento em profundidade e em largura — estudo — material revisado
 - Aula não identificada — lista de exercícios publicada em 2026-09-15 — execução — pendente
+- Aula — Distância em grafos — estudo — pendente
+- Aula — Caminhos mínimos - algoritmo de Dijkstra — estudo — pendente
+- Aula — Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd — estudo — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
 
@@ -33,6 +36,9 @@ Responsável: [[USER|Yan Simmer]]
 - [x] Estudar dígrafos.
 - [x] Estudar árvores: definições e propriedades.
 - [x] Estudar algoritmos clássicos de caminhamento em profundidade e em largura.
+- [ ] Aula — Distância em grafos — estudar o material novo publicado no Google Sala de Aula. O e-mail trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula — Caminhos mínimos - algoritmo de Dijkstra — estudar a apresentação dos conceitos preliminares sobre caminho mínimo em grafos e o algoritmo de Dijkstra.
+- [ ] Aula — Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd — estudar o material novo publicado no Google Sala de Aula. O e-mail trouxe apenas o título, sem conteúdo detalhado.
 
 ### Execução
 
@@ -218,3 +224,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-04, sem e-mails novos -->
+
+## Atualização (2026-10-05)
+
+Três e-mails novos de Maria Claudia Silva Boeres nas últimas 24h, todos postados entre 19:23 e 19:25 BRT de 2026-10-04, com novos materiais sobre caminhos mínimos em grafos: (1) "Distância em grafos" (sem conteúdo detalhado no e-mail); (2) "Caminhos mínimos - algoritmo de Dijkstra" ("Apresentação dos conceitos preliminares sobre caminho mínimo em grafos e do algoritmo de Dijkstra"); (3) "Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd" (sem conteúdo detalhado no e-mail). Nenhum dos três e-mails numera a aula. Classificados como material de estudo; adicionados a Tarefas > Estudo e ao Mapa de aulas, cada um como "Aula — [tema]", na ordem de postagem.
+
+<!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: Distância em grafos"; "Novo material: Caminhos mínimos - algoritmo de Dijkstra"; "Novo material: Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd"), postados entre 2026-10-04 19:23 e 19:25 BRT, coletados em 2026-10-05 -->

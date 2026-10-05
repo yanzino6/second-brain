@@ -125,6 +125,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-19: Luis Antonio de Souza Junior avisou, no Google Sala de Aula, que as notas da P1 estão disponíveis na planilha de acompanhamento de notas e faltas (aba "Notas"), na seção Geral de Atividades da disciplina.
 - 2026-09-22: Luis Antonio de Souza Junior avisou, no Google Sala de Aula (postado em 2026-09-21 14:23 BRT), sobre a SIS (https://life.inf.ufes.br/sis/): "Se tiverem interesse: tem que se inscrever." Ação opcional (inscrição), não é tarefa de estudo/entrega.
 - 2026-09-24 (postado 14:42 BRT): Luis Antonio de Souza Junior avisou que a aula de SO daquele dia começaria pontualmente às 15h, porque precisaria terminá-la mais cedo.
+- 2026-10-04 (postado 12:58 BRT): lembrete automático do Google Sala de Aula de que o prazo de entrega do Lab3 - Pipes (Aula 15) é amanhã, 2026-10-05; já registrado em Prazos e lacunas.
 
 ## Atualização (2026-09-11)
 
@@ -295,3 +296,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. O Lab3 - Pi
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. O Lab3 - Pipes (Aula 15) segue com prazo de entrega em 2026-10-05 — amanhã.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-04, sem e-mails novos -->
+
+## Atualização (2026-10-05)
+
+Um e-mail novo nas últimas 24h, do Google Sala de Aula (SO_2026_2, INF15980): lembrete automático de que o prazo do Lab3 - Pipes (Aula 15) é amanhã, 5 de out. (2026-10-05), repetindo as instruções de entrega já registradas (arquivo `.zip`, um `.c` por tarefa, nome e matrícula no cabeçalho e no nome do arquivo). Classificado como aviso (lembrete automático de prazo já tracked, sem tarefa nova); adicionado em Tarefas > Avisos.
+
+<!-- fonte: Gmail educacional, e-mail do Google Sala de Aula ("A data de entrega é amanhã: Entrega Lab3 - Pipes"), postado em 2026-10-04 12:58 BRT, coletado em 2026-10-05 -->
