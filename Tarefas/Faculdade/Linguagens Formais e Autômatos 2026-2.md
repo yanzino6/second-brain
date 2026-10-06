@@ -30,10 +30,13 @@ Responsável: [[USER|Yan Simmer]]
 ### Avisos
 
 - 2026-10-01 (postado 13:05 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que as aulas de sexta-feira (02/10) serão no CT13 em vez do CT9, por causa da obra nos banheiros; a alocação informada para LFA é a Sala 10 (piso superior).
+- 2026-10-05 (postado 18:41 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que haverá aula de LFA na quarta-feira (07/10), concluindo a matéria da prova com "a FNG"; a aula terminará mais cedo por conta do evento CT de Portas Abertas.
 
 ## Prazos e lacunas
 
-> [!question] Em aberto: nenhum prazo explícito apareceu no e-mail consultado.
+> [!question] Em aberto: nenhum prazo explícito apareceu nos e-mails consultados.
+
+> [!question] Em aberto (2026-10-06): o e-mail de 2026-10-05 cita "a matéria da prova, com a FNG" — a sigla "FNG" não é explicada; pode se referir a uma forma normal de gramática (ex.: Forma Normal de Greibach), mas não há confirmação, e não há data anunciada para essa prova.
 
 > [!question] Em aberto, parcialmente resolvida em 2026-10-01: a identidade da professora de Linguagens Formais e Autômatos estava registrada como "sobrenome não confirmado". O e-mail de 2026-09-23 veio de "Rosane Santos" (rosanesco@gmail.com, conta pessoal), compartilhando a pasta "LFA". Em 2026-10-01, chegou um e-mail institucional via Portal do Professor/UFES (portal.professor@ufes.br), endereçado diretamente aos alunos de Linguagens Formais e Autômatos, assinado "ROSANE SANTOS CARUSO DE OLIVEIRA" — nome compatível com "Rosane Santos". O nome completo foi atualizado no campo "Professor" desta nota com base nesse e-mail institucional. Ainda não há confirmação cruzada entre o endereço pessoal (rosanesco@gmail.com) e esse nome institucional — ou seja, que a pessoa que compartilhou a pasta "LFA" é a mesma "Rosane Santos Caruso de Oliveira" do Portal do Professor — mas não há mais ambiguidade entre pessoas diferentes chamadas Rosane nos resultados de busca.
 
@@ -114,3 +117,9 @@ Nenhum e-mail novo de Rosane nas últimas 24h.
 Nenhum e-mail novo de Rosane nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-05, sem e-mails novos -->
+
+## Atualização (2026-10-06)
+
+Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via Portal do Professor/UFES (postado em 2026-10-05 18:41 BRT) confirmando aula de LFA na quarta-feira, 07/10, para concluir a matéria da prova com "a FNG" (sigla não explicada); a aula terminará mais cedo por conta do evento CT de Portas Abertas. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos e lacuna sobre a sigla "FNG" registrada em Prazos e lacunas.
+
+<!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de quarta-feira"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-05 18:41 BRT, coletado em 2026-10-06 -->

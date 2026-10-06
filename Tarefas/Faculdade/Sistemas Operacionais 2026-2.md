@@ -23,6 +23,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 12 — Monitores — estudo + execução — pendente
 - Aula 14 — Pipes — estudo — pendente
 - Aula 15 — Lab 3 - Pipes — execução — pendente
+- Aula 16 — Threads (Parte 1) — estudo — pendente
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -54,6 +55,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 11 — Estudar semáforos: resolução de exclusão mútua utilizando semáforos (kernel + bloqueio de processos para acesso à região crítica); problema do produtor/consumidor com e sem paralelismo utilizando semáforos; consultar Silberschatz (seções 7.4, 7.5 e início da 7.6) e assistir ao vídeo "Semaphores" (Xoviabcs, ~9min).
 - [ ] Aula 12 — Estudar Monitores: sincronização utilizando mecanismo de monitores; estrutura básica de monitor e exclusão mútua; abordagens de Hoare e Hansen para monitores; problemas dos filósofos glutões e produtor/consumidor; implementação de monitores utilizando semáforos; consultar Tanenbaum ("Sistemas Operacionais: projeto e implementação", 3a. ed., seção 2.3.7, pp. 81-85) e os dois vídeos indicados.
 - [ ] Aula 14 — Estudar Pipes: comunicação entre processos (modo usuário) utilizando Pipes — conceito e implementação de Pipes e Filas; consultar o material complementar (Celso A. S. Santos, "Programação em tempo real") e os sete vídeos indicados sobre uso de `fork`/`pipe` em C.
+- [ ] Aula 16 — Estudar Threads (Parte 1): definição de threads, abstração de processos em fluxos independentes de execução, propriedade de recursos vs. unidade de escalonamento, task control block, comparação entre modelos de threads (user-level e kernel-level), modelos híbridos e documentação pthread (Linux); consultar Tanenbaum, seção 2.2 "Threads" (até 2.2.6, pp. 57-67) e os dois vídeos indicados (um deles com explicação da biblioteca PTHREAD a partir de 25min).
 
 ### Execução
 
@@ -126,6 +128,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-22: Luis Antonio de Souza Junior avisou, no Google Sala de Aula (postado em 2026-09-21 14:23 BRT), sobre a SIS (https://life.inf.ufes.br/sis/): "Se tiverem interesse: tem que se inscrever." Ação opcional (inscrição), não é tarefa de estudo/entrega.
 - 2026-09-24 (postado 14:42 BRT): Luis Antonio de Souza Junior avisou que a aula de SO daquele dia começaria pontualmente às 15h, porque precisaria terminá-la mais cedo.
 - 2026-10-04 (postado 12:58 BRT): lembrete automático do Google Sala de Aula de que o prazo de entrega do Lab3 - Pipes (Aula 15) é amanhã, 2026-10-05; já registrado em Prazos e lacunas.
+- 2026-10-05 (postado 13:05 BRT): Luis Antonio de Souza Junior divulgou, no Google Sala de Aula, a palestra externa "IA na dermatologia: um olhar clínico sobre aplicações atuais e novas fronteiras", com Dr. Bruno Simão dos Santos, promovida pelo LIFE (Laboratório de Inteligência Artificial em Saúde). Data: 2026-10-05 (mesmo dia da postagem), 19h, transmitida pelo canal do LIFE no YouTube (https://www.youtube.com/live/49bB5DUZ6Yo). Participação não obrigatória, sem vínculo direto com o conteúdo de Sistemas Operacionais.
 
 ## Atualização (2026-09-11)
 
@@ -302,3 +305,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. O Lab3 - Pi
 Um e-mail novo nas últimas 24h, do Google Sala de Aula (SO_2026_2, INF15980): lembrete automático de que o prazo do Lab3 - Pipes (Aula 15) é amanhã, 5 de out. (2026-10-05), repetindo as instruções de entrega já registradas (arquivo `.zip`, um `.c` por tarefa, nome e matrícula no cabeçalho e no nome do arquivo). Classificado como aviso (lembrete automático de prazo já tracked, sem tarefa nova); adicionado em Tarefas > Avisos.
 
 <!-- fonte: Gmail educacional, e-mail do Google Sala de Aula ("A data de entrega é amanhã: Entrega Lab3 - Pipes"), postado em 2026-10-04 12:58 BRT, coletado em 2026-10-05 -->
+
+## Atualização (2026-10-06)
+
+Dois e-mails novos de/via Luis Antonio de Souza Junior nas últimas 24h: (1) novo material "Aula 16 - Threads (Parte 1)" (postado 2026-10-05 14:36 BRT), sobre definição de threads, abstração de processos em fluxos independentes de execução, propriedade de recursos vs. unidade de escalonamento, task control block, modelos user-level/kernel-level e híbridos, e documentação pthread, com material complementar (Tanenbaum, seção 2.2, pp. 57-67) e dois vídeos indicados; (2) divulgação de palestra externa sobre IA na dermatologia (postado 2026-10-05 13:05 BRT), sem vínculo direto com o conteúdo da disciplina (ver Avisos). Classificados como material de estudo e aviso, respectivamente; o primeiro adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 16, o segundo adicionado a Tarefas > Avisos.
+
+<!-- fonte: Gmail educacional, e-mails de/via Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 16 - Threads (Parte 1)"; "Novo comunicado: 📢 PALESTRA | IA NA DERMATOLOGIA"), postados em 2026-10-05 entre 13:05 e 14:36 BRT, coletados em 2026-10-06 -->

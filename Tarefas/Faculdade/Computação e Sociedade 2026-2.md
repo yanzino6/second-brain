@@ -15,6 +15,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — vídeo sem título compartilhado em 2026-09-14 (link: https://youtu.be/NiBuUGAB_zY) — estudo — pendente
 - Aula não identificada — Caso dos Rostinhos Abraçadores, para discussão na semana de 21 a 28 de setembro — estudo — pendente
 - Aula — Sistemas de Informação em Saúde — estudo — pendente
+- Aula não identificada — TP1 — execução — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
 
@@ -35,7 +36,11 @@ Responsável: [[USER|Yan Simmer]]
 
 ### Execução
 
-> [!question] Em aberto: nenhuma lista ou laboratório chegou ainda para esta disciplina.
+- [ ] Aula não identificada — Entregar o TP1. **Prazo informado: 5 de out. (2026-10-05) — já vencido na data desta coleta (2026-10-06).** Nem o e-mail de criação da atividade (postado em 2026-08-31 23:12 BRT) nem o lembrete de prazo (postado em 2026-10-05, poucos minutos após a meia-noite BRT) trazem a descrição do trabalho — apenas o título "TP1 - Descrição".
+
+> [!question] Em aberto: o conteúdo do TP1 não está no corpo de nenhum e-mail recebido; é preciso abrir a atividade diretamente no Google Sala de Aula para saber o que deve ser entregue.
+
+> [!question] Em aberto: a atividade TP1 foi postada por Camila Zacche de Aguiar, não por Saulo Bortolon — não está confirmado se ela é professora, monitora ou outra função na disciplina INF16159_ComputaçãoSociedade_2026_2. Registrada aqui mesmo assim porque a postagem veio da mesma turma/classroom da disciplina.
 
 ### Avisos
 
@@ -44,6 +49,8 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-09-17 (postado 19:59 BRT): Saulo Bortolon confirmou que chegou em Vitória e estará às 08:00 na sala de aula em 18/09. Porém, às 09:00 ele irá a um encontro formativo no Auditório Professor Reno Reine Castello (CT-1), "Inteligência Artificial nos Currículos de Exatas" (palestrantes Rodolfo Azevedo, do Instituto de Computação da Unicamp, e Alessandro Coutinho Ramos, da UVV; 18/09, 9h às 12h) — por isso, a aula fica "sem presença obrigatória" a partir desse horário. Convidou os alunos a participarem do encontro formativo, sem obrigatoriedade.
 
 ## Prazos e lacunas
+
+- TP1 — prazo informado: 2026-10-05. **Vencido** na data desta coleta (2026-10-06); sem confirmação de entrega.
 
 > [!question] Em aberto: Saulo Bortolon prometeu enviar, em 2026-09-14, as listas para escolha de turma de avaliação de ingressantes "amanhã" (2026-09-15); nenhuma lista havia chegado até a coleta desta rotina em 2026-09-15.
 
@@ -198,3 +205,11 @@ Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de t
 Nenhum e-mail novo de Saulo Bortolon nas últimas 24h. A lista para escolha de turma de avaliação de ingressantes, prometida para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-05, sem e-mails novos -->
+
+## Atualização (2026-10-06)
+
+Um e-mail novo nas últimas 24h, do Google Sala de Aula (INF16159_ComputaçãoSociedade_2026_2): lembrete automático (postado em 2026-10-05, poucos minutos após a meia-noite BRT) de que o prazo de entrega do TP1 é "amanhã", mas o próprio e-mail traz o prazo como "5 de out." — ou seja, a mesma data da postagem. Buscada a atividade original ("Nova atividade: TP1 - Descrição", postada em 2026-08-31 23:12 BRT), ela também não traz descrição do trabalho no corpo do e-mail, apenas o título, e foi postada por Camila Zacche de Aguiar — não por Saulo Bortolon (ver lacuna em Tarefas > Execução). Classificado como lista/laboratório com prazo explícito; adicionado a Tarefas > Execução, Prazos e lacunas, e ao Mapa de aulas como "Aula não identificada". Como hoje é 2026-10-06, o prazo (2026-10-05) já está vencido sem confirmação de entrega — nenhuma conversa prévia registra o Yan tendo feito este TP1.
+
+> [!question] Em aberto: nenhuma lista enviada por Saulo Bortolon ou qualquer outro remetente desta disciplina explica o conteúdo do TP1; é necessário abrir a atividade direto no Google Sala de Aula.
+
+<!-- fonte: Gmail educacional, e-mails do Google Sala de Aula ("A data de entrega é amanhã: TP1 - Descrição", postado 2026-10-05 00:01 BRT; "Nova atividade: TP1 - Descrição", postado 2026-08-31 23:12 BRT, por Camila Zacche de Aguiar), coletados em 2026-10-06 -->
