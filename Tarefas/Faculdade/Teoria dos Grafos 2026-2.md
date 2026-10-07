@@ -48,6 +48,7 @@ Responsável: [[USER|Yan Simmer]]
 ### Avisos
 
 - 2026-09-28: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-09-27 21:48 BRT), que não haverá aula de Teoria dos Grafos nesta semana, porque está afastada para um congresso.
+- 2026-10-07: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-10-06 14:34 BRT), que verificou o conteúdo de Teoria dos Grafos e que será possível contemplá-lo nas aulas já previstas; por isso, a aula de hoje (07/10) está cancelada para que a turma participe do evento CT-Portas Abertas.
 
 ## Prazos
 
@@ -236,3 +237,9 @@ Três e-mails novos de Maria Claudia Silva Boeres nas últimas 24h, todos postad
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-06, sem e-mails novos -->
+
+## Atualização (2026-10-07)
+
+Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-10-06 14:34 BRT) informando que verificou o conteúdo de Teoria dos Grafos e que será possível contemplá-lo nas aulas já previstas, por isso a aula de hoje (07/10) está cancelada para que a turma participe do evento CT-Portas Abertas. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Mesmo evento (CT-Portas Abertas) já havia afetado o cronograma de TBO e de Linguagens Formais e Autômatos nos dias anteriores.
+
+<!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Olá pessoal!\nVerifiquei aqui o conteúdo…"), postado em 2026-10-06 14:34 BRT, coletado em 2026-10-07 -->

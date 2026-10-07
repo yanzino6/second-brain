@@ -213,3 +213,9 @@ Um e-mail novo nas últimas 24h, do Google Sala de Aula (INF16159_ComputaçãoSo
 > [!question] Em aberto: nenhuma lista enviada por Saulo Bortolon ou qualquer outro remetente desta disciplina explica o conteúdo do TP1; é necessário abrir a atividade direto no Google Sala de Aula.
 
 <!-- fonte: Gmail educacional, e-mails do Google Sala de Aula ("A data de entrega é amanhã: TP1 - Descrição", postado 2026-10-05 00:01 BRT; "Nova atividade: TP1 - Descrição", postado 2026-08-31 23:12 BRT, por Camila Zacche de Aguiar), coletados em 2026-10-06 -->
+
+## Verificação (2026-10-07)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega e sem descrição do trabalho em nenhum e-mail recebido. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-07, sem e-mails novos -->

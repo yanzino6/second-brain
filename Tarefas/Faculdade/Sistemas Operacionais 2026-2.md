@@ -129,6 +129,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-09-24 (postado 14:42 BRT): Luis Antonio de Souza Junior avisou que a aula de SO daquele dia começaria pontualmente às 15h, porque precisaria terminá-la mais cedo.
 - 2026-10-04 (postado 12:58 BRT): lembrete automático do Google Sala de Aula de que o prazo de entrega do Lab3 - Pipes (Aula 15) é amanhã, 2026-10-05; já registrado em Prazos e lacunas.
 - 2026-10-05 (postado 13:05 BRT): Luis Antonio de Souza Junior divulgou, no Google Sala de Aula, a palestra externa "IA na dermatologia: um olhar clínico sobre aplicações atuais e novas fronteiras", com Dr. Bruno Simão dos Santos, promovida pelo LIFE (Laboratório de Inteligência Artificial em Saúde). Data: 2026-10-05 (mesmo dia da postagem), 19h, transmitida pelo canal do LIFE no YouTube (https://www.youtube.com/live/49bB5DUZ6Yo). Participação não obrigatória, sem vínculo direto com o conteúdo de Sistemas Operacionais.
+- 2026-10-06 (postado 16:05 BRT): Luis Antonio de Souza Junior avisou, no Google Sala de Aula, para não esquecer de se inscrever no minicurso de quinta-feira (9h) da "semana de informática em saúde" (uso de IA para um problema prático de patologia). Ação opcional (inscrição), não é tarefa de estudo/entrega da disciplina.
+
+> [!question] Em aberto (2026-10-07): o e-mail de 2026-10-06 não informa a data exata dessa "quinta-feira" (possivelmente 2026-10-08, por proximidade com a data de envio, mas isso não está confirmado no texto) nem o link de inscrição do minicurso.
 
 ## Atualização (2026-09-11)
 
@@ -311,3 +314,9 @@ Um e-mail novo nas últimas 24h, do Google Sala de Aula (SO_2026_2, INF15980): l
 Dois e-mails novos de/via Luis Antonio de Souza Junior nas últimas 24h: (1) novo material "Aula 16 - Threads (Parte 1)" (postado 2026-10-05 14:36 BRT), sobre definição de threads, abstração de processos em fluxos independentes de execução, propriedade de recursos vs. unidade de escalonamento, task control block, modelos user-level/kernel-level e híbridos, e documentação pthread, com material complementar (Tanenbaum, seção 2.2, pp. 57-67) e dois vídeos indicados; (2) divulgação de palestra externa sobre IA na dermatologia (postado 2026-10-05 13:05 BRT), sem vínculo direto com o conteúdo da disciplina (ver Avisos). Classificados como material de estudo e aviso, respectivamente; o primeiro adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 16, o segundo adicionado a Tarefas > Avisos.
 
 <!-- fonte: Gmail educacional, e-mails de/via Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 16 - Threads (Parte 1)"; "Novo comunicado: 📢 PALESTRA | IA NA DERMATOLOGIA"), postados em 2026-10-05 entre 13:05 e 14:36 BRT, coletados em 2026-10-06 -->
+
+## Atualização (2026-10-07)
+
+Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-10-06 16:05 BRT) pedindo para não esquecer de se inscrever no minicurso de quinta-feira (9h) da "semana de informática em saúde" (uso de IA para um problema prático de patologia). Classificado como aviso (ação opcional de inscrição, não é tarefa de estudo/entrega da disciplina); adicionado em Tarefas > Avisos, com lacuna sobre a data exata e o link de inscrição.
+
+<!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo comunicado: Boa tarde pessoal. Não se esqueçam de…"), postado em 2026-10-06 16:05 BRT, coletado em 2026-10-07 -->
