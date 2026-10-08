@@ -133,6 +133,8 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 
 > [!question] Em aberto (2026-10-07): o e-mail de 2026-10-06 não informa a data exata dessa "quinta-feira" (possivelmente 2026-10-08, por proximidade com a data de envio, mas isso não está confirmado no texto) nem o link de inscrição do minicurso.
 
+- 2026-10-08: e-mail do LIFE (Laboratório de Inteligência Artificial em Saúde, `life@inf.ufes.br`, não é o professor nem o Google Sala de Aula) confirmou, para quem se inscreveu, o minicurso "Introdução à histopatologia digital e análise de imagens com IA" da 3ª Semana de Informática em Saúde (SIS), em 08/10/2026 (quinta-feira), 9h às 11h30, via Google Meet (https://meet.google.com/vmc-nosu-hsh). **Resolve** a lacuna de data e link registrada em 2026-10-07. Minicurso sem vínculo direto obrigatório com o conteúdo de Sistemas Operacionais (ação opcional de inscrição, já confirmada).
+
 ## Atualização (2026-09-11)
 
 Dois e-mails novos de Luis Antonio de Souza Junior: um aviso sobre gabaritos (ver Avisos) e um novo material, "Aula 13 - Revisão P1" (adicionado a Estudo e ao Mapa de aulas). O e-mail do material trouxe apenas o título, sem conteúdo detalhado.
@@ -228,6 +230,8 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Dois e-mails novos de Luis Antonio de Souza Junior nas últimas 24h: (1) material de estudo "Aula 11 - Semáforos" (postado 2026-09-21 12:30 BRT), sobre resolução de exclusão mútua com semáforos e o problema do produtor/consumidor, com material complementar (Silberschatz, seções 7.4–7.6) e vídeo indicado; (2) aviso "Sobre a SIS" (postado 2026-09-21 14:23 BRT), divulgando o link https://life.inf.ufes.br/sis/ e informando que é preciso se inscrever para quem tiver interesse. Classificados como material de estudo e aviso, respectivamente; o primeiro adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 11, o segundo adicionado a Tarefas > Avisos.
 
 > [!question] Em aberto: o e-mail sobre a SIS não explica o que é a SIS (sigla não expandida) nem se a inscrição é relevante para a disciplina ou apenas uma divulgação externa.
+>
+> **Parcialmente resolvida em 2026-10-08:** o e-mail do LIFE sobre o minicurso de histopatologia digital (ver seção "Atualização (2026-10-08)") chama o evento de "3ª Semana de Informática em Saúde (SIS)" — a sigla significa Semana de Informática em Saúde. Ainda não confirmado se a inscrição tem relevância para a disciplina de Sistemas Operacionais ou é só divulgação externa do LIFE.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: Aula 11 - Semáforos"; "Novo comunicado: Pessoal, Sobre a SIS..."), coletados em 2026-09-22 -->
 
@@ -320,3 +324,9 @@ Dois e-mails novos de/via Luis Antonio de Souza Junior nas últimas 24h: (1) nov
 Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-10-06 16:05 BRT) pedindo para não esquecer de se inscrever no minicurso de quinta-feira (9h) da "semana de informática em saúde" (uso de IA para um problema prático de patologia). Classificado como aviso (ação opcional de inscrição, não é tarefa de estudo/entrega da disciplina); adicionado em Tarefas > Avisos, com lacuna sobre a data exata e o link de inscrição.
 
 <!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo comunicado: Boa tarde pessoal. Não se esqueçam de…"), postado em 2026-10-06 16:05 BRT, coletado em 2026-10-07 -->
+
+## Atualização (2026-10-08)
+
+Um e-mail novo nas últimas 24h relacionado à disciplina, mas não vindo de Luis Antonio de Souza Junior nem do Google Sala de Aula: o LIFE (Laboratório de Inteligência Artificial em Saúde, `life@inf.ufes.br`) confirmou, para os inscritos, o minicurso "Introdução à histopatologia digital e análise de imagens com IA" da 3ª Semana de Informática em Saúde (SIS), em 08/10/2026 (hoje, quinta-feira), 9h às 11h30, via Google Meet (https://meet.google.com/vmc-nosu-hsh). Classificado como aviso (ação opcional já confirmada, sem ação de estudo/entrega da disciplina); adicionado em Tarefas > Avisos. Resolve a lacuna sobre data exata e link, registrada em 2026-10-07.
+
+<!-- fonte: Gmail educacional, e-mail do LIFE/UFES ("Minicurso: Introdução à histopatologia digital e análise de imagens com IA"), remetente life@inf.ufes.br, postado em 2026-10-07 19:25 BRT, coletado em 2026-10-08 -->

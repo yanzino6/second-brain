@@ -243,3 +243,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: aviso no Google Sala de Aula (postado em 2026-10-06 14:34 BRT) informando que verificou o conteúdo de Teoria dos Grafos e que será possível contemplá-lo nas aulas já previstas, por isso a aula de hoje (07/10) está cancelada para que a turma participe do evento CT-Portas Abertas. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Mesmo evento (CT-Portas Abertas) já havia afetado o cronograma de TBO e de Linguagens Formais e Autômatos nos dias anteriores.
 
 <!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado: Olá pessoal!\nVerifiquei aqui o conteúdo…"), postado em 2026-10-06 14:34 BRT, coletado em 2026-10-07 -->
+
+## Verificação (2026-10-08)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-08, sem e-mails novos -->

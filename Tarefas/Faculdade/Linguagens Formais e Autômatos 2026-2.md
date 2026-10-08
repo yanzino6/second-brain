@@ -32,6 +32,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-10-01 (postado 13:05 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que as aulas de sexta-feira (02/10) serão no CT13 em vez do CT9, por causa da obra nos banheiros; a alocação informada para LFA é a Sala 10 (piso superior).
 - 2026-10-05 (postado 18:41 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que haverá aula de LFA na quarta-feira (07/10), concluindo a matéria da prova com "a FNG"; a aula terminará mais cedo por conta do evento CT de Portas Abertas.
 - 2026-10-06 (postado 14:48 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que o material disponibilizado no Drive ou em sala de aula (de LFA, e também a apostila já disponibilizada para Lógica para Computação I) não pode ser publicado, divulgado em links, grupos, aplicativos de mensagens, redes sociais ou postagens; não pode ser alterado, copiado, baixado nem repassado para outras pessoas — uso individual, exclusivo do(a) estudante matriculado(a) na turma 01 de LFA (INF16155), 2026/2. Aviso sem prazo de validade.
+- 2026-10-07 (postado 12:49 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que a aula daquele dia (2026-10-07) seria no CT 13, sala 10.
 
 ## Prazos e lacunas
 
@@ -130,3 +131,9 @@ Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via P
 Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via Portal do Professor/UFES (postado em 2026-10-06 14:48 BRT, sender institucional `portal.professor@ufes.br`, com o nome completo "ROSANE SANTOS CARUSO DE OLIVEIRA" no corpo — sem ambiguidade de identidade) informando que o material do Drive/sala de aula de LFA (e também a apostila de Lógica para Computação I) é de uso individual e exclusivo do estudante matriculado, não podendo ser publicado, divulgado, alterado, copiado, baixado ou repassado; aviso sem prazo de validade. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos.
 
 <!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aviso importante - material de estudos"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-06 14:48 BRT, coletado em 2026-10-07 -->
+
+## Atualização (2026-10-08)
+
+Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via Portal do Professor/UFES (postado em 2026-10-07 12:49 BRT) informando que a aula daquele dia seria no CT 13, sala 10. Classificado como aviso (logística de sala, sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Aviso já vencido na data desta coleta (a aula a que se refere já ocorreu).
+
+<!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de hoje no CT 13 sala 10"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-07 12:49 BRT, coletado em 2026-10-08 -->
