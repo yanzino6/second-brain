@@ -137,3 +137,9 @@ Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via P
 Um e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h: aviso via Portal do Professor/UFES (postado em 2026-10-07 12:49 BRT) informando que a aula daquele dia seria no CT 13, sala 10. Classificado como aviso (logística de sala, sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Aviso já vencido na data desta coleta (a aula a que se refere já ocorreu).
 
 <!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de hoje no CT 13 sala 10"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-07 12:49 BRT, coletado em 2026-10-08 -->
+
+## Verificação (2026-10-09)
+
+Nenhum e-mail novo de Rosane nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-09, sem e-mails novos -->

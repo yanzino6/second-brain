@@ -330,3 +330,9 @@ Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: aviso no Google
 Um e-mail novo nas últimas 24h relacionado à disciplina, mas não vindo de Luis Antonio de Souza Junior nem do Google Sala de Aula: o LIFE (Laboratório de Inteligência Artificial em Saúde, `life@inf.ufes.br`) confirmou, para os inscritos, o minicurso "Introdução à histopatologia digital e análise de imagens com IA" da 3ª Semana de Informática em Saúde (SIS), em 08/10/2026 (hoje, quinta-feira), 9h às 11h30, via Google Meet (https://meet.google.com/vmc-nosu-hsh). Classificado como aviso (ação opcional já confirmada, sem ação de estudo/entrega da disciplina); adicionado em Tarefas > Avisos. Resolve a lacuna sobre data exata e link, registrada em 2026-10-07.
 
 <!-- fonte: Gmail educacional, e-mail do LIFE/UFES ("Minicurso: Introdução à histopatologia digital e análise de imagens com IA"), remetente life@inf.ufes.br, postado em 2026-10-07 19:25 BRT, coletado em 2026-10-08 -->
+
+## Verificação (2026-10-09)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-09, sem e-mails novos -->
