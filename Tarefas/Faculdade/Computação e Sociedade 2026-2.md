@@ -47,6 +47,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-09-14: Saulo Bortolon avisou que não haverá aula de Computação e Sociedade na semana de 14 a 18 de setembro — estará em um Congresso sobre Ensino de Engenharia. Pediu para os alunos escolherem a turma que gostariam de avaliar entre os ingressantes e disse que enviaria as listas "amanhã" (2026-09-15).
 - 2026-09-16 (postado 08:49 BRT): Saulo Bortolon avisou que deve chegar a tempo para a aula de sexta-feira, 18/09 — está viajando e chega de madrugada. Disse que avisaria por mensagem em caso de problema no voo; sem aviso, a aula acontece normalmente.
 - 2026-09-17 (postado 19:59 BRT): Saulo Bortolon confirmou que chegou em Vitória e estará às 08:00 na sala de aula em 18/09. Porém, às 09:00 ele irá a um encontro formativo no Auditório Professor Reno Reine Castello (CT-1), "Inteligência Artificial nos Currículos de Exatas" (palestrantes Rodolfo Azevedo, do Instituto de Computação da Unicamp, e Alessandro Coutinho Ramos, da UVV; 18/09, 9h às 12h) — por isso, a aula fica "sem presença obrigatória" a partir desse horário. Convidou os alunos a participarem do encontro formativo, sem obrigatoriedade.
+- 2026-10-09 (postado 10:50 BRT, via Portal do Professor/UFES): Saulo Bortolon avisou que atrasaria 30 minutos para iniciar a aula daquele dia (sexta, 09/10), por problema no carro.
 
 ## Prazos e lacunas
 
@@ -231,3 +232,9 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega e sem descrição do trabalho em nenhum e-mail recebido. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-09, sem e-mails novos -->
+
+## Atualização (2026-10-10)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h (recebido duplicado 5 vezes, via Portal do Professor/UFES, endereçado às quatro turmas da disciplina — 01, 02, 03 e 04 — por isso a duplicação): aviso postado em 2026-10-09 10:50 BRT informando que atrasaria 30 minutos para iniciar a aula daquele dia (sexta, 09/10), por problema no carro. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon via Portal do Professor/UFES ("Atraso para aula"), postado em 2026-10-09 10:50 BRT, recebido em 5 cópias (uma por turma), coletado em 2026-10-10 -->
