@@ -49,6 +49,7 @@ Responsável: [[USER|Yan Simmer]]
 
 - 2026-09-28: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-09-27 21:48 BRT), que não haverá aula de Teoria dos Grafos nesta semana, porque está afastada para um congresso.
 - 2026-10-07: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-10-06 14:34 BRT), que verificou o conteúdo de Teoria dos Grafos e que será possível contemplá-lo nas aulas já previstas; por isso, a aula de hoje (07/10) está cancelada para que a turma participe do evento CT-Portas Abertas.
+- 2026-10-11: Maria Claudia Silva Boeres publicou, no Google Sala de Aula (postado em 2026-10-10 16:03 BRT), "Notas da 1a Prova" — rotulado como "Novo material", mas o conteúdo é a disponibilização das notas da 1ª prova, sem ação de estudo/entrega; classificado como aviso. O e-mail não traz a nota do Yan nem link direto, apenas o título.
 
 ## Prazos
 
@@ -261,3 +262,11 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-10, sem e-mails novos -->
+
+## Atualização (2026-10-11)
+
+Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: "Novo material: Notas da 1a Prova" no Google Sala de Aula (postado em 2026-10-10 16:03 BRT). Apesar do rótulo "Novo material" do Google Sala de Aula, o conteúdo é a disponibilização das notas da 1ª prova — sem ação de estudo/entrega; classificado como aviso (mesmo padrão já visto com a nota da P1 de Sistemas Operacionais em 2026-09-19). Adicionado em Tarefas > Avisos. Não adicionado ao Mapa de aulas: nota de prova é instrumento de avaliação, não aula/unidade de conteúdo (mesmo critério já aplicado à PP1 em [[TBO 2026-2]]).
+
+> [!question] Em aberto (2026-10-11): o e-mail não traz o valor da nota do Yan nem link direto para a planilha ou atividade — apenas o título "Notas da 1a Prova". É preciso abrir a postagem no Google Sala de Aula para ver a nota.
+
+<!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Notas da 1a Prova\""), postado em 2026-10-10 16:03 BRT (19:03 UTC), coletado em 2026-10-11 -->

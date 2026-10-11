@@ -238,3 +238,9 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Um e-mail novo de Saulo Bortolon nas últimas 24h (recebido duplicado 5 vezes, via Portal do Professor/UFES, endereçado às quatro turmas da disciplina — 01, 02, 03 e 04 — por isso a duplicação): aviso postado em 2026-10-09 10:50 BRT informando que atrasaria 30 minutos para iniciar a aula daquele dia (sexta, 09/10), por problema no carro. Classificado como aviso (sem ação de estudo/entrega); adicionado em Tarefas > Avisos. O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon via Portal do Professor/UFES ("Atraso para aula"), postado em 2026-10-09 10:50 BRT, recebido em 5 cópias (uma por turma), coletado em 2026-10-10 -->
+
+## Verificação (2026-10-11)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega e sem descrição do trabalho em nenhum e-mail recebido. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-11, sem e-mails novos -->
