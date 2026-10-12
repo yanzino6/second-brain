@@ -270,3 +270,9 @@ Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: "Novo material: N
 > [!question] Em aberto (2026-10-11): o e-mail não traz o valor da nota do Yan nem link direto para a planilha ou atividade — apenas o título "Notas da 1a Prova". É preciso abrir a postagem no Google Sala de Aula para ver a nota.
 
 <!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Notas da 1a Prova\""), postado em 2026-10-10 16:03 BRT (19:03 UTC), coletado em 2026-10-11 -->
+
+## Verificação (2026-10-12)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
+
+<!-- fonte: Gmail educacional, verificação em 2026-10-12, sem e-mails novos -->
