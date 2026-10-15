@@ -33,6 +33,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-10-05 (postado 18:41 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que haverá aula de LFA na quarta-feira (07/10), concluindo a matéria da prova com "a FNG"; a aula terminará mais cedo por conta do evento CT de Portas Abertas.
 - 2026-10-06 (postado 14:48 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que o material disponibilizado no Drive ou em sala de aula (de LFA, e também a apostila já disponibilizada para Lógica para Computação I) não pode ser publicado, divulgado em links, grupos, aplicativos de mensagens, redes sociais ou postagens; não pode ser alterado, copiado, baixado nem repassado para outras pessoas — uso individual, exclusivo do(a) estudante matriculado(a) na turma 01 de LFA (INF16155), 2026/2. Aviso sem prazo de validade.
 - 2026-10-07 (postado 12:49 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que a aula daquele dia (2026-10-07) seria no CT 13, sala 10.
+- 2026-10-14 (postado 10:05 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que as aulas daquele dia (14/10) seriam no CT 13: LFA na sala 10 (piso superior), LOG 1 (Lógica para Computação I) na sala 2 (térreo).
 
 ## Prazos e lacunas
 
@@ -167,3 +168,9 @@ Nenhum e-mail novo de Rosane nas últimas 24h.
 Nenhum e-mail novo de Rosane nas últimas 24h.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-13, sem e-mails novos -->
+
+## Atualização (2026-10-15)
+
+Um e-mail novo de Rosane Santos Caruso de Oliveira, datado de 2026-10-14 (não houve execução/relatório desta rotina em 2026-10-14; processado agora, com atraso): aviso via Portal do Professor/UFES (postado em 2026-10-14 10:05 BRT) informando que as aulas daquele dia seriam no CT 13 — LFA na sala 10 (piso superior), LOG 1 na sala 2 (térreo). Classificado como aviso (logística de sala, sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Aviso já vencido na data desta coleta (a aula a que se refere já ocorreu). Busca cobriu as últimas 48h para fechar a lacuna de 2026-10-14; nenhum outro e-mail de Rosane chegou no período.
+
+<!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de hoje no CT 13 sala 10 e sala 2"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-10-14 10:05 BRT (13:05 UTC), coletado em 2026-10-15 -->
