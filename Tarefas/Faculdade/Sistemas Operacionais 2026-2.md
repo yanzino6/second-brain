@@ -24,6 +24,17 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 14 — Pipes — estudo — pendente
 - Aula 15 — Lab 3 - Pipes — execução — pendente
 - Aula 16 — Threads (Parte 1) — estudo — pendente
+- Aula 17 — Threads (Parte 2) — estudo — pendente
+- Aula 18 — Lab 4 - Semáforos e Pthread — execução — pendente
+- Aula 19 — Revisão P2 (Sincronização, IPC e Threads) — estudo — pendente
+- Aula 20 — Gerência de Memória — estudo + execução — pendente
+- Aula 22 — Paginação — estudo + execução — pendente
+- Aula 23.1 — Algoritmos de Substituição de Páginas — estudo + execução — pendente
+- Aula 23.2 — Laboratório 5 - Memória Compartilhada — execução — pendente
+- Aula 24 — Sistemas de Arquivos — estudo — pendente
+- Aula não identificada — Trabalho Prático (TP), 1ª Etapa — execução — pendente
+
+> [!question] Em aberto (2026-11-13): não há material correspondente a uma "Aula 21" nos e-mails coletados — a numeração salta de Aula 20 (postada 19/10) para Aula 22 (mesmo dia, 19/10). Não se sabe se houve aula 21 só presencial, sem material publicado, ou outro motivo.
 
 > [!question] Em aberto: a numeração de aulas 0–4 vem da confirmação direta do Yan em 2026-09-09 (ver "Progresso confirmado"), não de numeração oficial do professor nos e-mails. Os itens posteriores a Unix Kernel Mode (incluindo Lab0, Lab1 e Lab2) não têm aula de conteúdo confirmada nos e-mails registrados — apenas os laboratórios têm prazo de entrega (ver Prazos e lacunas).
 
@@ -56,6 +67,12 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 12 — Estudar Monitores: sincronização utilizando mecanismo de monitores; estrutura básica de monitor e exclusão mútua; abordagens de Hoare e Hansen para monitores; problemas dos filósofos glutões e produtor/consumidor; implementação de monitores utilizando semáforos; consultar Tanenbaum ("Sistemas Operacionais: projeto e implementação", 3a. ed., seção 2.3.7, pp. 81-85) e os dois vídeos indicados.
 - [ ] Aula 14 — Estudar Pipes: comunicação entre processos (modo usuário) utilizando Pipes — conceito e implementação de Pipes e Filas; consultar o material complementar (Celso A. S. Santos, "Programação em tempo real") e os sete vídeos indicados sobre uso de `fork`/`pipe` em C.
 - [ ] Aula 16 — Estudar Threads (Parte 1): definição de threads, abstração de processos em fluxos independentes de execução, propriedade de recursos vs. unidade de escalonamento, task control block, comparação entre modelos de threads (user-level e kernel-level), modelos híbridos e documentação pthread (Linux); consultar Tanenbaum, seção 2.2 "Threads" (até 2.2.6, pp. 57-67) e os dois vídeos indicados (um deles com explicação da biblioteca PTHREAD a partir de 25min).
+- [ ] Aula 17 — Estudar Threads (Parte 2): implementação de threads no Linux (pthread.h), implementação de exemplos/exercícios; sete vídeos indicados (introdução a pthreads; diferença entre processos e threads; race conditions; mutex em C/pthread_mutex; criação de threads em loop; passagem de argumentos para threads em C; exemplo prático de soma de números em um array).
+- [ ] Aula 19 — Estudar a Revisão P2: sincronização, IPC e Threads. O e-mail trouxe apenas o título e o tema geral, sem detalhar conteúdo.
+- [ ] Aula 20 — Estudar Gerência de Memória: conceitos de memória e mapeamento de memória física, controle de espaços de memória física; dois vídeos indicados (What is Virtual Memory?; Operating System Memory Management: Process, Fragmentation, Deallocation).
+- [ ] Aula 22 — Estudar Paginação: memória virtual, paginação, tradução de endereço virtual-físico, TLB, tabela de páginas multinível e tabela de páginas invertida; consultar Tanenbaum (seção 3.3 "Memória Virtual", pp. 114-122) e cinco vídeos do MIT indicados (paginação básica, page faults, aritmética de TLB/tradução de endereço, exemplos de memória virtual, tabelas de páginas multinível).
+- [ ] Aula 23.1 — Estudar Algoritmos de Substituição de Páginas: algoritmos de tratamento de Page Fault e projeto com Working Set; consultar Tanenbaum (seção 3.4 "Algoritmos de Substituição de Páginas", pp. 122-133, e seção 3.5 "Questões de projeto para sistemas de paginação" até 3.5.5, pp. 133-137).
+- [ ] Aula 24 — Estudar Sistemas de Arquivos: gerência de arquivos, sistemas de arquivos e suas estruturas internas, tipos de arquivos (UNIX), implementação de sistemas de arquivos e diretórios, estrutura i-node (UNIX), arquivos compartilhados, gerenciamento de espaço em disco; consultar Tanenbaum, capítulo 4 "Sistemas de Arquivos" até a seção 4.4.3 inclusa (pp. 158-190), pulando as seções 4.1, 4.2, 4.3.5, 4.3.6, 4.3.7 e 4.4.2 por indicação do próprio professor.
 
 ### Execução
 
@@ -70,6 +87,12 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 12 — Resolver os exercícios de Monitores ("Exercícios - Monitores"). O e-mail trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula 15 — Executar o Lab3 - Pipes: laboratório de exercícios sobre comunicação entre processos usando Pipes.
 - [ ] Aula 15 — Entregar o Lab3 - Pipes em um `.zip`, com um arquivo `.c` para cada tarefa de implementação de código; nome do aluno e matrícula devem constar no cabeçalho do texto, no cabeçalho de cada `.c` e no nome do arquivo (formato indicado no e-mail: nome_separado_por_underline-matricula, com extensão de exemplo ".pdf" — o e-mail usa esse exemplo apesar de pedir entrega em `.zip`). **Prazo: 2026-10-05.**
+- [ ] Aula 18 — Executar o Lab 4 - Semáforos e Pthread (implementação de compartilhamento de variáveis entre threads e entre processos) e entregar em `.zip`, um arquivo `.c` por tarefa de implementação de código; nome e matrícula no cabeçalho do texto, de cada `.c` e no nome do arquivo (mesmo formato nome_separado_por_underline-matricula, com extensão de exemplo ".pdf" no e-mail apesar de pedir `.zip` — mesma inconsistência já vista no Lab3). **Prazo: 2026-10-19.**
+- [ ] Aula 20 — Resolver os "Exercícios - Gerência de Memória". O e-mail trouxe apenas o título, sem conteúdo detalhado nem prazo.
+- [ ] Aula 22 — Resolver os "Exercícios - Paginação" (exercícios resolvidos do MIT, para conferência).
+- [ ] Aula 23.1 — Resolver os "Exercícios - Algoritmos de Substituição de Páginas". O e-mail trouxe apenas o título, sem conteúdo detalhado nem prazo.
+- [ ] Aula 23.2 — Executar o Laboratório 5 - Memória Compartilhada e entregar seguindo o mesmo padrão de nome/cabeçalho dos laboratórios anteriores (nome_separado_por_underline-matricula.PDF). **Prazo: 2026-10-29.**
+- [ ] Aula não identificada — Trabalho Prático (TP), 1ª Etapa: entregar link do repositório GitHub (adicionar o usuário do professor, `luisouza`, como colaborador) ou `.tar.gz` com fontes e arquivos de descrição do TP; em entregas por GitHub, será considerado o momento do último commit. **Prazo: 2026-12-04, até as 07h59.** Especificação v1 publicada em 2026-10-24, com aviso de que "alterações ainda podem ser realizadas na especificação" — conferir se a versão final mudou antes de entregar.
 
 ## Prazos e lacunas
 
@@ -86,6 +109,14 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-09-29): nenhum prazo explícito apareceu no e-mail dos exercícios de Monitores (Aula 12).
 
 - Lab3 - Pipes (Aula 15) — 2026-10-05.
+- Lab 4 - Semáforos e Pthread (Aula 18) — 2026-10-19.
+- Lab. 5 - Memória Compartilhada (Aula 23.2) — 2026-10-29.
+- **Trabalho Prático (TP), 1ª Etapa — 2026-12-04, até as 07h59.** Prazo corrigido pelo professor em 2026-10-27 (estava 04/11/2026 na especificação v1 de 2026-10-24, considerada "offsynch" pelo próprio professor); reconfirmado em 2026-11-09 na atividade de entrega.
+- **P2 (2ª Prova) — confirmada para 2026-11-19 (quinta-feira).** Depois de adiada de uma data não registrada nesta nota para 2026-11-16 (por manutenção de energia na UFES em 11 e 12/11), e depois reconfirmada para 19/11 em 2026-11-11 ("Não haverão mais alterações nesta data"). **Próxima na data desta coleta (2026-11-13) — faltam 6 dias.**
+
+> [!question] Em aberto (2026-11-13): nenhum e-mail capturado nesta busca (2026-10-15 a 2026-11-13) menciona a data original da P2 antes do primeiro adiamento — não é possível reconstruir quando a prova estava marcada originalmente sem revisar e-mails anteriores a 2026-10-15.
+
+> [!question] Em aberto (2026-11-13): o e-mail "Grupos dos Trabalhos" (postado 2026-10-22) não traz a lista de duplas em texto plano, nem confirma se o Yan já está em uma dupla para o Trabalho Prático — é preciso abrir a postagem no Google Sala de Aula.
 
 ## Progresso confirmado (2026-09-09)
 
@@ -134,6 +165,12 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 > [!question] Em aberto (2026-10-07): o e-mail de 2026-10-06 não informa a data exata dessa "quinta-feira" (possivelmente 2026-10-08, por proximidade com a data de envio, mas isso não está confirmado no texto) nem o link de inscrição do minicurso.
 
 - 2026-10-08: e-mail do LIFE (Laboratório de Inteligência Artificial em Saúde, `life@inf.ufes.br`, não é o professor nem o Google Sala de Aula) confirmou, para quem se inscreveu, o minicurso "Introdução à histopatologia digital e análise de imagens com IA" da 3ª Semana de Informática em Saúde (SIS), em 08/10/2026 (quinta-feira), 9h às 11h30, via Google Meet (https://meet.google.com/vmc-nosu-hsh). **Resolve** a lacuna de data e link registrada em 2026-10-07. Minicurso sem vínculo direto obrigatório com o conteúdo de Sistemas Operacionais (ação opcional de inscrição, já confirmada).
+- 2026-10-18 (lembrete automático): prazo de entrega do Lab 4 - Semáforos e Pthread (Aula 18) é amanhã, 19/10; já registrado em Execução e Prazos e lacunas.
+- 2026-10-22 (postado 16:13 BRT): Luis Antonio de Souza Junior publicou "Grupos dos Trabalhos" no Google Sala de Aula, listando os grupos (duplas, 2 membros) dos trabalhos práticos. O e-mail não traz a lista em texto plano — ver lacuna em Prazos e lacunas.
+- 2026-10-27 (postado 19:44 BRT): Luis Antonio de Souza Junior avisou que corrigiu o prazo de entrega do Trabalho Prático, que estava "offsynch": a data correta é 04/12/2026, até as 07h59 — substitui o prazo de 04/11/2026 informado inicialmente na especificação v1 (2026-10-24). Já registrado em Execução e Prazos e lacunas.
+- 2026-10-28 (lembrete automático): prazo de entrega do Lab. 5 - Memória Compartilhada (Aula 23.2) é amanhã, 29/10; já registrado em Execução e Prazos e lacunas.
+- 2026-11-10 (postado 10:53 BRT): manutenção de energia na UFES em 11 e 12/11 cancelou as atividades acadêmicas do campus de Goiabeiras nesses dias; a P2 foi remarcada para segunda-feira, 16/11.
+- 2026-11-11 (postado 10:53 BRT): Luis Antonio de Souza Junior confirmou que a P2 ficará para a semana seguinte, dia 19/11 (quinta-feira) — "não haverão mais alterações nesta data". Substitui a data de 16/11 anunciada no dia anterior. O professor mencionou que o cronograma já passou por "127 alterações" nas aulas e provas no semestre. **Prova com data próxima na data desta coleta (2026-11-13).**
 
 ## Atualização (2026-09-11)
 
@@ -366,3 +403,11 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 48h (busca estendida para cobrir 2026-10-14, dia em que esta rotina não gerou relatório).
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-15, sem e-mails novos -->
+
+## Atualização (2026-11-13) — processamento retroativo
+
+Esta rotina não executou entre 2026-10-16 e 2026-11-12 (gap de 28 dias). Processados agora, com atraso, 21 e-mails de Luis Antonio de Souza Junior/Google Sala de Aula, de 2026-10-15 a 2026-11-11: 9 materiais de estudo (Aula 17 - Threads Parte 2; Aula 18 - Lab 4; Aula 20 - Gerência de Memória; Aula 22 - Paginação; Aula 23.2 - Lab 5; Especificação do TP v1; Aula 19 - Revisão P2; Aula 23.1 - Substituição de Páginas; Aula 24 - Sistemas de Arquivos), 3 listas de exercícios (Exercícios - Paginação; Exercícios - Gerência de Memória; Exercícios - Substituição de Páginas), 2 novas atividades com prazo (Entrega Lab 4; Entrega Lab. 5; Entrega TP - 1ª Etapa, totalizando 3 atividades com prazo) e 7 avisos (2 lembretes automáticos de prazo, Grupos dos Trabalhos, correção do prazo do TP, manutenção de energia, e os dois avisos sobre a data da P2). Todos os itens novos foram adicionados a Mapa de aulas, Tarefas > Estudo, Tarefas > Execução, Tarefas > Avisos e Prazos e lacunas, nas seções correspondentes acima.
+
+**Destaque urgente:** a P2 está confirmada para 2026-11-19 (quinta-feira), a 6 dias da data desta coleta, depois de dois adiamentos (ver Avisos e Prazos e lacunas). O Trabalho Prático, 1ª Etapa, tem prazo confirmado em 2026-12-04 às 07h59, após correção de data pelo próprio professor.
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula (busca after:2026/10/15 before:2026/11/14 from:classroom.google.com), 21 threads lidos integralmente, coletado em 2026-11-13 -->
