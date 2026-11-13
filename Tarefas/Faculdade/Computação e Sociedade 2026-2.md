@@ -16,8 +16,14 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — Caso dos Rostinhos Abraçadores, para discussão na semana de 21 a 28 de setembro — estudo — pendente
 - Aula — Sistemas de Informação em Saúde — estudo — pendente
 - Aula não identificada — TP1 — execução — pendente
+- Aula não identificada — Assunto de aula compartilhado em 16/10 e 19/10 (link de arquivo no Google Drive) — estudo — pendente
+- Aula não identificada — Trabalho de pesquisa "Observatório de Egressos" (escolha de turma e pesquisa de onde estão os alunos do CT desde 2005) — execução — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
+
+> [!question] Em aberto (2026-10-16): o e-mail de 16/10 não identifica a aula nem o tema do arquivo do Google Drive compartilhado — apenas que é "assunto" das aulas de 16/10 e 19/10.
+
+> [!question] Em aberto (2026-11-06): nenhum e-mail numera a aula ou define prazo para o trabalho de pesquisa "Observatório de Egressos" — apenas as instruções de execução (escolher turma, anotar grupo, gerar PDF do Lattes/LinkedIn e publicar em pasta pública).
 
 > [!question] Em aberto (2026-09-21): o e-mail sobre o caso dos "Rostinhos Abraçadores" não numera a aula nem informa data de aula específica — apenas a semana de discussão (21 a 28 de setembro).
 
@@ -33,10 +39,13 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula não identificada — Assistir ao vídeo compartilhado no Google Sala de Aula em 2026-09-14 (https://youtu.be/NiBuUGAB_zY). O e-mail não trouxe título, descrição nem instrução de reflexão.
 - [ ] Aula não identificada — Ler os dois guias de estudo (pptx e docx) sobre o caso dos "Rostinhos Abraçadores" antes da aula da semana de 21 a 28 de setembro, e refletir trazendo outras visões além das apresentadas pelo professor.
 - [ ] Aula — Sistemas de Informação em Saúde — Abrir e revisar os materiais da aula, compartilhados por Saulo Bortolon numa pasta do Google Drive (https://drive.google.com/drive/folders/114jkcYn4Nm6Nf0TiCmeCpJdSFQ770iyV?usp=sharing). O e-mail (classificado no Google Sala de Aula como "aviso", mas com conteúdo de material de estudo) não detalha o conteúdo da pasta.
+- [ ] Aula não identificada — Abrir o arquivo do Google Drive compartilhado em 2026-10-16 (https://drive.google.com/file/d/1EclWeX_ACqQFMeLv31Htx5SqyAa_8do7/view), assunto das aulas de sexta (16/10) e segunda (19/10). O e-mail não descreve o conteúdo do arquivo.
 
 ### Execução
 
 - [ ] Aula não identificada — Entregar o TP1. **Prazo informado: 5 de out. (2026-10-05) — já vencido na data desta coleta (2026-10-06).** Nem o e-mail de criação da atividade (postado em 2026-08-31 23:12 BRT) nem o lembrete de prazo (postado em 2026-10-05, poucos minutos após a meia-noite BRT) trazem a descrição do trabalho — apenas o título "TP1 - Descrição".
+- [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": escolher e anotar, na planilha ObservatorioEgressos_EscolhaTurmas (https://docs.google.com/spreadsheets/d/1jZhX8TfxtC87IrZFkNUO8MVaLKKA4xfJesF_IBcBO-4/edit), uma turma "livre" para pesquisar onde estão os alunos, com os nomes dos componentes do grupo. **Resolve a lacuna, em aberto desde 2026-09-15, sobre a lista de escolha de turma de avaliação de ingressantes prometida por Saulo Bortolon.**
+- [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": usar a planilha com os dados dos alunos do CT desde 2005 (compartilhada em 2026-11-06) para a pesquisa; ao gerar o PDF do Lattes ou do LinkedIn de cada aluno pesquisado, anotar o link do PDF e publicá-lo numa pasta pública (com permissões ajustadas).
 
 > [!question] Em aberto: o conteúdo do TP1 não está no corpo de nenhum e-mail recebido; é preciso abrir a atividade diretamente no Google Sala de Aula para saber o que deve ser entregue.
 
@@ -48,14 +57,20 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-09-16 (postado 08:49 BRT): Saulo Bortolon avisou que deve chegar a tempo para a aula de sexta-feira, 18/09 — está viajando e chega de madrugada. Disse que avisaria por mensagem em caso de problema no voo; sem aviso, a aula acontece normalmente.
 - 2026-09-17 (postado 19:59 BRT): Saulo Bortolon confirmou que chegou em Vitória e estará às 08:00 na sala de aula em 18/09. Porém, às 09:00 ele irá a um encontro formativo no Auditório Professor Reno Reine Castello (CT-1), "Inteligência Artificial nos Currículos de Exatas" (palestrantes Rodolfo Azevedo, do Instituto de Computação da Unicamp, e Alessandro Coutinho Ramos, da UVV; 18/09, 9h às 12h) — por isso, a aula fica "sem presença obrigatória" a partir desse horário. Convidou os alunos a participarem do encontro formativo, sem obrigatoriedade.
 - 2026-10-09 (postado 10:50 BRT, via Portal do Professor/UFES): Saulo Bortolon avisou que atrasaria 30 minutos para iniciar a aula daquele dia (sexta, 09/10), por problema no carro.
+- 2026-10-23 (postado 07:55 BRT): Saulo Bortolon avisou, no Google Sala de Aula, "Provocações para a aula de hoje": perguntou como estavam as informações sobre as "turmas antigas" e se veriam os textos/slides do dia — follow-up do trabalho "Observatório de Egressos" (ver Execução), sem tarefa nova.
+- 2026-10-26 (postado 09:24 BRT): Saulo Bortolon avisou que não haveria cobrança de "presença" na aula daquele dia (segunda, 26/10) nem na sexta anterior (23/10), por um motivo anexado ao e-mail e não detalhado no corpo (apenas "Em anexo o motivo..."); quem participou teria frequência extra de "gordura".
+- 2026-10-26 (postado 13:39 BRT): Saulo Bortolon avisou que estava indo embora porque não havia ninguém na sala, oferecendo abrir um Google Meet para quem tivesse interesse.
+- 2026-11-06 (postado 08:07 BRT): Saulo Bortolon avisou "ESTOU CHEGANDO...", sem mais conteúdo.
 
 ## Prazos e lacunas
 
-- TP1 — prazo informado: 2026-10-05. **Vencido** na data desta coleta (2026-10-06); sem confirmação de entrega.
+- TP1 — prazo informado: 2026-10-05. **Vencido** na data desta coleta (2026-10-06); sem confirmação de entrega. Nenhuma nota, feedback ou nova instrução sobre o TP1 chegou até 2026-11-13.
 
-> [!question] Em aberto: Saulo Bortolon prometeu enviar, em 2026-09-14, as listas para escolha de turma de avaliação de ingressantes "amanhã" (2026-09-15); nenhuma lista havia chegado até a coleta desta rotina em 2026-09-15.
+> [!question] Em aberto (resolvida em 2026-10-19, registrada aqui para histórico): Saulo Bortolon prometeu enviar, em 2026-09-14, as listas para escolha de turma de avaliação de ingressantes "amanhã" (2026-09-15); a lista chegou com mais de um mês de atraso, em 2026-10-19, como a planilha ObservatorioEgressos_EscolhaTurmas do trabalho de pesquisa "Observatório de Egressos" (ver Tarefas > Execução).
 
 > [!question] Em aberto: nenhum prazo explícito apareceu no e-mail consultado.
+
+> [!question] Em aberto (2026-11-13): nenhum prazo explícito apareceu nos e-mails sobre o trabalho de pesquisa "Observatório de Egressos" (escolha de turma em 2026-10-19; dados dos alunos em 2026-11-06).
 
 ## Fonte e escopo
 
@@ -262,3 +277,11 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 48h (busca estendida para cobrir 2026-10-14, dia em que esta rotina não gerou relatório). O TP1 (prazo 2026-10-05) segue vencido, sem confirmação de entrega. A lista para escolha de turma de avaliação de ingressantes, prometida por Saulo Bortolon para 2026-09-15, segue sem chegar.
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-15, sem e-mails novos -->
+
+## Atualização (2026-11-13)
+
+Esta rotina não executou entre 2026-10-16 e 2026-11-12 (lacuna de quase um mês); processados agora, com atraso, sete e-mails de Saulo Bortolon publicados nesse período: (1) 2026-10-16 (08:14 BRT) — link de arquivo no Google Drive como assunto das aulas de 16/10 e 19/10, sem descrição do conteúdo; (2) 2026-10-19 (12:37 BRT) — instruções e planilha para escolher uma turma "livre" a pesquisar no trabalho "Observatório de Egressos" — **resolve a lacuna da lista de escolha de turma, prometida desde 2026-09-15**; (3) 2026-10-23 (07:55 BRT) — aviso/follow-up sobre o andamento da pesquisa das turmas antigas; (4) 2026-10-26 (09:24 BRT) — aviso de frequência não cobrada em 23/10 e 26/10; (5) 2026-10-26 (13:39 BRT) — aviso de que o professor saiu da sala por falta de alunos; (6) 2026-11-06 (07:58 BRT) — planilha com dados dos alunos do CT desde 2005 e instruções de execução do trabalho de pesquisa (gerar PDF do Lattes/LinkedIn, publicar em pasta pública); (7) 2026-11-06 (08:07 BRT) — aviso trivial ("ESTOU CHEGANDO..."). Classificados: (1) material de estudo; (2) e (6) execução (trabalho de pesquisa "Observatório de Egressos", sem prazo explícito); (3), (4), (5) e (7) avisos. Adicionados ao Mapa de aulas, a Tarefas > Estudo, Tarefas > Execução e Tarefas > Avisos, e a Prazos e lacunas. Nenhuma notícia sobre nota, feedback ou nova instrução do TP1 (vencido desde 2026-10-05) chegou nesse período.
+
+> [!question] Em aberto (2026-11-13): o motivo anexado ao aviso de 2026-10-26 (09:24 BRT) sobre a não cobrança de frequência não foi lido — o e-mail só referencia um anexo, sem descrevê-lo no corpo.
+
+<!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula, postados entre 2026-10-16 e 2026-11-06, coletados com atraso em 2026-11-13 -->

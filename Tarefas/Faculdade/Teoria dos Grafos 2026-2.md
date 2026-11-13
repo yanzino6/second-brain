@@ -21,6 +21,9 @@ Responsável: [[USER|Yan Simmer]]
 - Aula — Distância em grafos — estudo — pendente
 - Aula — Caminhos mínimos - algoritmo de Dijkstra — estudo — pendente
 - Aula — Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd — estudo — pendente
+- Aula não identificada — Lista 4 de exercícios — execução — pendente
+- Aula não identificada — Grafos Eulerianos e Hamiltonianos — estudo — pendente
+- Aula não identificada — Cortes e grafos k-conexos — estudo — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
 
@@ -39,21 +42,32 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula — Distância em grafos — estudar o material novo publicado no Google Sala de Aula. O e-mail trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula — Caminhos mínimos - algoritmo de Dijkstra — estudar a apresentação dos conceitos preliminares sobre caminho mínimo em grafos e o algoritmo de Dijkstra.
 - [ ] Aula — Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd — estudar o material novo publicado no Google Sala de Aula. O e-mail trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula não identificada — Estudar Grafos Eulerianos e Hamiltonianos. O e-mail (postado em 2026-10-28 10:31 BRT) trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula não identificada — Estudar Cortes e grafos k-conexos. O e-mail (postado em 2026-11-09 12:10 BRT) trouxe apenas o título, sem conteúdo detalhado.
 
 ### Execução
 
 - [x] Resolver as listas de exercícios de Teoria dos Grafos.
 - [ ] Aula não identificada — Resolver a lista de exercícios anunciada em 2026-09-15 no Google Sala de Aula ("Lista de exercícios nova publicada!"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
+- [ ] Aula não identificada — Resolver a Lista 4 de exercícios, adicionada em "Listas de exercícios" no Google Sala de Aula (postado em 2026-10-26 21:02 BRT, "Olá pessoal! Lista 4 adicionada em Listas de exercícios!"). O e-mail não detalha o conteúdo nem a aula a que se refere.
 
 ### Avisos
 
 - 2026-09-28: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-09-27 21:48 BRT), que não haverá aula de Teoria dos Grafos nesta semana, porque está afastada para um congresso.
 - 2026-10-07: Maria Claudia Silva Boeres avisou, no Google Sala de Aula (postado em 2026-10-06 14:34 BRT), que verificou o conteúdo de Teoria dos Grafos e que será possível contemplá-lo nas aulas já previstas; por isso, a aula de hoje (07/10) está cancelada para que a turma participe do evento CT-Portas Abertas.
 - 2026-10-11: Maria Claudia Silva Boeres publicou, no Google Sala de Aula (postado em 2026-10-10 16:03 BRT), "Notas da 1a Prova" — rotulado como "Novo material", mas o conteúdo é a disponibilização das notas da 1ª prova, sem ação de estudo/entrega; classificado como aviso. O e-mail não traz a nota do Yan nem link direto, apenas o título.
+- 2026-10-15 (postado 08:52 BRT): Maria Claudia Silva Boeres avisou que estaria na sala 20 do CT-7, das 10:30 às 12h, para revisão de prova de quem solicitou no dia anterior. Aviso pontual, já vencido na data desta coleta (2026-11-13).
+- 2026-10-20 (postado 19:15 BRT): Maria Claudia Silva Boeres avisou que cancelou a aula do dia seguinte (21/10) por causa de conjuntivite que não melhorou (atestado em anexo ao e-mail). Informou também que a UFES suspendeu as atividades acadêmicas em 26/10 e que 28/10 e 02/11 são feriados; por isso a próxima aula ficaria para 04/11, com reorganização do cronograma. Propôs mudar a data da 2ª prova para **16/11/2026** e tentar marcar uma aula extra em 04/11. Avisou que uma lista de exercícios seria disponibilizada no dia seguinte (21/10).
+- 2026-10-27 (postado 10:45 BRT): Maria Claudia Silva Boeres avisou que o feriado de 28/10 foi transferido para 30/10 (comunicado da UFES) e que a aula de 28/10 ocorreria normalmente.
+- 2026-11-10 (postado 17:21 BRT): Maria Claudia Silva Boeres avisou que a aula extra marcada para quinta, 12/11, não poderia ocorrer — coincide com a Jornada de Iniciação Científica, da qual ela precisa participar. Remarcou a aula de exercícios para segunda, 16/11 (início às 14:30h), e a **2ª prova para 18/11/2026** — data nova, que substitui a proposta anterior de 16/11 (aviso de 2026-10-20). Informou que a 2ª lista de exercícios seria entregue no dia seguinte, quarta, 11/11, quando terminaria a matéria da prova.
 
 ## Prazos
 
-> [!question] Em aberto: nenhum prazo explícito apareceu nos e-mails consultados.
+> [!question] Em aberto: nenhum prazo explícito apareceu nos e-mails consultados sobre as listas 1–4 de exercícios.
+
+- **2ª prova de Teoria dos Grafos — 18/11/2026.** Data confirmada no aviso de 2026-11-10, que substituiu a proposta anterior de 16/11/2026 (aviso de 2026-10-20).
+
+> [!question] Em aberto (2026-11-13): a 2ª lista de exercícios, que Maria Claudia Silva Boeres disse que entregaria em 11/11 (quarta), não chegou por e-mail até a coleta desta rotina — é possível que tenha sido publicada apenas no Google Sala de Aula sem notificação por e-mail, ou que o envio tenha atrasado.
 
 > [!question] Em aberto (2026-09-15): não é possível confirmar se a lista anunciada em 2026-09-15 é a mesma referida no checkbox genérico "Resolver as listas de exercícios de Teoria dos Grafos." ou uma lista adicional — o e-mail não detalha o conteúdo, e também não trouxe prazo de entrega.
 
@@ -288,3 +302,20 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h.
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 48h (busca estendida para cobrir 2026-10-14, dia em que esta rotina não gerou relatório).
 
 <!-- fonte: Gmail educacional, verificação em 2026-10-15, sem e-mails novos -->
+
+## Atualização (2026-11-13) — processamento retroativo de 2026-10-15 a 2026-11-13
+
+Esta rotina não executou entre 2026-10-16 e 2026-11-12 (falha operacional, fora do escopo desta nota). Processado agora, com atraso de até 29 dias: sete e-mails de Maria Claudia Silva Boeres no período, confirmados por busca completa no Gmail (sem paginação pendente). Classificados: 4 avisos, 1 lista de exercícios (execução) e 2 materiais de estudo.
+
+- 2026-10-15 — aviso de revisão de prova (ver Tarefas > Avisos); sem impacto hoje.
+- 2026-10-20 — aviso combinando cancelamento de aula (conjuntivite), reorganização do cronograma por feriados e suspensão de atividades, e proposta inicial de 2ª prova em 16/11.
+- 2026-10-26 — Lista 4 de exercícios, adicionada a Tarefas > Execução e ao Mapa de aulas como "Aula não identificada".
+- 2026-10-27 — aviso sobre troca do feriado de 28/10 para 30/10.
+- 2026-10-28 — material de estudo "Grafos Eulerianos e Hamiltonianos", adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula não identificada".
+- 2026-11-09 — material de estudo "Cortes e grafos k-conexos", adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula não identificada".
+- 2026-11-10 — aviso mais recente e mais importante: a aula extra de 12/11 foi cancelada; a aula de exercícios passou para 16/11 (14:30h); **a 2ª prova foi remarcada para 18/11/2026**, substituindo a data de 16/11 proposta em 2026-10-20. A 2ª lista de exercícios, prometida para 11/11, não apareceu em nenhum e-mail até esta coleta (lacuna registrada em Prazos).
+
+Nenhum dos sete e-mails numera a aula (exceto por nome de tópico); seguidas as mesmas convenções já usadas nesta nota ("Aula não identificada" quando não há numeração nem nome de aula oficial, mas aqui foi usado o nome do tópico/material em vez do rótulo genérico, como já ocorre com "Aula — Distância em grafos" etc. — na prática o professor não numera nenhuma aula desta disciplina, então a linha do Mapa de aulas para Lista 4 ficou como "Aula não identificada" por não ter tema de aula associado, enquanto os dois materiais usaram o próprio nome do tópico como já é o padrão da nota).
+
+<!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado" de 2026-10-15, 2026-10-20, 2026-10-26, 2026-10-27 e 2026-11-10; "Novo material" de 2026-10-28 e 2026-11-09), coletados em 2026-11-13 -->
+
