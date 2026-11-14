@@ -319,3 +319,9 @@ Nenhum dos sete e-mails numera a aula (exceto por nome de tópico); seguidas as 
 
 <!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo comunicado" de 2026-10-15, 2026-10-20, 2026-10-26, 2026-10-27 e 2026-11-10; "Novo material" de 2026-10-28 e 2026-11-09), coletados em 2026-11-13 -->
 
+## Verificação (2026-11-14)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. A 2ª prova de Teoria dos Grafos segue confirmada para 18/11/2026.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-14, sem e-mails novos -->
+

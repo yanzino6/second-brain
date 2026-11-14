@@ -411,3 +411,9 @@ Esta rotina não executou entre 2026-10-16 e 2026-11-12 (gap de 28 dias). Proces
 **Destaque urgente:** a P2 está confirmada para 2026-11-19 (quinta-feira), a 6 dias da data desta coleta, depois de dois adiamentos (ver Avisos e Prazos e lacunas). O Trabalho Prático, 1ª Etapa, tem prazo confirmado em 2026-12-04 às 07h59, após correção de data pelo próprio professor.
 
 <!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula (busca after:2026/10/15 before:2026/11/14 from:classroom.google.com), 21 threads lidos integralmente, coletado em 2026-11-13 -->
+
+## Verificação (2026-11-14)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-14, sem e-mails novos -->

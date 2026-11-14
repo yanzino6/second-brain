@@ -18,6 +18,8 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — TP1 — execução — pendente
 - Aula não identificada — Assunto de aula compartilhado em 16/10 e 19/10 (link de arquivo no Google Drive) — estudo — pendente
 - Aula não identificada — Trabalho de pesquisa "Observatório de Egressos" (escolha de turma e pesquisa de onde estão os alunos do CT desde 2005) — execução — pendente
+- Aula não identificada — Redes sociais, saúde mental de adolescentes e ECA Digital — estudo — pendente
+- Aula não identificada — Código de Ética e Conduta Profissional da SBC — estudo — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
 
@@ -47,6 +49,11 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": escolher e anotar, na planilha ObservatorioEgressos_EscolhaTurmas (https://docs.google.com/spreadsheets/d/1jZhX8TfxtC87IrZFkNUO8MVaLKKA4xfJesF_IBcBO-4/edit), uma turma "livre" para pesquisar onde estão os alunos, com os nomes dos componentes do grupo. **Resolve a lacuna, em aberto desde 2026-09-15, sobre a lista de escolha de turma de avaliação de ingressantes prometida por Saulo Bortolon.**
 - [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": usar a planilha com os dados dos alunos do CT desde 2005 (compartilhada em 2026-11-06) para a pesquisa; ao gerar o PDF do Lattes ou do LinkedIn de cada aluno pesquisado, anotar o link do PDF e publicá-lo numa pasta pública (com permissões ajustadas).
 
+### Estudo (continuação)
+
+- [ ] Aula não identificada — Estudar o material sobre redes sociais e saúde mental de adolescentes, compartilhado por Saulo Bortolon em 2026-11-13 (08:06 BRT): aumento de suicídios de jovens associado à série "13 Reasons Why"; efeito de redes sociais na saúde mental de adolescentes; julgamento da Meta e do Google por responsabilidade em caso de dependência de redes sociais; e o ECA Digital (o que muda para empresas). Vários links de artigos, sem instrução específica de reflexão no corpo do e-mail.
+- [ ] Aula não identificada — Ler o Código de Ética e Conduta Profissional da SBC (Resolução 002/2024), mencionado por Saulo Bortolon na aula de 2026-11-13 ("na aula de hoje falamos sobre o código de ética da sbc..."). Link: https://www.sbc.org.br/wp-content/uploads/2026/02/Codigo-de-Etica-e-Conduta-Profissional-da-SBC_Resolucao_002-2024.pdf
+
 > [!question] Em aberto: o conteúdo do TP1 não está no corpo de nenhum e-mail recebido; é preciso abrir a atividade diretamente no Google Sala de Aula para saber o que deve ser entregue.
 
 > [!question] Em aberto: a atividade TP1 foi postada por Camila Zacche de Aguiar, não por Saulo Bortolon — não está confirmado se ela é professora, monitora ou outra função na disciplina INF16159_ComputaçãoSociedade_2026_2. Registrada aqui mesmo assim porque a postagem veio da mesma turma/classroom da disciplina.
@@ -61,6 +68,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-10-26 (postado 09:24 BRT): Saulo Bortolon avisou que não haveria cobrança de "presença" na aula daquele dia (segunda, 26/10) nem na sexta anterior (23/10), por um motivo anexado ao e-mail e não detalhado no corpo (apenas "Em anexo o motivo..."); quem participou teria frequência extra de "gordura".
 - 2026-10-26 (postado 13:39 BRT): Saulo Bortolon avisou que estava indo embora porque não havia ninguém na sala, oferecendo abrir um Google Meet para quem tivesse interesse.
 - 2026-11-06 (postado 08:07 BRT): Saulo Bortolon avisou "ESTOU CHEGANDO...", sem mais conteúdo.
+- 2026-11-13 (postado 11:20 BRT): Saulo Bortolon divulgou o edital do PET Saúde (monitoria), com vaga para computação em projeto que usa FHIR no desenvolvimento de sistemas em saúde, sob orientação dele mesmo. **Inscrições até 15 de novembro de 2026** (ação opcional de monitoria, não é tarefa de estudo/entrega da disciplina). Link do edital: https://ccs.ufes.br/sites/ccs.ufes.br/files/field/anexo/edital_072026_monitor_vagaremanescentesrevisto-1_assinado.pdf
 
 ## Prazos e lacunas
 
@@ -285,3 +293,9 @@ Esta rotina não executou entre 2026-10-16 e 2026-11-12 (lacuna de quase um mês
 > [!question] Em aberto (2026-11-13): o motivo anexado ao aviso de 2026-10-26 (09:24 BRT) sobre a não cobrança de frequência não foi lido — o e-mail só referencia um anexo, sem descrevê-lo no corpo.
 
 <!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula, postados entre 2026-10-16 e 2026-11-06, coletados com atraso em 2026-11-13 -->
+
+## Atualização (2026-11-14)
+
+Três e-mails novos de Saulo Bortolon nas últimas 24h (todos postados em 2026-11-13, fora da janela da coleta anterior de 2026-11-13): (1) 08:06 BRT — material sobre redes sociais e saúde mental de adolescentes (aumento de suicídios associado a "13 Reasons Why"; julgamento da Meta/Google; ECA Digital), com vários links, sem aula numerada; (2) 11:20 BRT — divulgação do edital do PET Saúde (monitoria em projeto com FHIR), com prazo de inscrição em 15/11; (3) 11:23 BRT — material sobre o Código de Ética e Conduta Profissional da SBC, mencionado "na aula de hoje" (13/11). Classificados: (1) e (3) material de estudo; (2) aviso (oportunidade opcional, com prazo). Adicionados ao Mapa de aulas (2 novas linhas, ambas "Aula não identificada"), a Tarefas > Estudo e a Tarefas > Avisos.
+
+<!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Association of Increased Youth Suicides…"; "Novo comunicado: Hoje comentei com vocês sobre o edital…"; "Novo comunicado: Pessoal, na aula de hoje falamos…"), postados em 2026-11-13 entre 08:06 e 11:23 BRT, coletados em 2026-11-14 -->
