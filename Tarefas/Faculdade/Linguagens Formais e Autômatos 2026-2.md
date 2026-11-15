@@ -199,3 +199,9 @@ Esta rotina ficou sem executar entre 2026-10-16 e 2026-11-12 (quase um mês sem 
 Dois e-mails novos de Rosane Santos Caruso de Oliveira nas últimas 24h (ambos postados em 2026-11-13, fora da janela da coleta anterior de 2026-11-13): um aviso original (13:19 BRT, assunto "Aula de amanhã") e sua retificação (13:26 BRT, assunto "Aula de hoje", corrigindo apenas o erro de digitação no assunto do primeiro). Ambos trazem a mesma lista de nomes — incluindo o Yan — que deveriam ver a correção de provas em 13/11; os demais estavam dispensados. Classificado como aviso (sem ação de estudo, mas com ação de comparecimento já vencida); adicionado em Tarefas > Avisos. Não adicionado ao Mapa de aulas: é logística de correção de prova, não conteúdo. Levanta lacuna nova sobre a nota/resultado dessa correção (ver Prazos e lacunas).
 
 <!-- fonte: Gmail educacional, e-mails institucionais via Portal do Professor/UFES em nome de Rosane Santos Caruso de Oliveira ("Aula de amanhã"; "Aula de hoje" — retificação), postados em 2026-11-13 às 13:19 e 13:26 BRT, coletados em 2026-11-14 -->
+
+## Verificação (2026-11-15)
+
+Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11 (lacuna registrada em 2026-11-14).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->

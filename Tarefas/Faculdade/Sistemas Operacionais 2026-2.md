@@ -417,3 +417,9 @@ Esta rotina não executou entre 2026-10-16 e 2026-11-12 (gap de 28 dias). Proces
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-14, sem e-mails novos -->
+
+## Verificação (2026-11-15)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 — faltam 4 dias — e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->

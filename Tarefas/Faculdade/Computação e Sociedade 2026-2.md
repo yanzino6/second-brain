@@ -299,3 +299,9 @@ Esta rotina não executou entre 2026-10-16 e 2026-11-12 (lacuna de quase um mês
 Três e-mails novos de Saulo Bortolon nas últimas 24h (todos postados em 2026-11-13, fora da janela da coleta anterior de 2026-11-13): (1) 08:06 BRT — material sobre redes sociais e saúde mental de adolescentes (aumento de suicídios associado a "13 Reasons Why"; julgamento da Meta/Google; ECA Digital), com vários links, sem aula numerada; (2) 11:20 BRT — divulgação do edital do PET Saúde (monitoria em projeto com FHIR), com prazo de inscrição em 15/11; (3) 11:23 BRT — material sobre o Código de Ética e Conduta Profissional da SBC, mencionado "na aula de hoje" (13/11). Classificados: (1) e (3) material de estudo; (2) aviso (oportunidade opcional, com prazo). Adicionados ao Mapa de aulas (2 novas linhas, ambas "Aula não identificada"), a Tarefas > Estudo e a Tarefas > Avisos.
 
 <!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: Association of Increased Youth Suicides…"; "Novo comunicado: Hoje comentei com vocês sobre o edital…"; "Novo comunicado: Pessoal, na aula de hoje falamos…"), postados em 2026-11-13 entre 08:06 e 11:23 BRT, coletados em 2026-11-14 -->
+
+## Verificação (2026-11-15)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O prazo de inscrição no edital do PET Saúde (ver Avisos) vence hoje, 15/11/2026.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->

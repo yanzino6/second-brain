@@ -325,3 +325,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. A 2ª prova d
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-14, sem e-mails novos -->
 
+## Verificação (2026-11-15)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. A 2ª prova de Teoria dos Grafos segue confirmada para 18/11/2026 — faltam 3 dias.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->
+
