@@ -423,3 +423,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue 
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 — faltam 4 dias — e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->
+
+## Verificação (2026-11-16)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 — faltam 3 dias — e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->

@@ -305,3 +305,9 @@ Três e-mails novos de Saulo Bortolon nas últimas 24h (todos postados em 2026-1
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O prazo de inscrição no edital do PET Saúde (ver Avisos) vence hoje, 15/11/2026.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->
+
+## Verificação (2026-11-16)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O prazo de inscrição no edital do PET Saúde (ver Avisos) venceu ontem, 15/11/2026.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->

@@ -205,3 +205,9 @@ Dois e-mails novos de Rosane Santos Caruso de Oliveira nas últimas 24h (ambos p
 Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11 (lacuna registrada em 2026-11-14).
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-15, sem e-mails novos -->
+
+## Verificação (2026-11-16)
+
+Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11 (lacuna registrada em 2026-11-14).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->
