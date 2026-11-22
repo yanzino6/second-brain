@@ -41,6 +41,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-11-03 (postado 23:58 BRT): Rosane Santos Caruso de Oliveira avisou/lembrou, via Portal do Professor/UFES, que a "primeira avaliação" de LFA ocorreria no dia seguinte, 04/11 (quarta-feira), na sala 10 do CT 13, pedindo para não faltar nem atrasar.
 - 2026-11-10 (postado 23:54 BRT, recebido em duplicata, 3 segundos de diferença): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES (e-mail enviado também às quatro turmas de Lógica para Computação I e II), que haveria aulas no dia seguinte, 11/11 — sem especificar sala para LFA.
 - 2026-11-13 (postado 13:19 BRT, retificado às 13:26 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que um grupo específico de estudantes — incluindo o Yan — deveria ver a correção de suas provas **naquele mesmo dia, 13/11**; os demais alunos da turma estavam dispensados. O primeiro e-mail saiu com o assunto errado ("Aula de amanhã"); a retificação (assunto "Aula de hoje") corrige apenas o título, repetindo a mesma lista de nomes e instrução. **Aviso já vencido na data desta coleta (2026-11-14).**
+- 2026-11-17 (postado 11:28 BRT): Rosane Santos Caruso de Oliveira avisou, via Portal do Professor/UFES, que no dia seguinte (18/11) haveria uma nova lista de exercícios, cuja correção abriria a aula, seguida da continuação da correção das provas ("Em seguida continuaremos a mostra de correção das provas"). O e-mail não traz o conteúdo da nova lista nem confirma nota/resultado da prova para o Yan.
 
 ## Prazos e lacunas
 
@@ -53,6 +54,8 @@ Responsável: [[USER|Yan Simmer]]
 > **Atualização (2026-11-14):** o e-mail de 2026-11-13 sobre correção de provas (ver Avisos) é um indício forte de que se trata da mesma prova — o Yan está na lista de quem deveria ver a correção em 13/11. Ainda não há confirmação de que o Yan foi ver a correção, nem qual foi a nota — lacuna nova, registrada abaixo.
 
 > [!question] Em aberto (2026-11-14): não há confirmação de que o Yan foi ver a correção da prova em 2026-11-13 (ver Avisos), nem qual foi a nota/resultado.
+>
+> **Atualização (2026-11-22):** o e-mail de 2026-11-17 (ver Avisos) confirma que a correção das provas continuaria em aula ("continuaremos a mostra de correção das provas"), mas nenhum e-mail até esta coleta trouxe a nota/resultado do Yan, nem o conteúdo da nova lista de exercícios anunciada para 18/11 — ambas as lacunas seguem em aberto.
 
 > [!question] Em aberto, parcialmente resolvida em 2026-10-01: a identidade da professora de Linguagens Formais e Autômatos estava registrada como "sobrenome não confirmado". O e-mail de 2026-09-23 veio de "Rosane Santos" (rosanesco@gmail.com, conta pessoal), compartilhando a pasta "LFA". Em 2026-10-01, chegou um e-mail institucional via Portal do Professor/UFES (portal.professor@ufes.br), endereçado diretamente aos alunos de Linguagens Formais e Autômatos, assinado "ROSANE SANTOS CARUSO DE OLIVEIRA" — nome compatível com "Rosane Santos". O nome completo foi atualizado no campo "Professor" desta nota com base nesse e-mail institucional. Ainda não há confirmação cruzada entre o endereço pessoal (rosanesco@gmail.com) e esse nome institucional — ou seja, que a pessoa que compartilhou a pasta "LFA" é a mesma "Rosane Santos Caruso de Oliveira" do Portal do Professor — mas não há mais ambiguidade entre pessoas diferentes chamadas Rosane nos resultados de busca.
 
@@ -211,3 +214,9 @@ Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca c
 Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11 (lacuna registrada em 2026-11-14).
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->
+
+## Atualização (2026-11-22) — processamento retroativo de 2026-11-17 a 2026-11-22
+
+Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processado agora, com atraso: um e-mail de Rosane Santos Caruso de Oliveira (2026-11-17, 11:28 BRT), "Aula de amanhã", anunciando nova lista de exercícios para 18/11 e continuação da correção das provas (ver Avisos). Classificado como aviso (sem conteúdo de lista a converter em tarefa concreta — ver lacuna). Busca por remetente (portal.professor@ufes.br e rosanesco@gmail.com) confirmou que não há mais e-mails de Rosane Santos Caruso de Oliveira entre 2026-11-18 e 2026-11-21.
+
+<!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de amanhã"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-11-17 11:28 BRT, coletado com atraso em 2026-11-22 -->

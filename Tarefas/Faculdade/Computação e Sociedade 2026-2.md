@@ -20,6 +20,9 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — Trabalho de pesquisa "Observatório de Egressos" (escolha de turma e pesquisa de onde estão os alunos do CT desde 2005) — execução — pendente
 - Aula não identificada — Redes sociais, saúde mental de adolescentes e ECA Digital — estudo — pendente
 - Aula não identificada — Código de Ética e Conduta Profissional da SBC — estudo — pendente
+- Aula não identificada — Arquivo/apresentação ("segundo arquivo") sobre efeitos de novas tecnologias na sociedade, compartilhado em 2026-11-16 — estudo — pendente
+- Aula não identificada — Vídeo "dever de casa", compartilhado em 2026-11-18 — estudo — pendente
+- Aula não identificada — Vídeos pré-aula sobre Steve Eisman (The Big Short), compartilhados em 2026-11-20 — estudo — pendente
 
 > [!question] Em aberto: o e-mail não identifica a qual aula (número, data ou unidade) esse material se refere — apenas que é conteúdo "essencial para a disciplina".
 
@@ -53,6 +56,9 @@ Responsável: [[USER|Yan Simmer]]
 
 - [ ] Aula não identificada — Estudar o material sobre redes sociais e saúde mental de adolescentes, compartilhado por Saulo Bortolon em 2026-11-13 (08:06 BRT): aumento de suicídios de jovens associado à série "13 Reasons Why"; efeito de redes sociais na saúde mental de adolescentes; julgamento da Meta e do Google por responsabilidade em caso de dependência de redes sociais; e o ECA Digital (o que muda para empresas). Vários links de artigos, sem instrução específica de reflexão no corpo do e-mail.
 - [ ] Aula não identificada — Ler o Código de Ética e Conduta Profissional da SBC (Resolução 002/2024), mencionado por Saulo Bortolon na aula de 2026-11-13 ("na aula de hoje falamos sobre o código de ética da sbc..."). Link: https://www.sbc.org.br/wp-content/uploads/2026/02/Codigo-de-Etica-e-Conduta-Profissional-da-SBC_Resolucao_002-2024.pdf
+- [ ] Aula não identificada — Abrir o arquivo/apresentação ("segundo arquivo") compartilhado por Saulo Bortolon em 2026-11-16 (13:04 BRT), sobre efeitos de novas tecnologias na sociedade — tema anunciado ~50 minutos antes no mesmo dia (ver Avisos). O e-mail não traz o nome ou conteúdo do arquivo em texto plano; é preciso abrir a postagem no Google Sala de Aula.
+- [ ] Aula não identificada — Assistir ao vídeo "dever de casa" compartilhado por Saulo Bortolon em 2026-11-18 (https://youtu.be/twYigZxES9U). O e-mail trouxe apenas "Acho que todos vão gostar...", sem instrução detalhada de reflexão.
+- [ ] Aula não identificada — Assistir, antes da próxima aula, aos três vídeos compartilhados por Saulo Bortolon em 2026-11-20, sobre Steve Eisman (personagem real do filme "The Big Short"): https://youtu.be/w1dRDj1QRks, https://youtu.be/O9tHSSlY6eg e https://youtu.be/9vu9gfv2G4M.
 
 > [!question] Em aberto: o conteúdo do TP1 não está no corpo de nenhum e-mail recebido; é preciso abrir a atividade diretamente no Google Sala de Aula para saber o que deve ser entregue.
 
@@ -69,6 +75,8 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-10-26 (postado 13:39 BRT): Saulo Bortolon avisou que estava indo embora porque não havia ninguém na sala, oferecendo abrir um Google Meet para quem tivesse interesse.
 - 2026-11-06 (postado 08:07 BRT): Saulo Bortolon avisou "ESTOU CHEGANDO...", sem mais conteúdo.
 - 2026-11-13 (postado 11:20 BRT): Saulo Bortolon divulgou o edital do PET Saúde (monitoria), com vaga para computação em projeto que usa FHIR no desenvolvimento de sistemas em saúde, sob orientação dele mesmo. **Inscrições até 15 de novembro de 2026** (ação opcional de monitoria, não é tarefa de estudo/entrega da disciplina). Link do edital: https://ccs.ufes.br/sites/ccs.ufes.br/files/field/anexo/edital_072026_monitor_vagaremanescentesrevisto-1_assinado.pdf
+- 2026-11-16 (postado 12:14 BRT): Saulo Bortolon comentou, no Google Sala de Aula, que acha empolgante estudar os efeitos das novas tecnologias na sociedade e que mandaria "outra apresentação" em breve — comentário informal, sem ação de estudo/entrega direta (o arquivo prometido chegou ~50 minutos depois; ver Tarefas > Estudo).
+- 2026-11-17 (postado 18:37 BRT, via Portal do Professor/UFES, enviado pelo coordenador do curso Giovanni Ventorim Comarela, não por Saulo Bortolon diretamente): divulgação de projeto de extensão do Prof. Saulo Bortolon (anexo em PDF), indicado para quem precisa cumprir horas de extensão. Ação opcional, não é tarefa de estudo/entrega da disciplina.
 
 ## Prazos e lacunas
 
@@ -311,3 +319,9 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O prazo de inscrição no edital do PET Saúde (ver Avisos) venceu ontem, 15/11/2026.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->
+
+## Atualização (2026-11-22) — processamento retroativo de 2026-11-17 a 2026-11-22
+
+Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processados agora, com atraso, cinco e-mails relacionados a Saulo Bortolon/Computação e Sociedade no período (dois deles datados de 2026-11-16, não capturados na verificação daquele dia): (1) 2026-11-16 (12:14 BRT) — comentário informal sobre efeitos de novas tecnologias, sem ação direta; (2) 2026-11-16 (13:04 BRT) — "segundo arquivo" compartilhado, sem conteúdo visível no corpo do e-mail; (3) 2026-11-17 (18:37 BRT, via coordenador do curso) — divulgação de projeto de extensão do Prof. Saulo; (4) 2026-11-18 (11:40 BRT) — vídeo "dever de casa"; (5) 2026-11-20 (16:39 BRT) — três vídeos para assistir antes da aula, sobre Steve Eisman. Classificados: (1) e (3) avisos; (2), (4) e (5) material de estudo. Adicionados ao Mapa de aulas (três novas linhas "Aula não identificada"), Tarefas > Estudo e Tarefas > Avisos. Busca por remetente (classroom.google.com e portal.professor@ufes.br) confirmou que não há mais e-mails relacionados a esta disciplina entre 2026-11-19 e 2026-11-21.
+
+<!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula e via Portal do Professor/UFES, postados entre 2026-11-16 e 2026-11-20, coletados com atraso em 2026-11-22 -->

@@ -337,3 +337,11 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. A 2ª prova d
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->
 
+## Verificação (2026-11-22) — cobre 2026-11-17 a 2026-11-22
+
+Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Busca dedicada no Gmail (remetente/nome da professora e classroom.google.com) no período não encontrou nenhum e-mail novo de Maria Claudia Silva Boeres. A 2ª prova de Teoria dos Grafos ocorreu em 18/11/2026, há 4 dias; nenhum e-mail com nota ou feedback chegou até esta coleta. A 2ª lista de exercícios, prometida desde 11/11 (ver Prazos), também não chegou.
+
+> [!question] Em aberto (2026-11-22): nenhum e-mail com o resultado ou feedback da 2ª prova de Teoria dos Grafos (realizada em 18/11/2026) chegou até a coleta desta rotina.
+
+<!-- fonte: Gmail educacional, busca por remetente/nome da professora e classroom.google.com, 2026-11-17 a 2026-11-22, sem e-mails novos, coletado com atraso em 2026-11-22 -->
+

@@ -31,7 +31,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 22 — Paginação — estudo + execução — pendente
 - Aula 23.1 — Algoritmos de Substituição de Páginas — estudo + execução — pendente
 - Aula 23.2 — Laboratório 5 - Memória Compartilhada — execução — pendente
-- Aula 24 — Sistemas de Arquivos — estudo — pendente
+- Aula 24 — Sistemas de Arquivos — estudo + execução — pendente
 - Aula não identificada — Trabalho Prático (TP), 1ª Etapa — execução — pendente
 
 > [!question] Em aberto (2026-11-13): não há material correspondente a uma "Aula 21" nos e-mails coletados — a numeração salta de Aula 20 (postada 19/10) para Aula 22 (mesmo dia, 19/10). Não se sabe se houve aula 21 só presencial, sem material publicado, ou outro motivo.
@@ -92,6 +92,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 22 — Resolver os "Exercícios - Paginação" (exercícios resolvidos do MIT, para conferência).
 - [ ] Aula 23.1 — Resolver os "Exercícios - Algoritmos de Substituição de Páginas". O e-mail trouxe apenas o título, sem conteúdo detalhado nem prazo.
 - [ ] Aula 23.2 — Executar o Laboratório 5 - Memória Compartilhada e entregar seguindo o mesmo padrão de nome/cabeçalho dos laboratórios anteriores (nome_separado_por_underline-matricula.PDF). **Prazo: 2026-10-29.**
+- [ ] Aula 24 — Resolver os "Exercícios - Sistemas de Arquivos". O e-mail trouxe apenas o título, sem conteúdo detalhado nem prazo.
 - [ ] Aula não identificada — Trabalho Prático (TP), 1ª Etapa: entregar link do repositório GitHub (adicionar o usuário do professor, `luisouza`, como colaborador) ou `.tar.gz` com fontes e arquivos de descrição do TP; em entregas por GitHub, será considerado o momento do último commit. **Prazo: 2026-12-04, até as 07h59.** Especificação v1 publicada em 2026-10-24, com aviso de que "alterações ainda podem ser realizadas na especificação" — conferir se a versão final mudou antes de entregar.
 
 ## Prazos e lacunas
@@ -429,3 +430,15 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue 
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. A P2 segue confirmada para 19/11/2026 — faltam 3 dias — e o Trabalho Prático (1ª Etapa) para 04/12/2026 às 07h59.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-16, sem e-mails novos -->
+
+## Atualização (2026-11-22) — processamento retroativo de 2026-11-17 a 2026-11-22
+
+Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processado agora, com atraso: um e-mail de Luis Antonio de Souza Junior, datado de 2026-11-16 (12:58 BRT, não capturado na verificação daquele dia) — novo material "Exercícios - Sistemas de Arquivos" no Google Sala de Aula, sem conteúdo detalhado nem prazo. Classificado como lista de exercícios; adicionado a Tarefas > Execução (Aula 24) e ao Mapa de aulas (linha da Aula 24 atualizada de "estudo" para "estudo + execução").
+
+Também identificado, por busca de e-mails enviados (não é e-mail recebido, mas relevante para o acompanhamento da disciplina): em 2026-11-17 (17:57 BRT) o próprio Yan enviou e-mail a Luis Antonio de Souza Junior perguntando os horários em que ele estaria na sala nos dias seguintes, para tirar dúvidas para a P2. **Nenhuma resposta do professor chegou até esta coleta (2026-11-22)** — a P2 ocorreu em 19/11/2026, três dias após o e-mail, sem confirmação de que o Yan conseguiu tirar as dúvidas antes da prova.
+
+Busca por remetente (classroom.google.com) confirmou que não há mais e-mails de Luis Antonio de Souza Junior entre 2026-11-17 e 2026-11-21, nem qualquer e-mail com nota ou feedback da P2 (realizada em 19/11) até esta coleta.
+
+> [!question] Em aberto (2026-11-22): nenhum e-mail com o resultado ou feedback da P2 (realizada em 19/11/2026) chegou até a coleta desta rotina.
+
+<!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: \"Exercícios - Sistemas de Arquivos\""), postado em 2026-11-16 12:58 BRT; e-mail enviado pelo próprio Yan ("Horários para tirar dúvidas"), 2026-11-17 17:57 BRT, sem resposta até 2026-11-22; coletados com atraso em 2026-11-22 -->
