@@ -33,6 +33,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 23.2 — Laboratório 5 - Memória Compartilhada — execução — pendente
 - Aula 24 — Sistemas de Arquivos — estudo + execução — pendente
 - Aula não identificada — Trabalho Prático (TP), 1ª Etapa — execução — pendente
+- Aula 25 — Extra - Virtualização e Docker — estudo — pendente
 
 > [!question] Em aberto (2026-11-13): não há material correspondente a uma "Aula 21" nos e-mails coletados — a numeração salta de Aula 20 (postada 19/10) para Aula 22 (mesmo dia, 19/10). Não se sabe se houve aula 21 só presencial, sem material publicado, ou outro motivo.
 
@@ -73,6 +74,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 22 — Estudar Paginação: memória virtual, paginação, tradução de endereço virtual-físico, TLB, tabela de páginas multinível e tabela de páginas invertida; consultar Tanenbaum (seção 3.3 "Memória Virtual", pp. 114-122) e cinco vídeos do MIT indicados (paginação básica, page faults, aritmética de TLB/tradução de endereço, exemplos de memória virtual, tabelas de páginas multinível).
 - [ ] Aula 23.1 — Estudar Algoritmos de Substituição de Páginas: algoritmos de tratamento de Page Fault e projeto com Working Set; consultar Tanenbaum (seção 3.4 "Algoritmos de Substituição de Páginas", pp. 122-133, e seção 3.5 "Questões de projeto para sistemas de paginação" até 3.5.5, pp. 133-137).
 - [ ] Aula 24 — Estudar Sistemas de Arquivos: gerência de arquivos, sistemas de arquivos e suas estruturas internas, tipos de arquivos (UNIX), implementação de sistemas de arquivos e diretórios, estrutura i-node (UNIX), arquivos compartilhados, gerenciamento de espaço em disco; consultar Tanenbaum, capítulo 4 "Sistemas de Arquivos" até a seção 4.4.3 inclusa (pp. 158-190), pulando as seções 4.1, 4.2, 4.3.5, 4.3.6, 4.3.7 e 4.4.2 por indicação do próprio professor.
+- [ ] Aula 25 — Estudar a aula extra sobre Virtualização e Docker. O e-mail trouxe apenas o título, sem conteúdo detalhado.
 
 ### Execução
 
@@ -442,3 +444,9 @@ Busca por remetente (classroom.google.com) confirmou que não há mais e-mails d
 > [!question] Em aberto (2026-11-22): nenhum e-mail com o resultado ou feedback da P2 (realizada em 19/11/2026) chegou até a coleta desta rotina.
 
 <!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: \"Exercícios - Sistemas de Arquivos\""), postado em 2026-11-16 12:58 BRT; e-mail enviado pelo próprio Yan ("Horários para tirar dúvidas"), 2026-11-17 17:57 BRT, sem resposta até 2026-11-22; coletados com atraso em 2026-11-22 -->
+
+## Atualização (2026-11-24)
+
+Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: novo material "Aula 25 - Extra - Virtualização e Docker" no Google Sala de Aula (postado em 2026-11-23 12:09 BRT). O e-mail traz apenas o título, sem conteúdo detalhado. Classificado como material de estudo; adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 25 (aula extra, numerada pelo próprio professor). Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); e nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta.
+
+<!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: \"Aula 25 - Extra - Virtualização e Docker\""), postado em 2026-11-23 12:09 BRT (15:10 UTC), coletado em 2026-11-24 -->

@@ -220,3 +220,9 @@ Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca c
 Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processado agora, com atraso: um e-mail de Rosane Santos Caruso de Oliveira (2026-11-17, 11:28 BRT), "Aula de amanhã", anunciando nova lista de exercícios para 18/11 e continuação da correção das provas (ver Avisos). Classificado como aviso (sem conteúdo de lista a converter em tarefa concreta — ver lacuna). Busca por remetente (portal.professor@ufes.br e rosanesco@gmail.com) confirmou que não há mais e-mails de Rosane Santos Caruso de Oliveira entre 2026-11-18 e 2026-11-21.
 
 <!-- fonte: Gmail educacional, e-mail institucional via Portal do Professor/UFES ("Aula de amanhã"), remetente portal.professor@ufes.br em nome de Rosane Santos Caruso de Oliveira, postado em 2026-11-17 11:28 BRT, coletado com atraso em 2026-11-22 -->
+
+## Verificação (2026-11-24)
+
+Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11, e sem confirmação do conteúdo da lista de exercícios anunciada para 18/11 (lacunas registradas em 2026-11-14 e 2026-11-22).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-24, sem e-mails novos -->

@@ -77,6 +77,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-11-13 (postado 11:20 BRT): Saulo Bortolon divulgou o edital do PET Saúde (monitoria), com vaga para computação em projeto que usa FHIR no desenvolvimento de sistemas em saúde, sob orientação dele mesmo. **Inscrições até 15 de novembro de 2026** (ação opcional de monitoria, não é tarefa de estudo/entrega da disciplina). Link do edital: https://ccs.ufes.br/sites/ccs.ufes.br/files/field/anexo/edital_072026_monitor_vagaremanescentesrevisto-1_assinado.pdf
 - 2026-11-16 (postado 12:14 BRT): Saulo Bortolon comentou, no Google Sala de Aula, que acha empolgante estudar os efeitos das novas tecnologias na sociedade e que mandaria "outra apresentação" em breve — comentário informal, sem ação de estudo/entrega direta (o arquivo prometido chegou ~50 minutos depois; ver Tarefas > Estudo).
 - 2026-11-17 (postado 18:37 BRT, via Portal do Professor/UFES, enviado pelo coordenador do curso Giovanni Ventorim Comarela, não por Saulo Bortolon diretamente): divulgação de projeto de extensão do Prof. Saulo Bortolon (anexo em PDF), indicado para quem precisa cumprir horas de extensão. Ação opcional, não é tarefa de estudo/entrega da disciplina.
+- 2026-11-23 (postado 13:04 BRT, via Portal do Professor/UFES, recebido em 10 cópias — uma por turma, mesmo padrão de duplicação já visto em 2026-10-09): Saulo Bortolon avisou que chegaria com 20 minutos de atraso para a aula daquele dia ("Chegarei 20 min atraso"). Aviso sem mais conteúdo no corpo da mensagem.
 
 ## Prazos e lacunas
 
@@ -325,3 +326,9 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processados agora, com atraso, cinco e-mails relacionados a Saulo Bortolon/Computação e Sociedade no período (dois deles datados de 2026-11-16, não capturados na verificação daquele dia): (1) 2026-11-16 (12:14 BRT) — comentário informal sobre efeitos de novas tecnologias, sem ação direta; (2) 2026-11-16 (13:04 BRT) — "segundo arquivo" compartilhado, sem conteúdo visível no corpo do e-mail; (3) 2026-11-17 (18:37 BRT, via coordenador do curso) — divulgação de projeto de extensão do Prof. Saulo; (4) 2026-11-18 (11:40 BRT) — vídeo "dever de casa"; (5) 2026-11-20 (16:39 BRT) — três vídeos para assistir antes da aula, sobre Steve Eisman. Classificados: (1) e (3) avisos; (2), (4) e (5) material de estudo. Adicionados ao Mapa de aulas (três novas linhas "Aula não identificada"), Tarefas > Estudo e Tarefas > Avisos. Busca por remetente (classroom.google.com e portal.professor@ufes.br) confirmou que não há mais e-mails relacionados a esta disciplina entre 2026-11-19 e 2026-11-21.
 
 <!-- fonte: Gmail educacional, e-mails de Saulo Bortolon no Google Sala de Aula e via Portal do Professor/UFES, postados entre 2026-11-16 e 2026-11-20, coletados com atraso em 2026-11-22 -->
+
+## Atualização (2026-11-24)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso via Portal do Professor/UFES ("Chegarei 20 min atraso"), postado em 2026-11-23 13:04 BRT, recebido em 10 cópias (uma por turma da disciplina). Classificado como aviso (logística de atraso, sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Aviso já vencido na data desta coleta (a aula a que se refere já ocorreu).
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon via Portal do Professor/UFES ("Chegarei 20 min atraso"), postado em 2026-11-23 13:04 BRT (16:04 UTC), recebido em 10 cópias, coletado em 2026-11-24 -->

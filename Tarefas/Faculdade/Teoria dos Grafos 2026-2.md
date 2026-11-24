@@ -24,6 +24,7 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — Lista 4 de exercícios — execução — pendente
 - Aula não identificada — Grafos Eulerianos e Hamiltonianos — estudo — pendente
 - Aula não identificada — Cortes e grafos k-conexos — estudo — pendente
+- Aula — Planaridade — estudo — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
 
@@ -44,6 +45,7 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula — Caminhos Mínimos - Algoritmos de Bellmann-Ford e Floyd — estudar o material novo publicado no Google Sala de Aula. O e-mail trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula não identificada — Estudar Grafos Eulerianos e Hamiltonianos. O e-mail (postado em 2026-10-28 10:31 BRT) trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula não identificada — Estudar Cortes e grafos k-conexos. O e-mail (postado em 2026-11-09 12:10 BRT) trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula — Planaridade — estudar o material novo publicado no Google Sala de Aula. O e-mail (postado em 2026-11-23 11:54 BRT) trouxe apenas o título, sem conteúdo detalhado.
 
 ### Execução
 
@@ -344,4 +346,10 @@ Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Busca dedicada no 
 > [!question] Em aberto (2026-11-22): nenhum e-mail com o resultado ou feedback da 2ª prova de Teoria dos Grafos (realizada em 18/11/2026) chegou até a coleta desta rotina.
 
 <!-- fonte: Gmail educacional, busca por remetente/nome da professora e classroom.google.com, 2026-11-17 a 2026-11-22, sem e-mails novos, coletado com atraso em 2026-11-22 -->
+
+## Atualização (2026-11-24)
+
+Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: novo material "Planaridade" no Google Sala de Aula (postado em 2026-11-23 11:54 BRT). O e-mail traz apenas o título, sem conteúdo detalhado. Classificado como material de estudo; adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula — Planaridade", seguindo a mesma convenção já usada nesta nota (professora não numera as aulas por e-mail). Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
+
+<!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Planaridade\""), postado em 2026-11-23 11:54 BRT (14:55 UTC), coletado em 2026-11-24 -->
 
