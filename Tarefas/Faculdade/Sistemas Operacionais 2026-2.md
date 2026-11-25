@@ -450,3 +450,9 @@ Busca por remetente (classroom.google.com) confirmou que não há mais e-mails d
 Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: novo material "Aula 25 - Extra - Virtualização e Docker" no Google Sala de Aula (postado em 2026-11-23 12:09 BRT). O e-mail traz apenas o título, sem conteúdo detalhado. Classificado como material de estudo; adicionado a Tarefas > Estudo e ao Mapa de aulas como Aula 25 (aula extra, numerada pelo próprio professor). Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); e nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta.
 
 <!-- fonte: Gmail educacional, e-mail de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: \"Aula 25 - Extra - Virtualização e Docker\""), postado em 2026-11-23 12:09 BRT (15:10 UTC), coletado em 2026-11-24 -->
+
+## Verificação (2026-11-25)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta. O Trabalho Prático (1ª Etapa) segue com prazo em 04/12/2026 às 07h59 — faltam 9 dias.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->

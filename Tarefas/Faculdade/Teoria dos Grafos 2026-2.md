@@ -353,3 +353,9 @@ Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: novo material "Pl
 
 <!-- fonte: Gmail educacional, e-mail de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Planaridade\""), postado em 2026-11-23 11:54 BRT (14:55 UTC), coletado em 2026-11-24 -->
 
+## Verificação (2026-11-25)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->
+

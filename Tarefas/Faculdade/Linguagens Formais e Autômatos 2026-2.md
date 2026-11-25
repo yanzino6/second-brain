@@ -226,3 +226,9 @@ Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processado agora, 
 Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11, e sem confirmação do conteúdo da lista de exercícios anunciada para 18/11 (lacunas registradas em 2026-11-14 e 2026-11-22).
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-24, sem e-mails novos -->
+
+## Verificação (2026-11-25)
+
+Nenhum e-mail novo de Rosane Santos Caruso de Oliveira nas últimas 24h (busca cobriu from:portal.professor@ufes.br e from:rosanesco@gmail.com). Segue sem confirmação a nota/resultado da correção de prova vista em 13/11, e sem confirmação do conteúdo da lista de exercícios anunciada para 18/11 (lacunas registradas em 2026-11-14 e 2026-11-22).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->

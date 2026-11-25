@@ -332,3 +332,9 @@ Esta rotina ficou sem executar entre 2026-11-17 e 2026-11-21. Processados agora,
 Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso via Portal do Professor/UFES ("Chegarei 20 min atraso"), postado em 2026-11-23 13:04 BRT, recebido em 10 cópias (uma por turma da disciplina). Classificado como aviso (logística de atraso, sem ação de estudo/entrega); adicionado em Tarefas > Avisos. Aviso já vencido na data desta coleta (a aula a que se refere já ocorreu).
 
 <!-- fonte: Gmail educacional, e-mail de Saulo Bortolon via Portal do Professor/UFES ("Chegarei 20 min atraso"), postado em 2026-11-23 13:04 BRT (16:04 UTC), recebido em 10 cópias, coletado em 2026-11-24 -->
+
+## Verificação (2026-11-25)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido há 51 dias, sem confirmação de entrega, nota ou feedback.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->
