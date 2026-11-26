@@ -338,3 +338,9 @@ Um e-mail novo de Saulo Bortolon nas últimas 24h: aviso via Portal do Professor
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido há 51 dias, sem confirmação de entrega, nota ou feedback.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->
+
+## Verificação (2026-11-26)
+
+Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido há 52 dias, sem confirmação de entrega, nota ou feedback.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-26, sem e-mails novos -->

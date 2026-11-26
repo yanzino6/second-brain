@@ -25,6 +25,8 @@ Responsável: [[USER|Yan Simmer]]
 - Aula não identificada — Grafos Eulerianos e Hamiltonianos — estudo — pendente
 - Aula não identificada — Cortes e grafos k-conexos — estudo — pendente
 - Aula — Planaridade — estudo — pendente
+- Aula — Coloração e conjunto independente de vértices — estudo — pendente
+- Aula não identificada — lista de exercícios nova publicada em 2026-11-25 — execução — pendente
 
 > [!question] Em aberto: o professor não numera as aulas nos e-mails do Google Sala de Aula consultados; a ordem acima segue a ordem de publicação dos tópicos, não uma numeração oficial da disciplina.
 
@@ -46,12 +48,14 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula não identificada — Estudar Grafos Eulerianos e Hamiltonianos. O e-mail (postado em 2026-10-28 10:31 BRT) trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula não identificada — Estudar Cortes e grafos k-conexos. O e-mail (postado em 2026-11-09 12:10 BRT) trouxe apenas o título, sem conteúdo detalhado.
 - [ ] Aula — Planaridade — estudar o material novo publicado no Google Sala de Aula. O e-mail (postado em 2026-11-23 11:54 BRT) trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula — Coloração e conjunto independente de vértices — estudar o material novo publicado no Google Sala de Aula. O e-mail (postado em 2026-11-25 11:22 BRT) trouxe apenas o título, sem conteúdo detalhado.
 
 ### Execução
 
 - [x] Resolver as listas de exercícios de Teoria dos Grafos.
 - [ ] Aula não identificada — Resolver a lista de exercícios anunciada em 2026-09-15 no Google Sala de Aula ("Lista de exercícios nova publicada!"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
 - [ ] Aula não identificada — Resolver a Lista 4 de exercícios, adicionada em "Listas de exercícios" no Google Sala de Aula (postado em 2026-10-26 21:02 BRT, "Olá pessoal! Lista 4 adicionada em Listas de exercícios!"). O e-mail não detalha o conteúdo nem a aula a que se refere.
+- [ ] Aula não identificada — Resolver a lista de exercícios nova, anunciada no Google Sala de Aula em 2026-11-25 15:06 BRT ("Pessoal, passando para avisar que tem lista nova publicada! :-)"). O aviso não especifica a aula, o conteúdo nem o link direto da lista.
 
 ### Avisos
 
@@ -72,6 +76,8 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-11-13): a 2ª lista de exercícios, que Maria Claudia Silva Boeres disse que entregaria em 11/11 (quarta), não chegou por e-mail até a coleta desta rotina — é possível que tenha sido publicada apenas no Google Sala de Aula sem notificação por e-mail, ou que o envio tenha atrasado.
 
 > [!question] Em aberto (2026-09-15): não é possível confirmar se a lista anunciada em 2026-09-15 é a mesma referida no checkbox genérico "Resolver as listas de exercícios de Teoria dos Grafos." ou uma lista adicional — o e-mail não detalha o conteúdo, e também não trouxe prazo de entrega.
+
+> [!question] Em aberto (2026-11-26): a lista de exercícios nova, anunciada em 2026-11-25, também não traz prazo de entrega, conteúdo nem a aula a que se refere no corpo do e-mail.
 
 ## Fonte e escopo
 
@@ -358,4 +364,10 @@ Um e-mail novo de Maria Claudia Silva Boeres nas últimas 24h: novo material "Pl
 Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->
+
+## Atualização (2026-11-26)
+
+Dois e-mails novos de Maria Claudia Silva Boeres nas últimas 24h, ambos postados em 2026-11-25: (1) novo material "Coloração e conjunto independente de vértices" (postado 11:22 BRT), classificado como material de estudo — adicionado a Tarefas > Estudo e ao Mapa de aulas como "Aula — Coloração e conjunto independente de vértices"; (2) novo aviso "Pessoal, passando para avisar que tem lista nova publicada! :-)" (postado 15:06 BRT), classificado como lista de exercícios (mesmo padrão já aplicado ao aviso equivalente de 2026-09-15, apesar do rótulo "Novo aviso" do Google Sala de Aula) — adicionado a Tarefas > Execução e ao Mapa de aulas como "Aula não identificada". Nenhum dos dois e-mails numera a aula nem traz prazo de entrega. Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
+
+<!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Coloração e conjunto independente de vértices\""; "Novo comunicado: \"Pessoal, passando para avisar que tem lista nova publicada!...\""), postados em 2026-11-25 entre 11:22 e 15:06 BRT, coletados em 2026-11-26 -->
 

@@ -456,3 +456,9 @@ Um e-mail novo de Luis Antonio de Souza Junior nas últimas 24h: novo material "
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta. O Trabalho Prático (1ª Etapa) segue com prazo em 04/12/2026 às 07h59 — faltam 9 dias.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-25, sem e-mails novos -->
+
+## Verificação (2026-11-26)
+
+Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta. O Trabalho Prático (1ª Etapa) segue com prazo em 04/12/2026 às 07h59 — faltam 8 dias.
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-26, sem e-mails novos -->
