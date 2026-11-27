@@ -34,6 +34,10 @@ Responsável: [[USER|Yan Simmer]]
 - Aula 24 — Sistemas de Arquivos — estudo + execução — pendente
 - Aula não identificada — Trabalho Prático (TP), 1ª Etapa — execução — pendente
 - Aula 25 — Extra - Virtualização e Docker — estudo — pendente
+- Aula 26 — Lab5 - Sistema de Arquivos Unix e Docker — estudo — pendente
+- Aula 27 — Lab Extra - Docker — estudo — pendente
+
+> [!question] Em aberto (2026-11-27): a Aula 26 traz "Lab5" no próprio nome, mas o e-mail é "Novo material" (não "Nova atividade") e não trouxe instruções de execução, entrega ou prazo — por isso ficou classificada como estudo, não como execução, até que chegue (se chegar) uma atividade separada com instruções de entrega. Além disso, "Lab5" no título da Aula 26 coincide em número com o "Laboratório 5 - Memória Compartilhada" já registrado na Aula 23.2, mas são temas diferentes (Sistema de Arquivos Unix e Docker vs. Memória Compartilhada) — não é possível confirmar se há erro de numeração do professor ou se são apenas rótulos reaproveitados.
 
 > [!question] Em aberto (2026-11-13): não há material correspondente a uma "Aula 21" nos e-mails coletados — a numeração salta de Aula 20 (postada 19/10) para Aula 22 (mesmo dia, 19/10). Não se sabe se houve aula 21 só presencial, sem material publicado, ou outro motivo.
 
@@ -75,6 +79,8 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula 23.1 — Estudar Algoritmos de Substituição de Páginas: algoritmos de tratamento de Page Fault e projeto com Working Set; consultar Tanenbaum (seção 3.4 "Algoritmos de Substituição de Páginas", pp. 122-133, e seção 3.5 "Questões de projeto para sistemas de paginação" até 3.5.5, pp. 133-137).
 - [ ] Aula 24 — Estudar Sistemas de Arquivos: gerência de arquivos, sistemas de arquivos e suas estruturas internas, tipos de arquivos (UNIX), implementação de sistemas de arquivos e diretórios, estrutura i-node (UNIX), arquivos compartilhados, gerenciamento de espaço em disco; consultar Tanenbaum, capítulo 4 "Sistemas de Arquivos" até a seção 4.4.3 inclusa (pp. 158-190), pulando as seções 4.1, 4.2, 4.3.5, 4.3.6, 4.3.7 e 4.4.2 por indicação do próprio professor.
 - [ ] Aula 25 — Estudar a aula extra sobre Virtualização e Docker. O e-mail trouxe apenas o título, sem conteúdo detalhado.
+- [ ] Aula 26 — Estudar o material "Lab5 - Sistema de Arquivos Unix e Docker". O e-mail trouxe apenas o título, sem conteúdo detalhado nem instruções de execução.
+- [ ] Aula 27 — Estudar a aula extra "Lab Extra - Docker": prática de Docker. O e-mail trouxe apenas a descrição "Prática de Docker.", sem conteúdo detalhado.
 
 ### Execução
 
@@ -120,6 +126,8 @@ Responsável: [[USER|Yan Simmer]]
 > [!question] Em aberto (2026-11-13): nenhum e-mail capturado nesta busca (2026-10-15 a 2026-11-13) menciona a data original da P2 antes do primeiro adiamento — não é possível reconstruir quando a prova estava marcada originalmente sem revisar e-mails anteriores a 2026-10-15.
 
 > [!question] Em aberto (2026-11-13): o e-mail "Grupos dos Trabalhos" (postado 2026-10-22) não traz a lista de duplas em texto plano, nem confirma se o Yan já está em uma dupla para o Trabalho Prático — é preciso abrir a postagem no Google Sala de Aula.
+
+> [!question] Em aberto (2026-11-27): a especificação do Trabalho Prático mudou novamente em 2026-11-26 (remoção do `carga_análise.txt`, análise simplificada), além da correção de prazo já registrada em 2026-10-27. O e-mail não detalha o que exatamente muda na entrega nem se afeta as instruções já registradas acima em Tarefas > Execução — é preciso abrir a especificação atualizada no Google Sala de Aula antes de entregar (prazo continua 2026-12-04, 07h59).
 
 ## Progresso confirmado (2026-09-09)
 
@@ -174,6 +182,7 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h.
 - 2026-10-28 (lembrete automático): prazo de entrega do Lab. 5 - Memória Compartilhada (Aula 23.2) é amanhã, 29/10; já registrado em Execução e Prazos e lacunas.
 - 2026-11-10 (postado 10:53 BRT): manutenção de energia na UFES em 11 e 12/11 cancelou as atividades acadêmicas do campus de Goiabeiras nesses dias; a P2 foi remarcada para segunda-feira, 16/11.
 - 2026-11-11 (postado 10:53 BRT): Luis Antonio de Souza Junior confirmou que a P2 ficará para a semana seguinte, dia 19/11 (quinta-feira) — "não haverão mais alterações nesta data". Substitui a data de 16/11 anunciada no dia anterior. O professor mencionou que o cronograma já passou por "127 alterações" nas aulas e provas no semestre. **Prova com data próxima na data desta coleta (2026-11-13).**
+- 2026-11-26 (postado 16:15 BRT): Luis Antonio de Souza Junior avisou, no Google Sala de Aula, que foram propostas alterações na Especificação do Trabalho Prático (TP) — removeu o arquivo `carga_análise.txt` e simplificou a análise. Pediu para os alunos verificarem. **Nova revisão da especificação, além da já registrada em 2026-10-27 (correção de prazo); ver lacuna em Prazos e lacunas.**
 
 ## Atualização (2026-09-11)
 
@@ -462,3 +471,9 @@ Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. Continua se
 Nenhum e-mail novo de Luis Antonio de Souza Junior nas últimas 24h. Continua sem resposta o e-mail enviado pelo Yan em 2026-11-17 perguntando horários para tirar dúvidas antes da P2 (ver Atualização 2026-11-22); nenhum e-mail com nota/feedback da P2 (realizada em 19/11) chegou até esta coleta. O Trabalho Prático (1ª Etapa) segue com prazo em 04/12/2026 às 07h59 — faltam 8 dias.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-26, sem e-mails novos -->
+
+## Atualização (2026-11-27)
+
+Três e-mails novos de Luis Antonio de Souza Junior nas últimas 24h, todos postados em 2026-11-26: (1) 13:57 BRT — novo material "Aula 26 - Lab5 - Sistema de Arquivos Unix e Docker", apenas o título, sem conteúdo detalhado; (2) 13:59 BRT — novo material "Aula 27 - Lab Extra - Docker" ("Prática de Docker."); (3) 16:15 BRT — aviso informando que a especificação do Trabalho Prático mudou (removido `carga_análise.txt`, análise simplificada), pedindo que os alunos verifiquem. Classificados os dois primeiros como material de estudo (e-mails de "Novo material", sem instruções de entrega/prazo, mesmo critério já usado para a Aula 25); adicionados a Tarefas > Estudo e ao Mapa de aulas como Aula 26 e Aula 27. O terceiro classificado como aviso (mudança de especificação, sem nova ação de estudo isolada — mas com impacto na entrega do TP já registrada em Execução); adicionado em Tarefas > Avisos, com lacuna nova em Prazos e lacunas sobre o que exatamente mudou na entrega. Nenhum e-mail novo chegou de Maria Claudia Silva Boeres, Eduardo Zambon, Saulo Bortolon ou Rosane Santos Caruso de Oliveira no período (ver notas das demais disciplinas).
+
+<!-- fonte: Gmail educacional, e-mails de Luis Antonio de Souza Junior no Google Sala de Aula ("Novo material: \"Aula 26 - Lab5 - Sistema de Arquivos Unix e Docker\""; "Novo material: \"Aula 27 - Lab Extra - Docker\""; "Novo comunicado: \"Boa tarde pessoal! Foram propostas alterações no TP...\""), postados em 2026-11-26 entre 13:57 e 16:15 BRT, coletados em 2026-11-27 -->

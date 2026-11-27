@@ -371,3 +371,9 @@ Dois e-mails novos de Maria Claudia Silva Boeres nas últimas 24h, ambos postado
 
 <!-- fonte: Gmail educacional, e-mails de Maria Claudia Silva Boeres no Google Sala de Aula ("Novo material: \"Coloração e conjunto independente de vértices\""; "Novo comunicado: \"Pessoal, passando para avisar que tem lista nova publicada!...\""), postados em 2026-11-25 entre 11:22 e 15:06 BRT, coletados em 2026-11-26 -->
 
+## Verificação (2026-11-27)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-27, sem e-mails novos -->
+
