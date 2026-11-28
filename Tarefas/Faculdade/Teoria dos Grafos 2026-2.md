@@ -377,3 +377,9 @@ Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. Segue sem che
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-27, sem e-mails novos -->
 
+## Verificação (2026-11-28)
+
+Nenhum e-mail novo de Maria Claudia Silva Boeres nas últimas 24h. Segue sem chegar qualquer e-mail com nota/feedback da 2ª prova (realizada em 18/11/2026) e sem chegar a 2ª lista de exercícios prometida para 11/11/2026 (ambas as lacunas seguem em aberto).
+
+<!-- fonte: Gmail educacional, verificação em 2026-11-28, sem e-mails novos -->
+

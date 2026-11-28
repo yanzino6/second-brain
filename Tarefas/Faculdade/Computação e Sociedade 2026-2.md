@@ -51,6 +51,8 @@ Responsável: [[USER|Yan Simmer]]
 - [ ] Aula não identificada — Entregar o TP1. **Prazo informado: 5 de out. (2026-10-05) — já vencido na data desta coleta (2026-10-06).** Nem o e-mail de criação da atividade (postado em 2026-08-31 23:12 BRT) nem o lembrete de prazo (postado em 2026-10-05, poucos minutos após a meia-noite BRT) trazem a descrição do trabalho — apenas o título "TP1 - Descrição".
 - [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": escolher e anotar, na planilha ObservatorioEgressos_EscolhaTurmas (https://docs.google.com/spreadsheets/d/1jZhX8TfxtC87IrZFkNUO8MVaLKKA4xfJesF_IBcBO-4/edit), uma turma "livre" para pesquisar onde estão os alunos, com os nomes dos componentes do grupo. **Resolve a lacuna, em aberto desde 2026-09-15, sobre a lista de escolha de turma de avaliação de ingressantes prometida por Saulo Bortolon.**
 - [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": usar a planilha com os dados dos alunos do CT desde 2005 (compartilhada em 2026-11-06) para a pesquisa; ao gerar o PDF do Lattes ou do LinkedIn de cada aluno pesquisado, anotar o link do PDF e publicá-lo numa pasta pública (com permissões ajustadas).
+- [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": preencher, para cada aluno pesquisado, o questionário do Google Forms (https://forms.gle/zRbUSE7gom8kshn39) — instrução nova de 2026-11-27, usada também pelo pessoal do Laboratório de Egressos para consolidar as estatísticas no final.
+- [ ] Aula não identificada — Trabalho de pesquisa "Observatório de Egressos": na planilha "IngressantesPorCurso_2005_2026_CT_Publico" (https://docs.google.com/spreadsheets/d/15qymIkIMW4Py9AqzKormoQTXHs1st5G9F-I575w8mSU/edit), colocar nas colunas M e N o link do PDF salvo no Google Drive UFES do currículo Lattes e/ou do LinkedIn do aluno pesquisado (quando encontrado), e na coluna O o link de outro arquivo considerado interessante. **Deixar os arquivos com permissão de visualização para saulo.bortolon@ufes.br.** Instrução nova de 2026-11-27, que detalha colunas específicas para o requisito de "pasta pública com os PDFs" já registrado em 2026-11-06 — não está confirmado se é a mesma planilha de dados dos alunos do CT desde 2005 mencionada naquele e-mail, ou uma planilha diferente (ver lacuna em Prazos e lacunas).
 
 ### Estudo (continuação)
 
@@ -78,6 +80,7 @@ Responsável: [[USER|Yan Simmer]]
 - 2026-11-16 (postado 12:14 BRT): Saulo Bortolon comentou, no Google Sala de Aula, que acha empolgante estudar os efeitos das novas tecnologias na sociedade e que mandaria "outra apresentação" em breve — comentário informal, sem ação de estudo/entrega direta (o arquivo prometido chegou ~50 minutos depois; ver Tarefas > Estudo).
 - 2026-11-17 (postado 18:37 BRT, via Portal do Professor/UFES, enviado pelo coordenador do curso Giovanni Ventorim Comarela, não por Saulo Bortolon diretamente): divulgação de projeto de extensão do Prof. Saulo Bortolon (anexo em PDF), indicado para quem precisa cumprir horas de extensão. Ação opcional, não é tarefa de estudo/entrega da disciplina.
 - 2026-11-23 (postado 13:04 BRT, via Portal do Professor/UFES, recebido em 10 cópias — uma por turma, mesmo padrão de duplicação já visto em 2026-10-09): Saulo Bortolon avisou que chegaria com 20 minutos de atraso para a aula daquele dia ("Chegarei 20 min atraso"). Aviso sem mais conteúdo no corpo da mensagem.
+- 2026-11-27 (postado 16:52 BRT): Saulo Bortolon avisou, no Google Sala de Aula, que **não haverá cobrança de frequência na aula na semana que vem, nem na segunda nem na sexta** (por cálculo de calendário a partir da data de postagem: 30/11 e 04/12) — disse que irá à sala levar bolinho e café, ficará disponível para conversar com quem quiser, sem falar de política/economia/sociedade, e que os alunos estão liberados para fazer o que quiserem. O mesmo e-mail trouxe instruções de execução sobre o trabalho "Observatório de Egressos" (ver Tarefas > Execução).
 
 ## Prazos e lacunas
 
@@ -87,7 +90,9 @@ Responsável: [[USER|Yan Simmer]]
 
 > [!question] Em aberto: nenhum prazo explícito apareceu no e-mail consultado.
 
-> [!question] Em aberto (2026-11-13): nenhum prazo explícito apareceu nos e-mails sobre o trabalho de pesquisa "Observatório de Egressos" (escolha de turma em 2026-10-19; dados dos alunos em 2026-11-06).
+> [!question] Em aberto (2026-11-13): nenhum prazo explícito apareceu nos e-mails sobre o trabalho de pesquisa "Observatório de Egressos" (escolha de turma em 2026-10-19; dados dos alunos em 2026-11-06). **Atualização (2026-11-28):** o e-mail de 2026-11-27 definiu "até o final do semestre" como horizonte para entregar os três itens do Observatório de Egressos (questionário, planilha de PDFs, planilha de escolha de turmas) — ainda não é uma data explícita, mas resolve parcialmente a lacuna.
+
+> [!question] Em aberto (2026-11-28): não está confirmado se a planilha "IngressantesPorCurso_2005_2026_CT_Publico" (detalhada em 2026-11-27, com colunas M, N e O) é a mesma planilha "com os dados dos alunos do CT desde 2005" compartilhada em 2026-11-06, ou uma planilha diferente — os e-mails não repetem o mesmo nome de arquivo.
 
 ## Fonte e escopo
 
@@ -350,3 +355,9 @@ Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) n
 Nenhum e-mail novo de Saulo Bortolon (ou da turma de Computação e Sociedade) nas últimas 24h. O TP1 (prazo 2026-10-05) segue vencido há 53 dias, sem confirmação de entrega, nota ou feedback.
 
 <!-- fonte: Gmail educacional, verificação em 2026-11-27, sem e-mails novos -->
+
+## Atualização (2026-11-28)
+
+Um e-mail novo de Saulo Bortolon nas últimas 24h (postado em 2026-11-27 16:52 BRT): aviso combinando (1) ausência de cobrança de frequência na semana que vem (segunda e sexta, por cálculo de calendário: 30/11 e 04/12) — ele estará na sala com bolinho e café, disponível para conversa informal, sem obrigatoriedade — e (2) instruções de execução do trabalho "Observatório de Egressos": preencher um questionário do Google Forms para cada aluno pesquisado, preencher colunas específicas (M, N e O) da planilha "IngressantesPorCurso_2005_2026_CT_Publico" com links de PDFs do Lattes/LinkedIn (e compartilhar acesso de visualização com saulo.bortolon@ufes.br), e preencher a planilha de escolha de turmas com quem fez os dados de cada turma (não obrigatório). Classificado como aviso (a parte de frequência) e execução (a parte do Observatório de Egressos, que elabora/detalha tarefas já registradas); adicionado em Tarefas > Avisos e Tarefas > Execução, com nova lacuna sobre se a planilha de PDFs é a mesma já referida em 2026-11-06. O TP1 (prazo 2026-10-05) segue vencido há 54 dias, sem confirmação de entrega, nota ou feedback.
+
+<!-- fonte: Gmail educacional, e-mail de Saulo Bortolon no Google Sala de Aula ("Novo comunicado: \"Pessoal,\n\nna semana que vem (tanto na…\""), postado em 2026-11-27 16:52 BRT (19:52 UTC), coletado em 2026-11-28 -->
